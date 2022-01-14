@@ -37,7 +37,7 @@ from collections import defaultdict, namedtuple
 from collections import OrderedDict
 
 ## ML Algorithms 
-from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+# from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from sklearn.model_selection import *
 #import xgboost as xgb
 # import lightgbm as lgbm
@@ -81,6 +81,21 @@ colorlist = [
     
 ]
 # Paths 
+
+
+
+### Plotly 
+# Remove 'jupyter_client.kernelspec.KernelSpecManager' from jupyterlab config (~/.jupyter.jupyter_notebook_config.py)
+# #!/bin/bash
+# conda install "ipywidgets=7.5" --yes
+# export NODE_OPTIONS=--max-old-space-size=4096
+# jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.1 --no-build
+# jupyter labextension install jupyterlab-plotly@4.6.0 --no-build
+# jupyter labextension install plotlywidget@4.6.0 --no-build
+# jupyter labextension install jupyterlab-chart-editor --no-build
+# jupyter lab build
+# unset NODE_OPTIONS
+
 
 
 class Credentials(metaclass=ABCMeta):
