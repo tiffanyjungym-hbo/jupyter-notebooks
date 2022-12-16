@@ -144,6 +144,20 @@ class SnowflakeConnector(BaseConnector):
 ## share variables across notebooks 
 # %store
 
+def get_simple_plot(df_plt, var, grpby, text, title=''):
+    if title=='':
+        title = grpby
+    df_plt[grpby] = df_plt[grpby].astype(str)
+    fig = px.line(df_plt,
+                  x='window', 
+                  y=var, 
+                  title=title,
+                  color=grpby, 
+                  hover_data=text,
+                  width=800, height=400)
+    fig.show()
+    return 
+
 def get_plot(dflist, varlist, labellist=None,  ## Old
               title=None, config={}, x_var='order_date', mode='lines'):
     """ 
