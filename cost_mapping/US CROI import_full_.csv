@@ -1,0 +1,1209 @@
+,Cost_ID,TITLE_ID,TITLE,SEASON_LEVEL,SEASON_NUMBER,SEASON_FANOUT,MAPPING_TYPE,SOURCE_TITLE_NAME,CONTENT_TYPE,STUDIO,STATUS,AVAIL,REMOVAL_DATE,PROJECT_ID,KIDS_FAMILY,HUB,AIR_YEAR,MAX_SERIES_ID,MAX_MAPPING_TYPE,LOAD_TIMESTAMP,MAPPING_TYPE_TEMP,Assigned Person,search_title
+12,HBO-OP-001046,,,,,,,Slave Play,Documentary Feature Original,,Committed,,,WCF-10020343,No,HBO OP,2024,,,11/3/23,0,Colin,Slave Play
+19,MAX-AQ-001676,,,,,,,Smash! S1,Kids Content Acquired,SMASH ANIMATION LL,Committed,1/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Colin,Smash!
+20,MAX-AQ-001677,,,,,,,Smash! S2,Kids Content Acquired,SMASH ANIMATION LL,Committed,4/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Colin,Smash!
+35,MAX-AQ-001678,,,,,,,Smash! S3,Kids Content Acquired,SMASH ANIMATION LL,Committed,7/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Colin,Smash!
+37,MAX-AQ-001679,,,,,,,Smash! S4,Kids Content Acquired,SMASH ANIMATION LL,Committed,10/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Colin,Smash!
+50,MAX-AQ-007191,,,,,,,Sole Survivor,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Colin,Sole Survivor
+67,MAX-OP-000980,,,,,,,Sons of Ecstasy,Documentary Feature Original,ID,Committed,,,DTC1417,No,Max OP,2024,,,11/3/23,0,Colin,Sons of Ecstasy
+70,HBO-OP-001162,,,,,,,Sopranos Doc,Documentary Feature Original,,Committed,,,Sopranos Doc,No,HBO OP,2026,,,11/3/23,0,Colin,Sopranos Doc
+181,MAX-AQ-007195,,,,,,,Soundtracks,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Colin,Soundtracks
+248,HBO-OP-000473,,,,,,,Steve Way Special,Special Original,,Uncommitted,,,WCF-10023385,No,HBO OP,,,,11/3/23,0,Colin,Steve Way Special
+277,HBO-OP-000460,,,,,,,Steven Van Zandt: Disciple,Documentary Feature Original,,Committed,,,WCF-10023284,No,HBO OP,2024,,,11/3/23,0,Colin,Steven Van
+282,MAX-OP-000037,,,,,,,Storytime All-Stars: Don't Let the Pigeon Sing on Broadway! (2020),Kids Content Original,DTC,Committed,,,DTC1092,Yes,Max OP,2020,,,11/3/23,0,Colin,Storytime All-Stars
+287,MAX-AQ-005743,,,,,,,Stupid Pet Tricks S1,Comedy Series Acquired,TBS,Committed,5/8/24,,,No,Max Acquired,2024,,,11/3/23,0,Colin,Stupid Pet Tricks
+292,MAX-OP-000065,,,,,,,Super Intelligence,Movies Original,NEW LINE CINEMA,Committed,,,DTC1103,No,Max OP,2020,,,11/3/23,0,Colin,Super Intelligence
+299,MAX-AQ-007199,,,,,,,"Super Reviewers: Rate, Review, Repeat",Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Colin,Super Reviewers:
+314,HBO-OP-000877,,,,,,,Superbug,Documentary Feature Original,,Committed,,,WCF-10020704,No,HBO OP,2026,,,11/3/23,0,Colin,Superbug
+315,HBO-OP-001157,,,,,,,Synanon,Documentary Series Original,,Committed,,,Syanon,No,HBO OP,2024,,,11/3/23,0,Colin,Synanon
+320,HBO-OP-001101,,,,,,,Syracuse Project,Documentary Feature Original,,Uncommitted,,,WCF-10024316,No,HBO OP,2026,,,11/3/23,0,Colin,Syracuse Project
+339,Do not use 435,,,,,,,TALWARS (EPS 1 - 4),Movies Acquired,INTERCOMPANY,Committed,11/1/17,,,,HBO Acquired,2017,,,11/3/23,0,Colin,TALWARS
+387,Do not use 1718,,,,,,,THANK YOU FOR SMOKING,Movies Acquired,FOX,Committed,8/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Colin,THANK YOU
+388,Do not use 3198,,,,,,,THE BAD BATCH,Movies Acquired,NEON,Committed,10/1/27,,,,HBO Acquired,2027,,,11/3/23,0,Colin,THE BAD BATCH
+399,Do not use 1608,,,,,,,THE BALLAD OF LEFTY BROWN,Movies Acquired,A24,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Colin,THE BALLAD
+400,Do not use 5773,,,,,,,THE BEGUILED,Movies Acquired,UNI,Committed,6/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Colin,THE BEGUILED
+403,Do not use 3003,,,,,,,THE BIG BOSS,Movies Acquired,MIRAMAX,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Colin,THE BIG BOSS
+419,Do not use 3183,,,,,,,THE BIGGEST LITTLE FARM,Movies Acquired,NEON,Committed,9/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Colin,THE BIGGEST
+455,Do not use 3046,,,,,,,THE CROW: SALVATION,Movies Acquired,MIRAMAX,Committed,3/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Colin,THE CROW 
+518,Do not use 847,,,,,,,THE FANTASTIC FOUR,Movies Acquired,3RD-PARTY,Committed,11/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Colin,THE FANTASTIC FOUR
+525,Do not use 2429,,,,,,,THE FORGER,Movies Acquired,LIONS GATE,Committed,3/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Colin,THE FORGER
+540,Do not use 3478,,,,,,,THE GHOST AND THE DARKNESS,Movies Acquired,PARAMOUNT,Committed,3/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Colin,THE GHOST
+557,Do not use 2486,,,,,,,THE GLASS CASTLE,Movies Acquired,LIONS GATE,Committed,7/1/27,,,,HBO Acquired,2027,,,11/3/23,0,Colin,THE GLASS CASTLE
+599,Do not use 1676,,,,,,,THE HUSTLER,Movies Acquired,FOX,Committed,12/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Colin,THE HUSTLER
+607,Do not use 5258,,,,,,,THE JERK,Movies Acquired,UNI,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Colin,THE JERK
+644,Do not use 1602,,,,,,,THE LAST BLACK MAN IN SAN FRANCISCO,Movies Acquired,A24,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Colin,THE LAST
+650,Do not use 1597,,,,,,,THE LOVERS,Movies Acquired,A24,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Colin,THE LOVERS
+651,Do not use 1645,,,,,,,THE MAN WHO INVENTED CHRISTMAS,Movies Acquired,BLEECKER,Committed,6/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Colin,THE MAN
+656,Do not use 1687,,,,,,,THE OBJECT OF MY AFFECTION,Movies Acquired,FOX,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Colin,THE OBJECT
+665,Do not use 2583,,,,,,,THE PEANUT BUTTER FALCON,Movies Acquired,LIONS GATE,Committed,8/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Colin,THE PEANUT
+683,Do not use 2467,,,,,,,THE PERFECT MATCH,Movies Acquired,LIONS GATE,Committed,2/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Colin,THE PERFECT MATCH
+728,Do not use 2925,,,,,,,THE RAGE: CARRIE 2,Movies Acquired,MGM,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Colin,THE RAGE
+730,Do not use 4080,,,,,,,"""""A.X.L""""""""""""",Movies Acquired,OPEN ROAD,Committed,,,,,HBO Acquired,,,,11/3/23,0,Harshitha,A.X.L 
+736,Do not use 664,,,,,,,"THAL�A """"""""VIVA TOUR"""""""" (EN VIVO)""""",Movies Acquired,3RD PARTY,Committed,9/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,VIVA TOUR
+771,Do not use 534,,,,,,,1000 FANGS [MIL COLMILLOS] S1 (EPS 1-8) HBO MAX P&L | HBO CASH,Movies Acquired,INTERCOMPANY,Committed,11/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,1000 FANGS
+779,MAX-AQ-003892,,,,,,,101 Places to Get F Up,Unscripted Acquired,WB,Committed,10/2/22,,,No,Max Acquired,2022,,,11/3/23,0,Harshitha,101 Places
+780,Do not use 773,,,,,,,127 HOURS,Movies Acquired,3RD-PARTY,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,127 HOURS
+814,HBO-OP-000726,,,,,,,1712 N Crescent Heights,Documentary Feature Original,,Committed,,,WCF-10019827,No,HBO OP,,,,11/3/23,0,Harshitha,1712 N
+815,Do not use 375,,,,,,,1W Discounting / Interest Adj -I/C,Movies Acquired,WB,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Harshitha,1W Discounting
+817,Do not use 2425,,,,,,,3 FROM HELL,Movies Acquired,LIONS GATE,Committed,3/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,3 FROM HELL
+825,MAX-AQ-007118,,,,,,,58 Hours: The Baby Jessica Story,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,The Baby Jessica Story
+826,HBO-OP-001141,,,,,,,A Dark Room In The Glitterball City,Documentary Series Original,,Committed,,,WCF-10023910,No,HBO OP,2026,,,11/3/23,0,Harshitha,A Dark
+856,Do not use 3654,,,,,,,A FANTASTIC FEAR OF EVERYTHING,Movies Acquired,SHOUT!,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,A FANTASTIC
+873,HBO-OP-000686,,,,,,,A Foreign Country S1,Drama Series Original,,Uncommitted,,,A Foreign Country S1,No,HBO OP,,,,11/3/23,0,Harshitha,A Foreign Country
+874,Do not use 2054,,,,,,,A GOOD WOMAN,Movies Acquired,LIONS GATE,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,A GOOD WOMAN
+875,Do not use 4098,,,,,,,A HAUNTED HOUSE,Movies Acquired,OPEN ROAD,Committed,5/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,A HAUNTED HOUSE
+884,HBO-OP-000538,,,,,,,A Knight of the Seven Kingdoms S1,Drama Series Original,,Committed,,,Dunk and Egg S1,No,HBO OP,2025,,,11/3/23,0,Harshitha,A Knight
+899,HBO-OP-000585,,,,,,,A Knight of the Seven Kingdoms S2 / TBD,Drama Series Original,,Uncommitted,,,Dunk and Egg S2,No,HBO OP,2026,,,11/3/23,0,Harshitha,A Knight
+900,HBO-OP-000641-P,,,,,,,A Lot Pilot,"Development, Overall Deals, Other",,Uncommitted,,,WCF-10014685,No,HBO OP,,,,11/3/23,0,Harshitha,A Lot Pilot
+902,Do not use 3164,,,,,,,A RAGE IN HARLEM,Movies Acquired,MIRAMAX,Committed,5/1/29,,,,HBO Acquired,2029,,,11/3/23,0,Harshitha,A RAGE
+903,Do not use 5058,,,,,,,A TINY AUDIENCE: GIANMARCO,Movies Acquired,3RD PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,A TINY
+987,Do not use 5062,,,,,,,A TINY AUDIENCE: KANY GARCIA,Movies Acquired,3RD PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,A TINY
+1007,Do not use 599,,,,,,,A TINY AUDIENCE: LAUREN JAUREQUI,Movies Acquired,3RD PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,A TINY
+1030,Do not use 600,,,,,,,A TINY AUDIENCE: PEDRO CAPO,Movies Acquired,3RD PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,A TINY
+1037,HBO-OP-001238,,,,,,,A-Rod Project,Documentary Feature Original,,Committed,,,A-Rod Project,No,HBO OP,2026,,,11/3/23,0,Harshitha,A-Rod Project
+1108,Do not use 867,,,,,,,ABSOLUTELY FABULOUS: THE MOVIE,Movies Acquired,3RD-PARTY,Committed,10/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,ABSOLUTELY FABULOUS:
+1195,MAX-AQ-000183,,,,,,,"ADVENTURES OF TOM SAWYER, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,6/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Harshitha,ADVENTURES OF
+1200,Do not use 526,,,,,,,ALICE TELEFILM (3 EPS),Movies Acquired,INTERCOMPANY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Harshitha,ALICE TELEFILM
+1236,Do not use 885,,,,,,,ALIEN: COVENANT,Movies Acquired,3RD-PARTY,Committed,8/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,ALIEN 
+1245,Do not use 1001,,,,,,,ALL EYEZ ON ME,Movies Acquired,3RD-PARTY,Committed,10/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,ALL EYEZ
+1257,Do not use 1127,,,,,,,ALMOST CHRISTMAS,Movies Acquired,3RD-PARTY,Committed,3/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,ALMOST CHRISTMAS
+1281,Do not use 2380,,,,,,,ALTITUDE,Movies Acquired,LIONS GATE,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,ALTITUDE
+1287,Do not use 387,,,,,,,AMERICAN NIGHTMARES,Movies Acquired,3RD PARTY,Committed,10/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Harshitha,AMERICAN NIGHTMARES
+1288,Do not use 1662,,,,,,,AMERICAN RENEGADES,Movies Acquired,EUROPA,Committed,4/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,AMERICAN RENEGADES
+1320,Do not use 3651,,,,,,,AMERICAS SWEETHEARTS,Movies Acquired,REVOLUTION,Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,AMERICAS SWEETHEARTS
+1321,Do not use 3209,,,,,,,ANGELAS ASHES,Movies Acquired,PARAMOUNT,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,ANGELAS ASHES
+1372,Do not use 4231,,,,,,,ANIARA,Movies Acquired,MAGNOLIA,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,ANIARA
+1403,Do not use 2003,,,,,,,ANNA AND THE KING,Movies Acquired,FOX,Committed,4/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Harshitha,ANNA AND
+1404,Do not use 1412,,,,,,,ANNAPOLIS,Movies Acquired,DISNEY,Committed,10/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Harshitha,ANNAPOLIS
+1422,Do not use 1354,,,,,,,AQUAMAN AND THE LOST KINGDOM,Movies Acquired,INTERCOMPANY,Committed,5/8/31,,,,HBO Acquired,2031,,,11/3/23,0,Harshitha,AQUAMAN AND
+1443,Do not use 1135,,,,,,,ATOMIC BLONDE,Movies Acquired,3RD-PARTY,Committed,12/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,ATOMIC BLONDE
+1496,HBO-OP-000721,,,,,,,ATTN Project,Special Original,,Uncommitted,,,WCF-10019639,No,HBO OP,,,,11/3/23,0,Harshitha,ATTN Project
+1497,Do not use 954,,,,,,,AVATAR - EXTENSION - $225K,Movies Acquired,3RD-PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Harshitha,AVATAR 
+1507,Do not use 2059,,,,,,,AWAY FROM HER,Movies Acquired,LIONS GATE,Committed,5/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,AWAY FROM HER
+1508,MAX-AQ-003070,,,,,,,Additional Library Fee,Kids Content Acquired,SESAME WORKSHOP,Committed,1/1/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Harshitha,Additional Library Fee
+1509,MAX-OP-000005,,,,,,,Adventure Time Distant Lands Order Special 1,Kids Content Original,CNS,Committed,,,DTC1098,Yes,Max OP,2020,,,11/3/23,0,Harshitha,Adventure Time  Distant Lands Order
+1510,MAX-OP-000052,,,,,,,Adventure Time Distant Lands Order Special 2,Kids Content Original,CNS,Committed,,,DTC1099,Yes,Max OP,2020,,,11/3/23,0,Harshitha,Adventure Time  Distant Lands Order
+1511,HBO-OP-001245,,,,,,,Alex Cooper Series,Unscripted Original,,Uncommitted,,,Real Time With Bill Maher S23,No,HBO OP,2024,,,11/3/23,0,Harshitha,Alex Cooper Series
+1520,HBO-OP-001229,,,,,,,Alex Edelman,Unscripted Original,,Committed,,,Alex Edelman,No,HBO OP,2024,,,11/3/23,0,Harshitha,Alex Edelman
+1596,HBO-OP-000432,,,,,,,Ali Sadiq Special,Special Original,,Uncommitted,,,WCF-10024117,No,HBO OP,,,,11/3/23,0,Harshitha,Ali Sadiq Special
+1597,HBO-OP-001052,,,,,,,All Gas No Breaks,Special Original,,Committed,,,,No,HBO OP,2022,,,11/3/23,0,Harshitha,All Gas No Breaks
+1598,MAX-AQ-004088,,,,,,,All Rise Season 1-2,Drama Series Acquired,WB,Committed,12/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Harshitha,All Rise
+1599,MAX-OP-000253,,,,,,,Am I OK?,Movies Original,WBP,Committed,,,DTC1348,No,Max OP,2024,,,11/3/23,0,Harshitha,Am I OK?
+1857,MAX-AQ-005238,,,,,,,"America, America",Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Harshitha,"America, America"
+14831,MAX-OP-000999,,,,,,,[as] Title Moved to Acquired 1,Movies Acquired,,Committed,,,DTC1312,No,Max OP,,,,11/3/23,0,Zari,[as] Title
+2076,HBO-OP-000826,,,,,,,American Predator,Documentary Feature Original,,Committed,,,WCF-10020782,No,HBO OP,,,,11/3/23,0,Harshitha,American Predator
+2077,MAX-OP-000986,,,,,,,Amort Refinement,Kids Content Original,,Committed,,,AMREF,Yes,Max OP,2023,,,11/3/23,0,Harshitha,Amort Refinement
+2159,HBO-OP-000727,,,,,,,Amy Schatz Misc,Documentary Feature Original,,Committed,,,WCF- 10023317,No,HBO OP,,,,11/3/23,0,Harshitha,Amy Schatz Misc
+2217,HBO-OP-000828,,,,,,,Amy Schatz Project 2021,Documentary Feature Original,,Committed,,,WCF-10021465,No,HBO OP,,,,11/3/23,1,Harshitha,Amy Schatz
+2218,MAX-AQ-002049,,,,,,,Angel of Darkness,Drama Series Acquired,TNT,Committed,1/9/21,,,No,Max Acquired,2021,,,11/3/23,0,Harshitha,Angel of Darkness
+2219,HBO-OP-001037,,,,,,,Apostle,Documentary Series Original,,Committed,,,WCF-10023321,No,HBO OP,2022,,,11/3/23,0,Harshitha,Apostle
+2254,HBO-OP-001158,,,,,,,April and Amanda,Documentary Feature Original,,Committed,,,WCF-10024281,No,HBO OP,2025,,,11/3/23,0,Harshitha,April and Amanda
+2255,MAX-OP-000874,,,,,,,AquaGirl S1 / TBD,Kids Content Original,WB,Uncommitted,,,AQUAGS1,Yes,Max OP,2025,,,11/3/23,0,Harshitha,AquaGirl
+2323,MAX-OP-000933,,,,,,,AquaGirl S1B,Kids Content Original,WB,Uncommitted,,,AQUAGS1B,Yes,Max OP,2026,,,11/3/23,0,Harshitha,AquaGirl
+2324,HBO-OP-000942,,,,,,,Area Weatherman Charged With Murder S1,Drama Series Original,,Uncommitted,,,Area Weatherman Charged With Murder S1,No,HBO OP,2025,,,11/3/23,0,Harshitha,Area Weatherman
+2325,MAX-OP-000998,,,,,,,Arkham Asylum S1 / Booster Gold S1,Drama Series Original,WBTV,Uncommitted,,,DTC1440,No,Max OP,2026,,,11/3/23,0,Harshitha,Arkham Asylum
+2326,HBO-AQ-005567,,,,,,,Arliss,Comedy Series Acquired,,Committed,,,WCF-10021148,No,HBO Acquired,2020,,,11/3/23,0,Harshitha,Arliss
+2327,MAX-AQ-007823,,,,,,,Aya,Movies Acquired,G KIDS,Committed,5/27/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,Aya
+2328,BBC,,,,,,,BBC,D+,DISCCOVERY,Committed,,,,,Discovery+,,,,11/3/23,0,Harshitha,BBC
+14832,MAX-OP-001000,,,,,,,[as] Title Moved to Acquired 2,Movies Acquired,,Committed,,,DTC1312,No,Max OP,,,,11/3/23,0,Zari,[as] Title
+2362,Do not use 1448,,,,,,,BEACHES,Movies Acquired,DISNEY,Committed,7/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,BEACHES
+2363,Do not use 3655,,,,,,,BEN,Movies Acquired,SHOUT!,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,BEN
+2386,Do not use 4394,,,,,,,BERRY GORDYS THE LAST DRAGON,Movies Acquired,SONY,Committed,4/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Harshitha,BERRY GORDYS
+2387,Do not use 3489,,,,,,,BETTER OFF DEAD...,Movies Acquired,PARAMOUNT,Committed,1/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,BETTER OFF DEAD 
+2388,Do not use 2426,,,,,,,BIG EYES,Movies Acquired,LIONS GATE,Committed,3/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha,BIG EYES
+2389,Do not use 4287,,,,,,,BIG STAR: NOTHING CAN HURT ME,Movies Acquired,MAGNOLIA,Committed,7/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Harshitha, NOTHING CAN HURT ME
+2391,Do not use 1057,,,,,,,BIRTH OF THE DRAGON,Movies Acquired,3RD-PARTY,Committed,8/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Harshitha,BIRTH OF THE DRAGON
+2454,803837,,,,,,,BLOCKERS,Movies Acquired,UNIVERSAL,Committed,12/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Harshitha,BLOCKERS
+2464,Do not use 4374,,,,,,,BODY AT BRIGHTON ROCK,Movies Acquired,MAGNOLIA,Committed,7/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Harshitha,BODY AT
+2484,Do not use 4409,,,,,,,BOOTY CALL,Movies Acquired,SONY,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,BOOTY CALL
+2511,Do not use 2964,,,,,,,BRADDOCK: MISSING IN ACTION III,Movies Acquired,MGM,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,MISSING IN ACTION 
+2513,Do not use 853,,,,,,,BROOKLYN,Movies Acquired,3RD-PARTY,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Harshitha,BROOKLYN
+2551,Do not use 1004,,,,,,,UNCLE DREW,Movies Acquired,3RD-PARTY,Committed,11/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Harshitha,UNCLE DREW
+2555,Do not use 5944,,,,,,,UNDERWATER - 0642813_12-114,Movies Acquired,FOX,Committed,11/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Harshitha,UNDERWATER 
+2556,MAX-AQ-004262,,,,,,,UNDERWORLD (2003),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,5/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Harshitha,UNDERWORLD
+2557,Do not use 1967,,,,,,,UNFAITHFULLY YOURS,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Harshitha,UNFAITHFULLY YOURS
+2558,Do not use 694,,,,,,,UNO PARA TODOS (AKA ONE FOR ALL),Movies Acquired,3RD PARTY,Committed,7/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,UNO PARA
+2560,Do not use 1651,,,,,,,UNSANE,Movies Acquired,BLEECKER,Committed,,,,,HBO Acquired,,,,11/3/23,0,Harshitha,UNSANE
+2562,Do not use 5929,,,,,,,UNTITLED BLADE RUNNER SEQUEL,Movies Acquired,WB,Committed,2/26/21,,,,HBO Acquired,2021,,,11/3/23,0,Harshitha,UNTITLED BLADE
+2563,MAX-AQ-000164,,,,,,,UP IN SMOKE,Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Harshitha,UP IN SMOKE
+2569,Do not use 5842,,,,,,,US - 0636835_12-148,Movies Acquired,UNI,Committed,11/23/19,,,,HBO Acquired,2019,,,11/3/23,0,Harshitha,US 
+2577,HBO-OP-001193,,,,,,,US Soccer 2024,Documentary Feature Original,,Uncommitted,,,WCF-10023388,No,HBO OP,,,,11/3/23,0,Harshitha,US Soccer 2024
+2578,HBO-OP-001197,,,,,,,US Soccer 2025,Documentary Feature Original,,Committed,,,WCF-10024116,No,HBO OP,2025,,,11/3/23,0,Harshitha,US Soccer 2025
+2583,HBO-OP-001198,,,,,,,US Soccer 2026,Documentary Feature Original,,Committed,,,WCF-10024116,No,HBO OP,2026,,,11/3/23,0,Harshitha,US Soccer 2026
+2584,MAX-AQ-007418,,,,,,,Un Peque�o Corte -  HBO_HBOMax,Movies Acquired,PEQUE�O PICTURES LLC,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,Corte
+2585,MAX-OP-000351,,,,,,,Unadopted,Documentary Series Original,VOX MEDIA,Committed,,,DTC1289,No,Max OP,2026,,,11/3/23,0,Harshitha,Unadopted
+2586,HBO-OP-000527,,,,,,,Unallocated Pay TV 1st Run Residuals,"Development, Overall Deals, Other",,Uncommitted,,,WCF-Unallocated Pay TV 1st Run Residuals,No,HBO OP,2024,,,11/3/23,0,Harshitha,Unallocated Pay
+2587,HBO-OP-001235,,,,,,,Unallocated SOP_NON-SOP,"Development, Overall Deals, Other",,Uncommitted,,,WCF-HBO Series Contingency,No,HBO OP,,,,11/3/23,0,Harshitha,Unallocated SOP_NON-SOP
+2605,HBO-OP-000804,,,,,,,Unallocated/Committed Term Deals,"Development, Overall Deals, Other",,Committed,,,WCF-Unallocated/Committed Term Deals,No,HBO OP,,,,11/3/23,0,Harshitha,Unallocated/Committed Term Deals
+2607,HBO-OP-000646,,,,,,,Unallocated/Uncommitted Term Deals,"Development, Overall Deals, Other",,Committed,,,Unallocated/Uncommitted Term Deals,No,HBO OP,,,,11/3/23,0,Harshitha,Unallocated/Uncommitted Term Deals
+2610,MAX-AQ-005867,,,,,,,Under the Stars - HBOMax,International Content Original,HBO INT. - SERIES,Committed,12/4/22,,,No,Max Acquired,2022,,,11/3/23,0,Harshitha,Under the
+2611,MAX-AQ-005673,,,,,,,Unicorn - S1,Adult Animation Acquired,AS,Committed,5/5/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,Unicorn -
+2612,MAX-AQ-007234,,,,,,,United Shades Of America S1,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2613,MAX-AQ-007235,,,,,,,United Shades Of America S2,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2614,MAX-AQ-007236,,,,,,,United Shades Of America S3,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2618,MAX-AQ-007237,,,,,,,United Shades Of America S4,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2639,MAX-AQ-007238,,,,,,,United Shades Of America S5,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2657,MAX-AQ-007239,,,,,,,United Shades Of America S6,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2830,MAX-AQ-007240,,,,,,,United Shades of America S7,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,United Shades
+2831,Do not use 383,,,,,,,Universal $72MM Inducement ('18 to '22),Movies Acquired,3RD-PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Harshitha,Universal $72MM
+2835,HBO-OP-000695,,,,,,,Unruly S1,Drama Series Original,,Uncommitted,,,Unruly S1,No,HBO OP,,,,11/3/23,0,Harshitha,Unruly
+2836,MAX-AQ-006784,,,,,,,"Unsinkable Molly Brown, The",Movies Acquired,WB,Committed,3/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Harshitha,Unsinkable Molly Brown
+2838,HBO-OP-000886,,,,,,,Unt Sam Pollard Projects,Documentary Feature Original,,Committed,,,WCF-10023144,No,HBO OP,,,,11/3/23,0,Harshitha,Unt Sam
+2849,MAX-OP-000995,,,,,,,Untitled Holiday Movie 1 ('25),Movies Original,WBP,Uncommitted,,,UNTHOL241,No,Max OP,2025,,,11/3/23,0,Harshitha,Untitled Holiday
+2850,MAX-OP-000742,,,,,,,Untitled Holiday Movie 1 (24'),Movies Original,WBP,Uncommitted,,,UNTHOL231,No,Max OP,2024,,,11/3/23,0,Harshitha,Untitled Holiday
+2875,MAX-OP-000743,,,,,,,Untitled Holiday Movie 2 ('24),Movies Original,WBP,Uncommitted,,,UNTHOL232,No,Max OP,2024,,,11/3/23,0,Harshitha,Untitled Holiday
+2885,MAX-OP-000996,,,,,,,Untitled Holiday Movie 2 ('25),Movies Original,WBP,Uncommitted,,,UNTHOL242,No,Max OP,2025,,,11/3/23,0,Harshitha,Untitled Holiday
+2886,MAX-OP-000744,,,,,,,Untitled Holiday Movie 3 ('24),Movies Original,WBP,Uncommitted,,,UNTHOL233,No,Max OP,2024,,,11/3/23,0,Harshitha,Untitled Holiday
+2887,MAX-OP-000997,,,,,,,Untitled Holiday Movie 3 ('25),Movies Original,WBP,Uncommitted,,,UNTHOL243,No,Max OP,2025,,,11/3/23,0,Harshitha,Untitled Holiday
+14833,MAX-OP-001001,,,,,,,[as] Title Moved to Acquired 3,Movies Acquired,,Committed,,,DTC1312,No,Max OP,,,,11/3/23,0,Zari,[as] Title
+14834,MAX-OP-001002,,,,,,,[as] Title Moved to Acquired 4,Movies Acquired,,Committed,,,DTC1312,No,Max OP,,,,11/3/23,0,Zari,[as] Title
+14835,MAX-OP-001003,,,,,,,[as] Title Moved to Acquired 5,Movies Acquired,,Committed,,,DTC1312,No,Max OP,,,,11/3/23,0,Zari,[as] Title
+8597,MAX-OP-000747,,,,,,,Barney S1A,Kids Content Original,TP,Committed,,,HKF0049,Yes,Max OP,2024,,,11/3/23,0,Michelle,Barney A
+8598,MAX-OP-000877,,,,,,,Barney S1B,Kids Content Original,MATTEL,Committed,,,BARNEYS1B,Yes,Max OP,2025,,,11/3/23,0,Michelle,Barney B
+8599,MAX-OP-000885,,,,,,,Barney S1C,Kids Content Original,TP,Committed,,,BARNEYS1C,Yes,Max OP,2025,,,11/3/23,0,Michelle,Barney C
+8600,MAX-OP-000892,,,,,,,Barney S1D,Kids Content Original,TP,Committed,,,BARNEYS1D,Yes,Max OP,2026,,,11/3/23,0,Michelle,Barney D
+8601,MAX-AQ-005744,,,,,,,Bear Grylls S1,Comedy Series Acquired,TBS,Committed,8/12/23,,,No,Max Acquired,2023,,,11/3/23,0,Michelle,Bear Grylls
+8602,MAX-OP-000967,,,,,,,Beat the Meat,Unscripted Original,OWN,Committed,,,DTC1412,No,Max OP,2024,,,11/3/23,0,Michelle,Beat the Meat
+1915,MAX-AQ-000051,GYEZmpQPTw8M8sgEAAAAQ,,0,,,title,"Benchwarmers, The (Syndi)",Movies Acquired,REVOLUTION STUDIOS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Michelle,Benchwarmers
+8604,HBO-OP-001243,,,,,,,Bill Maher Stand Up Special,Unscripted Original,,Committed,,,WCF-10023243,No,HBO OP,2024,,,11/3/23,0,Michelle,Bill Maher
+8605,HBO-OP-000670-P,,,,,,,Bloodmoon Pilot,Drama Series Original,,Committed,,,WCF-10017788,No,HBO OP,2019,,,11/3/23,0,Michelle,Bloodmoon Pilot
+8608,HBO-OP-000670,,,,,,,Bloodmoon S1,Drama Series Original,,Committed,,,WCF-10020636,No,HBO OP,,,,11/3/23,0,Michelle,Bloodmoon
+8609,MAX-OP-000471,,,,,,,Brandy Hell-Ville,Documentary Feature Original,LIGHTBOX,Committed,,,DTC1342,No,Max OP,2024,,,11/3/23,0,Michelle,Brandy Hell-Ville
+8610,MAX-OP-000422,,,,,,,Breath of Fire,Documentary Series Original,CONDE NAST ENTERTAINMENT,Committed,,,DTC1310,No,Max OP,2026,,,11/3/23,0,Michelle,Breath of Fire
+8584,Do not use 3691,,,,,,,"BRUCE LEE - HIS LAST DAYS, HIS LAST NIGHTS",Movies Acquired,SHOUT!,Committed,12/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Michelle,BRUCE LEE
+8588,Do not use 3692,,,,,,,BRUCE LEE - THE MAN/THE MYTH,Movies Acquired,SHOUT!,Committed,12/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Michelle,BRUCE LEE
+8595,Do not use 3000,,,,,,,"BRUCE LEE, THE LEGEND",Movies Acquired,MIRAMAX,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Michelle,BRUCE LEE LEGEND
+8596,Do not use 2573,,,,,,,BULLET HEAD,Movies Acquired,LIONS GATE,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Michelle,BULLET HEAD
+8611,Do not use 4521,,,,,,,Business Affairs,"Development, Overall Deals, Other",OTHER,Committed,,,,,HBO Acquired,,,,11/3/23,0,Michelle,Business Affairs
+8631,Do not use 5949,,,,,,,Business Affairs - ACQ,"Development, Overall Deals, Other",3RD-PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Michelle,Business Affairs
+8645,Do not use 2398,,,,,,,CANDYMAN 3: DAY OF THE DEAD,Movies Acquired,LIONS GATE,Committed,7/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Michelle,CANDYMAN 
+8648,Do not use 2972,,,,,,,CANDYMAN: FAREWELL TO THE FLESH,Movies Acquired,MGM,Committed,9/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Michelle,FAREWELL
+8702,MAX-AQ-006018,,,,,,,Captain Blood (1935),Movies Acquired,WB,Committed,1/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Michelle,Captain Blood
+8704,MAX-AQ-002064,,,,,,,"Carbonaro Effect, The - Order #2",Unscripted Acquired,TRUTV,Committed,9/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Carbonaro Effect
+8711,MAX-AQ-002063,,,,,,,"Carbonaro Effect, The - Season 1",Unscripted Acquired,TRUTV,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Carbonaro Effect
+8712,MAX-AQ-002065,,,,,,,"Carbonaro Effect, The - Season 2-5",Unscripted Acquired,TRUTV,Committed,12/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Carbonaro Effect
+8713,MAX-OP-000857,,,,,,,"Care Bear Special #1, 2 (Rainbow Stone, Ginormous)",Kids Content Acquired,"THOSE CHARACTERS FROM CLEVELAND, INC.",Committed,,,CAREBEAR1,Yes,Max OP,2024,,,11/3/23,0,Michelle,Care Bear
+8714,MAX-OP-000950,,,,,,,"Care Bear Special #3, 4 (Thousand Wishes, Bad Crowd)",Kids Content Acquired,"THOSE CHARACTERS FROM CLEVELAND, INC.",Committed,,,CAREBEAR2,Yes,Max OP,2024,,,11/3/23,0,Michelle,Care Bear
+8715,MAX-OP-000610,,,,,,,"Care Bear Special #5, 6 (Snickering Ghost, Heart Games)",Kids Content Acquired,TP,Committed,,,CAREBEAR3,Yes,Max OP,2024,,,11/3/23,0,Michelle,Care Bear
+8716,MAX-AQ-006537,,,,,,,Care Bears: Unlock the Magic - 2022 Specials,Kids Content Acquired,THOSE CHAREACTERS FROM CLEVELAND INC.,Committed,1/1/24,,,Yes,Max Acquired,2024,,,11/3/23,0,Michelle,Care Bears:
+8717,MAX-AQ-006538,,,,,,,Care Bears:Unlock Magic (1-52)/Shorts-Co-term Ext.,Kids Content Acquired,THOSE CHAREACTERS FROM CLEVELAND INC.,Committed,2/1/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Michelle,Care Bears:Unlock
+8718,MAX-OP-000184,,,,,,,Carole King and James Taylor Just Call Out My Name (CNN),Documentary Feature Original,CNN,Committed,,,DTC1297,No,Max OP,2022,,,11/3/23,0,Michelle,Carole King
+8719,MAX-AQ-006024,,,,,,,Cat People (1942),Movies Acquired,WB,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Michelle,Cat People
+8721,MAX-AQ-006026,,,,,,,Cat's Eye,Movies Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Michelle,Cat's Eye
+8726,HBO-OP-000573,,,,,,,Celtics Project,Documentary Series Original,,Committed,,,SPT-10024540,No,HBO OP,2025,,,11/3/23,0,Michelle,Celtics Project
+8727,MAX-AQ-002179,,,,,,,Chad S1,Comedy Series Acquired,TBS,Committed,4/2/22,,,No,Max Acquired,2022,,,11/3/23,0,Michelle,Chad
+8728,MAX-AQ-000789,,,,,,,"Champ, The (1979)",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Michelle,Champ
+8730,MAX-AQ-005275,,,,,,,Charge of the Light Brigade (1936),Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Michelle,Charge of
+8733,HBO-OP-000835,,,,,,,Charles Stuart Murder,Documentary Series Original,,Committed,,,WCF-10023282,No,HBO OP,2023,,,11/3/23,0,Michelle,Charles Stuart Murder
+8734,MAX-OP-000983,,,,,,,Chasing Flavor with Carla Hall,Unscripted Original,FOOD,Committed,,,DTC1413,No,Max OP,2024,,,11/3/23,0,Michelle,Chasing Flavor
+8735,HBO-OP-000836,,,,,,,Chicago West Side,Documentary Feature Original,,Committed,,,WCF-10018931,No,HBO OP,,,,11/3/23,0,Michelle,Chicago West Side
+8649,Do not use 3132,,,,,,,CHILDREN OF THE CORN 666: ISAACS RETURN,Movies Acquired,MIRAMAX,Committed,1/1/23,,,,HBO Acquired,2023,0cfde899-2b89-463e-a6fb-6325a0f5b49b,manual,11/3/23,0,Michelle,CHILDREN OF
+8650,Do not use 3126,,,,,,,CHILDREN OF THE CORN II: THE FINAL SACRIFICE,Movies Acquired,MIRAMAX,Committed,1/1/23,,,,HBO Acquired,2023,d6d0126b-ed87-4e2e-877a-0a2e4ef7887c,manual,11/3/23,0,Michelle,CHILDREN OF
+8651,Do not use 3127,,,,,,,CHILDREN OF THE CORN III: URBAN HARVEST,Movies Acquired,MIRAMAX,Committed,1/1/23,,,,HBO Acquired,2023,dc9c935e-5bd4-4c84-a4f8-445f76633c88,manual,11/3/23,0,Michelle,CHILDREN OF
+8657,Do not use 3128,,,,,,,CHILDREN OF THE CORN THE GATHERING,Movies Acquired,MIRAMAX,Committed,1/1/23,,,,HBO Acquired,2023,8b161e86-fbce-497f-a8b9-026765b04ca9,manual,11/3/23,0,Michelle,CHILDREN OF
+8658,Do not use 3129,,,,,,,CHILDREN OF THE CORN V: FIELDS OF TERROR,Movies Acquired,MIRAMAX,Committed,1/1/23,,,,HBO Acquired,2023,66d806fd-238a-4283-a35a-b11ab6861cb8,manual,11/3/23,0,Michelle,CHILDREN OF
+8663,Do not use 3131,,,,,,,CHILDREN OF THE CORN VII: REVELATION,Movies Acquired,MIRAMAX,Committed,1/1/23,,,,HBO Acquired,2023,4d1ba324-839c-4f64-8c07-d30c3cfd28bf,manual,11/3/23,0,Michelle,CHILDREN OF
+8736,HBO-OP-001223,,,,,,,Chimps,Documentary Series Original,,Committed,,,WCF-10024826,No,HBO OP,2024,,,11/3/23,0,Michelle,Chimps
+2359,MAX-AQ-002255,GYJ6yKQdzzcLDwgEAAAKh,,,,,,"CITY OF LOST CHILDREN, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,6/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Michelle,CITY OF lost
+8664,Do not use 5024,,,,,,,CLASS,Movies Acquired,MGM,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Michelle,CLASS
+8666,MAX-AQ-007098,,,,,,,CNN Library - 2023,Documentary Series Acquired,CNN,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Michelle,CNN Library
+8667,MAX-AQ-007097,,,,,,,CNN Library - 2024+,Documentary Series Acquired,CNN,Uncommitted,1/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Michelle,CNN Library
+8668,MAX-AQ-007137,,,,,,,CNN Special Report: Assault on Democracy: Roots of Trumps Insurgency,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,efcd0acd-32cf-40a6-b8eb-cd1dd37686dc,manual,11/3/23,0,Michelle,CNN Special
+8669,MAX-AQ-007138,,,,,,,CNN Special Report: Rising Hate: Antisemitism in America,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,a5b0a19c-1426-49d2-be44-b55cbe7c5988,manual,11/3/23,0,Michelle,CNN Special
+8670,MAX-AQ-007139,,,,,,,CNN Special Report: The Will to Win: Ukraine at War,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,e4aac23a-582e-4872-960d-f32eb9fa2747,manual,11/3/23,0,Michelle,CNN Special
+8671,MAX-AQ-007140,,,,,,,CNN Special Report: Voices of Auschwitz,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,16445516-bc67-4eed-b834-bdd58dbf1cba,manual,11/3/23,0,Michelle,CNN Special
+8672,MAX-AQ-005836,,,,,,,CNN+ Library Content,Documentary Series Acquired,CNN,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Michelle,CNN+ Library Content
+8737,HBO-OP-000837,,,,,,,College Admissions Scandal,Documentary Feature Original,,Committed,,,WCF-10020523,No,HBO OP,,,,11/3/23,0,Michelle,College Admissions Scandal
+8738,MAX-AQ-005699,,,,,,,Common Side Effects (1/2 hrs) 101-110,Adult Animation Acquired,AS,Committed,10/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Michelle,Common Side
+8739,TBD-2,,,,,,,Companion (NL),Movies Acquired,WB,Committed,6/8/24,,,,HBO Acquired,2024,,,11/3/23,0,Michelle,Companion
+8740,MAX-OP-000844,,,,,,,Conan O'Brien Must Go,Unscripted Original,TEAM COCO,Committed,,,DTC1372,No,Max OP,2024,,,11/3/23,0,Michelle,Conan O'Brien
+8741,MAX-AQ-001482,,,,,,,Conan Travel Specials (ConanCo),Unscripted Acquired,CONANCO,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Conan Travel
+8742,MAX-AQ-001483,,,,,,,Conan Travel Specials (Netflix) (ConanCo),Unscripted Acquired,CONANCO,Committed,12/31/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Conan Travel
+8743,MAX-AQ-001485,,,,,,,Conan Travel Specials (Netflix) (TBS),Unscripted Acquired,CONAVERTICALS LLC,Committed,12/31/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Conan Travel
+8744,MAX-AQ-001484,,,,,,,Conan Travel Specials (TBS),Unscripted Acquired,CONAVERTICALS LLC,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Michelle,Conan Travel
+9030,MAX-AQ-002979,,,,,,,Conjuring 3 (First Window),Movies Acquired,WB,Committed,6/4/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Conjuring 3
+9048,MAX-AQ-002996,,,,,,,Conjuring 3 (Second Window),Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Conjuring 3
+9051,HBO-OP-001178,,,,,,,Consumerism Documentary,Documentary Feature Original,,Committed,,,WCF-10024411,No,HBO OP,2026,,,11/3/23,0,Viju,Consumerism Documentary
+9055,Do not use 381,,,,,,,Contingency - 3rd Party Placeholder,Movies Acquired,3RD-PARTY,Uncommitted,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,Contingency -
+9056,Do not use 379,,,,,,,Contingency - Intercompany Placeholder,Movies Acquired,WB,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,Contingency -
+9057,Do not use 376,,,,,,,Contingency - WB Day 46 Impact,Movies Acquired,WB,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,Contingency -
+9061,MAX-OP-000782,,,,,,,Cookie Monster's Bakesale (SS Special #1),Kids Content Original,SS,Committed,,,HKF0061,Yes,Max OP,2023,,,11/3/23,0,Viju,Cookie Monster's
+8677,Do not use 3559,,,,,,,COST OF A SOUL,Movies Acquired,RELATIVITY,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Michelle,COST OF
+9067,HBO-OP-000838,,,,,,,Country Doctor,Documentary Feature Original,,Committed,,,WCF-10020788,No,HBO OP,2025,,,11/3/23,0,Viju,Country Doctor
+9068,MAX-AQ-005284,,,,,,,"Courtship of Andy Hardy, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Courtship of
+8678,MAX-OP-000667,,,,,,,COVID,"Development, Overall Deals, Other",,Uncommitted,,,COVPRO,No,Max OP,,,,11/3/23,0,Michelle,COVID
+8679,HBO-OP-000643,,,,,,,COVID-19 Costs,"Development, Overall Deals, Other",,Committed,,,WCF-COVID-19 Costs,No,HBO OP,,,,11/3/23,0,Michelle,COVID-19 Costs
+8680,HBO-OP-000772,,,,,,,COVID-19 Protocols,"Development, Overall Deals, Other",,Committed,,,WCF-COVID-19 Protocols,No,HBO OP,,,,11/3/23,0,Michelle,COVID-19 Protocols
+9069,MAX-AQ-001886,,,,,,,Cowboy Builders (UK) (Seasons 1-4),Unscripted Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Cowboy Builders
+9072,MAX-OP-000573,,,,,,,Coyote vs. Acme,Movies Original,WBP,Committed,,,DTC1399,No,Max OP,2024,,,11/3/23,0,Viju,Coyote vs. Acme
+9073,HBO-OP-000906,,,,,,,Cracking Cases,Documentary Series Original,,Uncommitted,,,WCF-10022605,No,HBO OP,,,,11/3/23,0,Viju,Cracking Cases
+9074,MAX-OP-000006,,,,,,,Craftopia-Season1_A,Unscripted Original,TP,Committed,,,DTC1035,No,Max OP,2020,,,11/3/23,0,Viju,Craftopia
+9092,MAX-OP-000042,,,,,,,Craftopia-Season1_B,Unscripted Original,TP,Committed,,,CRAFTS1B,No,Max OP,2020,,,11/3/23,0,Viju,Craftopia
+9093,MAX-OP-000053,,,,,,,Craftopia-Season1_C,Unscripted Original,TP,Committed,,,CRAFTS1C,No,Max OP,2020,,,11/3/23,0,Viju,Craftopia
+9094,MAX-OP-000813,,,,,,,Creature Commandos S1,Adult Animation Original,WBA,Committed,,,DTC1375,No,Max OP,2025,,,11/3/23,0,Viju,Creature Commandos
+9095,MAX-OP-000817,,,,,,,Creature Commandos S2 / TBD,Adult Animation Original,TBD,Uncommitted,,,TBDANI23S2,No,Max OP,2026,,,11/3/23,0,Viju,Creature Commandos
+9096,MAX-OP-000820,,,,,,,Creature Commandos S3 / TBD,Adult Animation Original,TBD,Uncommitted,,,TBDANI23S3,No,Max OP,2027,,,11/3/23,0,Viju,Creature Commandos
+8681,Do not use 994,,,,,,,CRIMINAL,Movies Acquired,3RD-PARTY,Committed,9/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Michelle,CRIMINAL
+9097,MAX-AQ-000001,,,,,,,Criterion Collection,Movies Acquired,CRITERION,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Criterion Collection
+9098,MAX-AQ-000003,,,,,,,Criterion Collection - 2021 Renewal,Movies Acquired,CRITERION,Committed,10/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Criterion Collection
+9099,MAX-AQ-000004,,,,,,,Criterion Collection - 2024 Renewal,Movies Acquired,CRITERION,Uncommitted,10/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Viju,Criterion Collection
+9100,MAX-AQ-005623,,,,,,,"Critic, The - HBOMax",International Content Acquired,HBO INT. - SERIES,Committed,11/10/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Critic - HBOMax
+9101,MAX-AQ-005837,,,,,,,"Cube, The S2",Comedy Series Acquired,TBS,Committed,9/4/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Cube
+9102,MAX-AQ-001478,,,,,,,Curiosity Stream Year 1 ,Documentary Series Acquired,CURIOSITY STREAM INC,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Curiosity Stream
+9103,MAX-AQ-001479,,,,,,,Curiosity Stream Year 1 (Additional Fee),Documentary Series Acquired,CURIOSITY STREAM INC,Committed,12/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Curiosity Stream
+9104,MAX-AQ-001480,,,,,,,Curiosity Stream Year 2,Documentary Series Acquired,CURIOSITY STREAM INC,Committed,5/27/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Curiosity Stream
+9105,MAX-AQ-001481,,,,,,,Curiosity Stream Year 2 (Additional Fee),Documentary Series Acquired,CURIOSITY STREAM INC,Committed,12/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Curiosity Stream
+9106,MAX-AQ-004465,,,,,,,"Curse of La Llorona, The",Movies Acquired,WB,Committed,5/14/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Curse of
+8682,Do not use 1596,,,,,,,CUT BANK,Movies Acquired,A24,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Michelle,CUT BANK
+9136,HBO-OP-000841,,,,,,,Cyberstalking,Documentary Feature Original,,Committed,,,WCF-10021461,No,HBO OP,,,,11/3/23,0,Viju,Cyberstalking
+8683,Do not use 2890,,,,,,,CYBORG,Movies Acquired,MGM,Committed,5/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Michelle,CYBORG
+9137,MAX-AQ-005538,,,,,,,Czech It Out,International Content Original,HBO INT. - SERIES,Committed,4/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Czech It Out
+9138,D+ Exclusives,,,,,,,D+ Exclusives,D+,DISCCOVERY,Committed,,,,,Discovery+,,,,11/3/23,0,Viju,D+ Exclusives
+9139,D+ Shared,,,,,,,D+ Shared,D+,DISCCOVERY,Committed,,,,,Discovery+,,,,11/3/23,0,Viju,D+ Shared
+9144,MAX-AQ-002258,,,,,,,"DA VINCI CODE, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,6/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,DA VINCI CODE
+9393,MAX-AQ-000053,,,,,,,Daddy Day Care (Library),Movies Acquired,REVOLUTION STUDIOS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Daddy Day
+9145,Do not use 1926,,,,,,,DAMIEN OMEN II,Movies Acquired,FOX,Committed,8/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,DAMIEN OMEN
+9396,MAX-AQ-005287,,,,,,,"Damsel in Distress, A",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Damsel in
+9146,Do not use 4410,,,,,,,DANCE WITH ME,Movies Acquired,SONY,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DANCE WITH ME
+9151,MAX-AQ-004144,,,,,,,"DANGEROUS METHOD, A",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,8/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,DANGEROUS METHOD
+9152,HBO-OP-000842,,,,,,,DANIEL,Documentary Feature Original,,Committed,,,WCF-10023283,No,HBO OP,2023,,,11/3/23,0,Viju,DANIEL
+9153,Do not use 3832,,,,,,,DANTES PEAK,Movies Acquired,UNIVERSAL,Committed,7/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DANTES PEAK
+9156,MAX-AQ-004184,,,,,,,"DARK CRYSTAL, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,DARK CRYSTAL
+9402,MAX-AQ-005288,,,,,,,"Dark Horse, The",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Dark Horse
+9403,MAX-AQ-000933,,,,,,,Dark Knight Rises,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Dark Knight Rises
+9404,MAX-AQ-006087,,,,,,,"Dark Knight Rises, The",Movies Acquired,WB,Committed,11/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Dark Knight Rises
+9417,MAX-AQ-004469,,,,,,,"Dark Knight, The",Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Dark Knight
+9440,HBO-OP-001160,,,,,,,Dark Money Project,Documentary Feature Original,,Committed,,,Dark Money Project,No,HBO OP,2025,,,11/3/23,0,Viju,Dark Money Project
+9157,Do not use 5937,,,,,,,DARK PHOENIX - 0629815_12-114,Movies Acquired,FOX,Committed,3/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DARK PHOENIX
+9159,Do not use 2369,,,,,,,DARK SKIES,Movies Acquired,LIONS GATE,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DARK SKIES
+9441,MAX-AQ-007264,,,,,,,Dark Winds S1,Drama Series Acquired,RAINBOW MEDIA HOLDINGS LLC,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Dark Winds
+9160,Do not use 2370,,,,,,,DATE AND SWITCH,Movies Acquired,LIONS GATE,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DATE AND SWITCH
+9443,MAX-AQ-000800,,,,,,,David Copperfield (1935),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,David Copperfield
+9458,HBO-OP-000821,,,,,,,David France Coronavirus Project,Documentary Feature Original,,Committed,,,WCF-10021788,No,HBO OP,,,,11/3/23,0,Viju,David France
+9459,HBO-OP-001045,,,,,,,David Holmes,Documentary Feature Original,,Committed,,,WCF-10023776,No,HBO OP,2023,,,11/3/23,0,Viju,David Holmes
+9460,MAX-AQ-001793,,,,,,,David Makes Man S1,Drama Series Acquired,WB,Committed,7/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,David Makes Man
+9461,MAX-AQ-001794,,,,,,,David Makes Man S2,Drama Series Acquired,WB,Committed,11/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,David Makes Man
+9462,MAX-AQ-001795,,,,,,,David Makes Man S3,Drama Series Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,David Makes Man
+9463,MAX-AQ-001796,,,,,,,David Makes Man S4,Drama Series Acquired,WB,Committed,1/1/25,,,No,Max Acquired,2025,,,11/3/23,0,Viju,David Makes
+9464,HBO-OP-000718,,,,,,,Days of Abandonment,Movies Original,,Committed,,,WCF-10020156,No,HBO OP,,,,11/3/23,0,Viju,Days of Abandonment
+9163,Do not use 1342,,,,,,,DC LEAGUE OF SUPER PETS,Movies Acquired,INTERCOMPANY,Committed,12/26/29,,,,HBO Acquired,2029,,,11/3/23,0,Viju,DC LEAGUE
+9177,MAX-AQ-006104,,,,,,,DC Showcase: Superman/Shazam!: The Return of the Black Adam,Movies Acquired,WB,Committed,1/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,The Return of the Black Adam
+9181,MAX-AQ-001515,,,,,,,DCI Banks: Aftermath,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,DCI Banks
+9184,MAX-AQ-001516,,,,,,,DCI Banks: Series 01,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,DCI Banks
+9186,MAX-AQ-001517,,,,,,,DCI Banks: Series 02,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,DCI Banks
+9187,MAX-AQ-001518,,,,,,,DCI Banks: Series 03,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,DCI Banks
+9191,MAX-AQ-001519,,,,,,,DCI Banks: Series 04,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,DCI Banks
+9192,MAX-AQ-001520,,,,,,,DCI Banks: Series 05,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,DCI Banks
+9194,MAX-OP-000019,,,,,,,DCU Doom Patrol S2,Drama Series Original,WBTV,Committed,,,DTC1039,No,Max OP,2020,,,11/3/23,0,Viju,DCU Doom Patrol
+9195,MAX-OP-000133,,,,,,,DCU Doom Patrol S3,Drama Series Original,WBTV,Committed,,,DTC1191,No,Max OP,2021,,,11/3/23,0,Viju,DCU Doom Patrol
+9201,Do not use 732,,,,,,,DE BLANCO LA PATUDA (AKA WHITE IS FOR VIRGINS),Movies Acquired,3RD PARTY,Committed,12/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DE BLANCO
+9202,Do not use 4533,,,,,,,DE BLANCO LA PATUDA (AKA WHITE IS FOR VIRGINS) - Add'l $5K LF,Movies Acquired,3RD PARTY,Committed,12/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DE BLANCO
+9467,MAX-AQ-001062,,,,,,,"Dead Pool, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Dead Pool
+9472,MAX-AQ-002031,,,,,,,Dead Wives Club,Documentary Series Acquired,HLN,Committed,12/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Dead Wives Club
+9204,Do not use 858,,,,,,,DEADPOOL,Movies Acquired,3RD-PARTY,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DEADPOOL
+9207,806737,,,,,,,DEADPOOL 2,Movies Acquired,FOX,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,DEADPOOL
+9217,Do not use 3207,,,,,,,DEAR GOD,Movies Acquired,PARAMOUNT,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,DEAR GOD
+9220,Do not use 2381,,,,,,,DEAR WHITE PEOPLE,Movies Acquired,LIONS GATE,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DEAR WHITE PEOPLE
+9480,MAX-AQ-004481,,,,,,,"Death of Superman, The (2018)",Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Death of
+9473,MAX-AQ-007353,,,,,,,Death Row Stories S1,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Death Row Stories
+9475,MAX-AQ-007143,,,,,,,Death Row Stories S2,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Death Row Stories
+9476,MAX-AQ-007144,,,,,,,Death Row Stories S3,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Death Row Stories
+9477,MAX-AQ-007145,,,,,,,Death Row Stories S4,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Death Row
+9478,MAX-AQ-002192,,,,,,,Death Row Stories S5,Documentary Series Acquired,HLN,Committed,2/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Death Row
+9221,Do not use 4750,,,,,,,DEATH WISH,Movies Acquired,PARAMOUNT,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,DEATH WISH
+9486,MAX-AQ-007147,,,,,,,Declassified S1,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Declassified
+9487,MAX-AQ-007148,,,,,,,Declassified S2,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Declassified
+9488,MAX-AQ-007149,,,,,,,Declassified S3,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Declassified
+9236,Do not use 995,,,,,,,DEEPWATER HORIZON,Movies Acquired,3RD-PARTY,Committed,12/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DEEPWATER HORIZON
+9237,Do not use 5296,,,,,,,DEFENDING YOUR LIFE x,Movies Acquired,WB,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,DEFENDING YOUR
+9489,MAX-AQ-005506,,,,,,,"Degrassi: Next Generation, The - HBOMax - K&F",Kids Content Acquired,DHX WORLDWIDE (U) LIMITED (INT'L - 0%) - #2,Committed,3/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Viju,Degrassi: Next
+9238,Do not use 1430,,,,,,,DEJA VU,Movies Acquired,DISNEY,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,DEJA VU
+9239,Do not use 861,,,,,,,DEMOLITION,Movies Acquired,3RD-PARTY,Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DEMOLITION
+9490,MAX-AQ-007059,,,,,,,"Dennis the Menace Christmas, A",Movies Acquired,WB,Committed,12/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Dennis the
+9494,MAX-AQ-001070,,,,,,,Dennis the Menace Strikes Back,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Dennis the
+9495,MAX-AQ-004485,,,,,,,"Departed, The",Movies Acquired,WB,Committed,5/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Departed
+9240,Do not use 717,,,,,,,DESECHO (AKA DEBRIS),Movies Acquired,3RD PARTY,Committed,2/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DESECHO
+9243,MAX-AQ-002260,,,,,,,DESPERADO (1995),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,DESPERADO
+9244,Do not use 1023,,,,,,,DESPICABLE ME,Movies Acquired,3RD-PARTY,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,DESPICABLE ME
+9523,MAX-AQ-001621,,,,,,,Detention Adventure S1,Kids Content Acquired,BLUE ANT INTERNATIONAL LIMITED,Committed,9/11/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Viju,Detention Adventure
+9524,MAX-AQ-001622,,,,,,,Detention Adventure S2,Kids Content Acquired,BLUE ANT INTERNATIONAL LIMITED,Committed,10/15/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Viju,Detention Adventure
+9558,MAX-AQ-002040,,,,,,,"Detour, The",Comedy Series Acquired,TBS,Committed,1/20/24,,,No,Max Acquired,2024,,,11/3/23,0,Viju,Detour
+9564,MAX-AQ-006120,,,,,,,"Devil's Advocate, The",Movies Acquired,WB,Committed,6/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Devil's Advocate
+9245,MAX-AQ-004146,,,,,,,DEVIL'S BACKBONE,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,8/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,DEVIL'S BACKBONE
+9246,MAX-AQ-000212,,,,,,,"DEVIL'S REJECTS, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,4/30/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,DEVIL'S REJECTS
+9247,762318,,,,,,,DEVILS DUE,Movies Acquired,FOX,Committed,12/1/14,,,,HBO Acquired,2014,,,11/3/23,0,Viju,DEVILS DUE
+9579,MAX-AQ-007150,,,,,,,Diana,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Diana
+9249,MAX-AQ-004186,,,,,,,"DIARY OF A TEENAGE GIRL, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,DIARY OF
+9250,Do not use 886,,,,,,,DIARY OF A WIMPY KID: THE LONG HAUL,Movies Acquired,3RD-PARTY,Committed,8/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Viju,DIARY OF
+3531,MAX-AQ-004225,,,,,,,"NEXT KARATE KID, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,11/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,NEXT KARATE KID
+3544,MAX-AQ-004226,,,,,,,NICK & NORAH'S INFINITE PLAYLIST,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,3/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,NICK &
+3545,MAX-OP-000001,,,,,,,NICKI,Documentary Feature Original,,Committed,,,DTC1199,No,Max OP,,,,11/3/23,0,Mei-Cheng,NICKI
+3546,MAX-AQ-000021,,,,,,,"NIGHT IS SHORT, WALK ON GIRL",Movies Acquired,G KIDS,Committed,1/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,NIGHT IS short
+3548,Do not use 1156,,,,,,,NIGHT SCHOOL,Movies Acquired,3RD-PARTY,Committed,1/11/27,,,,HBO Acquired,2027,,,11/3/23,0,Mei-Cheng,NIGHT SCHOOL
+3550,Do not use 1681,,,,,,,NIMS ISLAND,Movies Acquired,FOX,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,NIMS ISLAND
+3551,Do not use 1661,,,,,,,NINE LIVES,Movies Acquired,EUROPA,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,NINE LIVES
+3575,MAX-AQ-000274,,,,,,,NO ERES TU SOY YO,Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,2/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,NO ERES
+3576,Do not use 545,,,,,,,NO MATAR�S (AKA CROSS THE LINE),Movies Acquired,3RD PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,NO MATAR�S
+3578,Do not use 2200,,,,,,,NO SE ACEPTAN DEVOLUCIONES AKA INSTRUCTIONS NOT INCLUDED,Movies Acquired,LIONS GATE,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,NO SE
+3580,Do not use 4925,,,,,,,NOBODYS FOOL,Movies Acquired,PARAMOUNT,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,NOBODYS FOOL
+3582,Do not use 2453,,,,,,,NORM OF THE NORTH,Movies Acquired,LIONS GATE,Committed,11/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Mei-Cheng,NORM OF
+3585,Do not use 2021,,,,,,,NOTES ON A SCANDAL,Movies Acquired,FOX,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,NOTES ON
+3587,Do not use 710,,,,,,,NUDO MIXECO,Movies Acquired,3RD PARTY,Committed,6/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Mei-Cheng,NUDO MIXECO
+3588,Do not use 5128,,,,,,,NUESTRAS MADRES (AKA OUR MOTHERS),Movies Acquired,3RD PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,NUESTRAS MADRES
+3599,HBO-OP-000350,,,,,,,NYC Epicenters 9/11,Documentary Series Original,,Committed,,,WCF-10022149,No,HBO OP,2021,,,11/3/23,0,Mei-Cheng,NYC Epicenters 9/11
+3603,MAX-OP-000221,,,,,,,Naked Mole Rats,Kids Content Original,TP,Committed,,,DTC1210,Yes,Max OP,2022,,,11/3/23,0,Mei-Cheng,Naked Mole Rats
+3605,MAX-AQ-007443,,,,,,,Naked.Loud.Proud/Islands Of Freedom - HBOMax,International Content Original,HBO INT. - SERIES,Committed,6/15/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Naked.Loud.Proud/Islands Of
+3606,MAX-AQ-001758,,,,,,,Nancy Drew Season 1,Drama Series Acquired,CBS PARAMOUNT DOMESTIC TELEVISION,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Nancy Drew
+3614,MAX-AQ-001759,,,,,,,Nancy Drew Season 2,Drama Series Acquired,CBS PARAMOUNT DOMESTIC TELEVISION,Committed,7/3/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Nancy Drew
+3615,MAX-AQ-001760,,,,,,,Nancy Drew Season 3,Drama Series Acquired,CBS PARAMOUNT DOMESTIC TELEVISION,Committed,3/4/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Nancy Drew
+3640,MAX-AQ-001761,,,,,,,Nancy Drew Season 4,Drama Series Acquired,CBS PARAMOUNT DOMESTIC TELEVISION,Committed,9/22/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Nancy Drew
+3641,MAX-AQ-007742,,,,,,,Nancy Drew and the Hidden Staircase (2019),Movies Acquired,WB,Committed,11/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Nancy Drew
+3645,HBO-OP-001134,,,,,,,Nanfu Wang Cuba,Documentary Feature Original,,Committed,,,WCF-10024411,No,HBO OP,2025,,,11/3/23,0,Mei-Cheng,Nanfu Wang Cuba
+3646,MAX-AQ-001750,,,,,,,Naomi Season 1,Drama Series Acquired,WB,Committed,6/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Naomi Season 1
+3647,MAX-AQ-001417,,,,,,,Nathan For You ,Comedy Series Acquired,VIACOM INTERNATIONAL INC.,Committed,11/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Nathan For You
+3648,MAX-AQ-007804,,,,,,,Nathan For You (Renewal),Comedy Series Acquired,VIACOM INTERNATIONAL INC.,Uncommitted,11/1/26,,,No,Max Acquired,2026,,,11/3/23,0,Mei-Cheng,Nathan For
+3651,MAX-AQ-000615,,,,,,,National Lampoon's Loaded Weapon,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,National Lampoon's
+3653,MAX-AQ-001248,,,,,,,"Nativity Story, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Nativity Story
+3654,MAX-AQ-000024,,,,,,,Nausica� of the Valley of the Wind,Movies Acquired,G KIDS,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Valley of the Wind
+3669,MAX-OP-000218,,,,,,,Navalny (CNN),Documentary Feature Original,CNN,Committed,,,DTC1298,No,Max OP,2022,,,11/3/23,0,Mei-Cheng,Navalny
+3675,HBO-OP-001159,,,,,,,Near Space,Documentary Feature Original,,Committed,,,WCF-10024469,No,HBO OP,2026,,,11/3/23,0,Mei-Cheng,Near Space
+3676,MAX-AQ-001251,,,,,,,Needful Things,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Needful Things
+3678,MAX-AQ-007177,,,,,,,Never Again: The United States Holocaust Memorial Museum Tour with Wolf Blitzer,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Never Again:
+3683,MAX-AQ-003482,,,,,,,"Neverending Story II: The Next Chapter, The",Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Neverending Story
+3686,MAX-AQ-000620,,,,,,,"Neverending Story, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Neverending Story
+3691,MAX-AQ-002088,,,,,,,"New Adventures of Old Christine, The",Comedy Series Acquired,WB,Committed,1/22/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,New Adventures
+3692,MAX-AQ-004096,,,,,,,New Looney Tunes Show (aka Wabbit),Kids Content Acquired,WB,Committed,8/1/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,New Looney
+3694,MAX-AQ-001813,,,,,,,"New Looney Tunes Show, The (AKA Wabbit)",Kids Content Acquired,WB,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,New Looney
+3696,MAX-AQ-005629,,,,,,,New Looney Tunes a/k/a Wabbit - K&F,Kids Content Acquired,WB,Committed,4/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,New Looney
+3703,MAX-AQ-005840,,,,,,,"Next Step, The - S5-S7 - HBOMax - K&F",Kids Content Acquired,BOAT ROCKER RIGHTS (US) INC.,Committed,4/1/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Next Step
+3704,MAX-AQ-005841,,,,,,,"Next Step, The - S8 - HBOMax - K&F",Kids Content Acquired,BOAT ROCKER RIGHTS (US) INC.,Committed,5/1/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Next Step
+3705,HBO-OP-000753-P,,,,,,,Nice White Parents Pilot,Comedy Series Original,,Uncommitted,,,Nice White Parents Pilot,No,HBO OP,,,,11/3/23,0,Mei-Cheng,Nice White
+3706,MAX-AQ-003839,,,,,,,"Nightmare On Elm Street 2: Freddy's Revenge, A",Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Nightmare On
+3734,MAX-AQ-004718,,,,,,,"Nightmare On Elm Street 3: The Dream Warriors, A",Movies Acquired,WB,Committed,3/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Nightmare On
+3762,MAX-AQ-000366,,,,,,,"Nightmare On Elm Street 4: The Dream Master, A",Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Nightmare On
+3770,MAX-AQ-000367,,,,,,,"Nightmare On Elm Street 5: The Dream Child, A",Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Nightmare On
+3779,MAX-AQ-004047,,,,,,,"Nightmare On Elm Street, A",Movies Acquired,WB,Committed,3/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Nightmare On
+3792,MAX-AQ-001262,,,,,,,"Nightmare on Elm Street, A (2010)",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Nightmare on
+3827,HBO-OP-001218,,,,,,,Nikki Giovanni Project,Documentary Feature Original,,Committed,,,Nikki Giovanni Project,No,HBO OP,2024,,,11/3/23,0,Mei-Cheng,Nikki Giovanni Project
+3828,HBO-OP-001112,,,,,,,Nikki Glaser Special 2,Special Original,,Committed,,,WCF-10023335,No,HBO OP,2024,,,11/3/23,0,Mei-Cheng,Nikki Glaser
+3829,MAX-AQ-003160,,,,,,,Nina Furia,International Content Acquired,LOS ALTOS ENTERTAINMENT INC.,Committed,10/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Nina Furia
+3830,MAX-AQ-002016,,,,,,,"Nineties, The",Documentary Series Acquired,CNN,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Nineties
+3831,MAX-AQ-005685,,,,,,,Ninja Kamui 101-113,Adult Animation Acquired,AS,Committed,3/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Mei-Cheng,Ninja Kamui
+3832,MAX-AQ-005373,,,,,,,"Nitwits, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Nitwits
+3833,MAX-AQ-000084,,,,,,,No Country For Old Men (Syndi),Movies Acquired,MIRAMAX FILMS/FILMYARD HOLDINGS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,No Country
+3834,MAX-AQ-005874,,,,,,,No Mundo Da Luna S1,International Content Original,HBO INT. - SERIES,Committed,11/17/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,No Mundo
+3835,MAX-OP-000130,,,,,,,Not Too Late Show with Elmo -S2,Kids Content Original,SESAME WORKSHOP,Committed,,,HKF0001,Yes,Max OP,2021,,,11/3/23,0,Mei-Cheng,Not Too
+3837,MAX-AQ-002671,,,,,,,"Notebook, The",Movies Acquired,WB,Committed,1/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Notebook
+3879,MAX-AQ-000011,,,,,,,Nothing Sacred (Classic),Movies Acquired,"KINO LORBER, INC.",Committed,10/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Nothing Sacred
+3880,MAX-AQ-003490,,,,,,,Now & Then,Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Now & Then
+3885,654256,,,,,,,Nun 2 ,Movies Acquired,WB,Committed,10/27/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,Nun 2
+3886,MAX-AQ-007542,,,,,,,"Nun's Story, The",Movies Acquired,WB,Committed,7/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Nun's Story
+3893,MAX-AQ-003179,,,,,,,"Nun, The (2018)",Movies Acquired,WB,Committed,6/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Nun
+3913,MAX-AQ-005875,,,,,,,O Vale Dos Esquecidos,International Content Original,HBO INT. - SERIES,Committed,10/21/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,O Vale
+3914,MAX-AQ-001858,,,,,,,"O.C., The",Drama Series Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,O.C.
+3919,MAX-AQ-002306,,,,,,,OBSESSED (2009),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,OBSESSED
+3920,800079,,,,,,,OCEANS 8,Movies Acquired,WARNER BROS.,Committed,1/12/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,OCEANS 8
+3922,MAX-AQ-000142,,,,,,,"OFFICER AND A GENTLEMAN, AN",Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,OFFICER AND
+3924,HBO-OP-000725,,,,,,,OH Deferral Unallocated,"Development, Overall Deals, Other",,Committed,,,WCF-Unallocated/Committed Term Deals,No,HBO OP,,,,11/3/23,0,Mei-Cheng,OH Deferral Unallocated
+3947,MAX-AQ-001986,,,,,,,OK KO - Let's Be Heroes,Kids Content Acquired,CN,Committed,9/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,OK KO
+3955,Do not use 1640,,,,,,,ON CHESIL BEACH,Movies Acquired,BLEECKER,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,ON CHESIL BEACH
+3960,Do not use 2994,,,,,,,ON HER MAJESTYS SECRET SERVICE,Movies Acquired,MGM,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,ON HER
+3971,Do not use 4238,,,,,,,ONCE WERE BROTHERS: ROBBIE ROBERTSON AND THE BAND,Movies Acquired,MAGNOLIA,Committed,11/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,ONCE WERE
+4009,Do not use 2218,,,,,,,ONE CHANCE,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,,,,11/3/23,0,Mei-Cheng,ONE CHANCE
+4010,Do not use 466,,,,,,,ONE WAY OR ANOTHER 01:,Movies Acquired,INTERCOMPANY,Committed,10/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,ONE WAY
+4012,Do not use 1667,,,,,,,ONLY THE LONELY,Movies Acquired,FOX,Committed,10/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Mei-Cheng,ONLY THE LONELY
+4013,Do not use 2006,,,,,,,ONLY THE STRONG,Movies Acquired,FOX,Committed,6/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,ONLY THE STRONG
+4014,MAX-AQ-004228,,,,,,,OPEN SEASON (2006),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,10/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,OPEN SEASON
+4015,Do not use 2589,,,,,,,OPEN WATER 3: CAGE DIVE,Movies Acquired,LIONS GATE - APPROVED  - ('24/'25 AVAILS),Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,OPEN WATER
+4036,Do not use 1631,,,,,,,ORDINARY LOVE,Movies Acquired,BLEECKER,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,ORDINARY LOVE
+4037,MAX-AQ-004230,,,,,,,"OTHER GUYS, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,6/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Mei-Cheng,OTHER GUYS
+4045,Do not use 3957,,,,,,,OTHER PEOPLES MONEY,Movies Acquired,WARNER BROS.,Committed,12/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,OTHER PEOPLES MONEY
+4047,Do not use 5880,,,,,,,OUIJA 2,Movies Acquired,UNI,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,OUIJA
+4058,Do not use 1069,,,,,,,OUIJA ORIGIN OF EVIL,Movies Acquired,3RD-PARTY,Committed,3/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,OUIJA ORIGIN
+4071,Do not use 2471,,,,,,,OUR KIND OF TRAITOR,Movies Acquired,LIONS GATE,Committed,5/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Mei-Cheng,OUR KIND
+4080,Do not use 1426,,,,,,,OUT COLD,Movies Acquired,DISNEY,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,OUT COLD
+4093,Do not use 3745,,,,,,,OUT OF SIGHT,Movies Acquired,UNIVERSAL,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Mei-Cheng,OUT OF SIGHT
+4094,Do not use 3603,,,,,,,OUT OF THE FURNACE,Movies Acquired,RELATIVITY,Committed,7/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,OUT OF
+4098,MAX-AQ-004942,,,,,,,Ocean's 8,Movies Acquired,WB,Committed,4/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Ocean's
+4145,MAX-AQ-003491,,,,,,,Ocean's Eleven (1960),Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Ocean's Eleven
+4156,MAX-AQ-002676,,,,,,,Ocean's Eleven (2001),Movies Acquired,WB,Committed,11/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Ocean's Eleven
+4193,MAX-AQ-001661,,,,,,,Odo - Season 1 (1/2),Kids Content Acquired,SIXTEEN SOUTH RIGHTS LIMITED (INT'L - 0%),Committed,12/2/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Odo
+4198,MAX-AQ-001662,,,,,,,Odo - Season 1 (2/2),Kids Content Acquired,SIXTEEN SOUTH RIGHTS LIMITED (INT'L - 0%),Committed,1/2/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Odo
+4201,MAX-AQ-002225,,,,,,,Off the Air S10,Comedy Series Acquired,AS,Committed,6/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Off the
+4203,MAX-AQ-004346,,,,,,,Off the Air S11,Adult Animation Acquired,AS,Committed,2/16/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Off the
+4205,MAX-AQ-001568,,,,,,,"Office, The: Series 01",Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Office
+4219,MAX-AQ-001569,,,,,,,"Office, The: Series 02",Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Office
+4220,MAX-AQ-001570,,,,,,,"Office, The: Specials 2003",Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Office
+4221,MAX-AQ-005866,,,,,,,Oh Hell! S1 - HBOMax,International Content Original,HBO INT. - SERIES,Committed,10/10/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Oh Hell!
+4234,MAX-AQ-005377,,,,,,,"Oklahoma Kid, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Oklahoma Kid
+4235,MAX-AQ-001713,,,,,,,Ollie and Moon S1,Kids Content Acquired,FEDERATION INTERNATIONAL,Committed,1/12/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Ollie and Moon
+4236,MAX-AQ-001714,,,,,,,Ollie and Moon S2,Kids Content Acquired,FEDERATION INTERNATIONAL,Committed,1/12/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Ollie and Moon
+4237,HBO-OP-000866,,,,,,,Omar Broadway Doc,Documentary Feature Original,,Committed,,,WCF-10019837,No,HBO OP,,,,11/3/23,0,Mei-Cheng,Omar Broadway Doc
+4260,MAX-AQ-002870,,,,,,,"Omega Man, The",Movies Acquired,WB,Committed,5/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Omega Man
+4335,MAX-OP-000029,,,,,,,On The Trail Inside the 2020 Primaries (CNN),Documentary Feature Original,CNN,Committed,,,DTC1106,No,Max OP,2020,,,11/3/23,0,Mei-Cheng,On The
+4336,MAX-OP-000968,,,,,,,On the Roam with Jason Momoa,Unscripted Original,DSC,Committed,,,DTC1405,No,Max OP,2024,,,11/3/23,0,Mei-Cheng,On the
+4353,MAX-AQ-001663,,,,,,,On the Spectrum Season 1,International Content Acquired,DBS SATTELITE SERVICES LTD. D/B/A YES STUDIOS,Committed,4/2/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,On the
+4366,MAX-AQ-005540,,,,,,,One True Singer (The Artist),International Content Original,HBO INT. - SERIES,Committed,4/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,One True
+4370,HBO-OP-000791,,,,,,,Operating FX Gain/(Loss),"Development, Overall Deals, Other",,Committed,,,WCF-Operating FX Gain/(Loss),No,HBO OP,,,,11/3/23,0,Mei-Cheng,Operating FX Gain/(Loss)
+4371,MAX-AQ-005383,,,,,,,"Opposite Sex, The",Movies Acquired,WB,Committed,4/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Opposite Sex
+4385,MAX-OP-000783,,,,,,,Oscar's Handmade Halloween (SS Special #2),Kids Content Original,SS,Committed,,,HKF0046,Yes,Max OP,2023,,,11/3/23,0,Mei-Cheng,Oscar's Handmade
+4388,Other,,,,,,,Other,D+,DISCCOVERY,Committed,,,,,Discovery+,,,,11/3/23,0,Mei-Cheng,Other
+4389,MAX-AQ-001719,,,,,,,Other Parents Season 1,International Content Acquired,TURNER BROADCASTING SYSTEM DEUTSCHLAND GMBH,Committed,4/14/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Other Parents
+4390,MAX-AQ-001720,,,,,,,Other Parents Season 2,International Content Acquired,TURNER BROADCASTING SYSTEM DEUTSCHLAND GMBH,Committed,4/14/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Other Parents
+4391,MAX-OP-000192,,,,,,,Our Flag Means Death S1,Comedy Series Original,MAX,Committed,,,DTC1134,No,Max OP,2022,,,11/3/23,0,Mei-Cheng,Our Flag
+4392,MAX-OP-000408,,,,,,,Our Flag Means Death S2,Comedy Series Original,MAX,Committed,,,DTC1247,No,Max OP,2023,,,11/3/23,0,Mei-Cheng,Our Flag
+4516,MAX-OP-000550,,,,,,,Our Flag Means Death S3 / TBD Multicam,Comedy Series Original,MAX,Uncommitted,,,DTC1398,No,Max OP,2025,,,11/3/23,0,Mei-Cheng,Our Flag
+4533,MAX-AQ-005385,,,,,,,"Outfit, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Outfit
+4534,MAX-AQ-006574,,,,,,,"Outlaw Josey Wales, The",Movies Acquired,WB,Committed,6/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Outlaw Josey Wales
+4615,MAX-AQ-001473,,,,,,,Output Year 2 Q1,Adult Animation Acquired,"ELLATION, INC.",Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Output Year
+4628,MAX-AQ-001476,,,,,,,Output year 2 Q4,Adult Animation Acquired,"ELLATION, INC.",Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Output year
+4632,MAX-AQ-000637,,,,,,,"Outsiders, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Outsiders
+4640,MAX-AQ-002345,,,,,,,Oy to the World Special,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Oy to
+4670,777659,,,,,,,PACIFIC RIM: UPRISING,Movies Acquired,UNIVERSAL,Committed,11/17/18,,,,HBO Acquired,2018,,,11/3/23,0,Mei-Cheng,PACIFIC RIM: UPRISING
+4678,Do not use 4484,,,,,,,PANIC ROOM,Movies Acquired,SONY - APPROVED  - ('24/'25 AVAILS),Committed,7/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,PANIC ROOM
+4680,Do not use 2048,,,,,,,PAPER HEART,Movies Acquired,LIONS GATE,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PAPER HEART
+4712,Do not use 749,,,,,,,PARA ROSA (AKA FOR ROSA),Movies Acquired,3RD PARTY,Committed,5/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,PARA ROSA
+4731,MAX-AQ-000146,,,,,,,"PARALLAX VIEW, THE",Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,PARALLAX VIEW
+4736,Do not use 3546,,,,,,,PARANORMAL ACTIVITY,Movies Acquired,PARAMOUNT,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PARANORMAL ACTIVITY
+4754,Do not use 3547,,,,,,,PARANORMAL ACTIVITY 2,Movies Acquired,PARAMOUNT,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PARANORMAL ACTIVITY
+4756,Do not use 3548,,,,,,,PARANORMAL ACTIVITY 3,Movies Acquired,PARAMOUNT,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PARANORMAL ACTIVITY
+4781,Do not use 3549,,,,,,,PARANORMAL ACTIVITY 4,Movies Acquired,PARAMOUNT,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PARANORMAL ACTIVITY
+4830,Do not use 3552,,,,,,,PARANORMAL ACTIVITY: THE MARKED ONES,Movies Acquired,PARAMOUNT,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PARANORMAL ACTIVITY
+4842,Do not use 4459,,,,,,,PARIS CAN WAIT,Movies Acquired,SONY,Committed,9/23/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PARIS CAN WAIT
+4857,Do not use 3979,,,,,,,PASSPORT TO PARIS,Movies Acquired,WARNER BROS.,Committed,,,,,HBO Acquired,,,,11/3/23,0,Mei-Cheng,PASSPORT TO PARIS
+4883,Do not use 2948,,,,,,,PATHOLOGY,Movies Acquired,MGM,Committed,11/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PATHOLOGY
+7200,Do not use 5557,,,,,,,PATRIA 01-08,Movies Acquired,INTERCOM,Committed,9/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PATRIA 01-08
+7283,Do not use 3544,,,,,,,PATRIOT GAMES,Movies Acquired,PARAMOUNT,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PATRIOT GAMES
+7284,Do not use 889,,,,,,,PATTI CAKE$,Movies Acquired,3RD-PARTY,Committed,11/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Mei-Cheng,PATTI CAKE$
+7288,Do not use 1698,,,,,,,PATTON,Movies Acquired,FOX,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PATTON
+7482,MAX-AQ-004299,,,,,,,PAUL BLART: MALL COP,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,6/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Mei-Cheng,mall cop
+7494,MAX-AQ-004300,,,,,,,PAUL BLART: MALL COP 2,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,6/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Mei-Cheng,mall cop
+7507,Do not use 2436,,,,,,,PAWN,Movies Acquired,LIONS GATE,Committed,8/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Mei-Cheng,PAWN
+7525,MAX-AQ-002308,,,,,,,"PEOPLE VS. LARRY FLYNT, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,PEOPLE VS.
+7526,MAX-AQ-002309,,,,,,,"PEPI, LUCI, BOM Y OTRAS CHICAS DEL MONT�N",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/30/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,"PEPI, LUCI,"
+7527,Do not use 719,,,,,,,PEPITO (2019 LATINX SHORT FILM COMPETITION WINNER),Movies Acquired,3RD PARTY,Committed,4/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PEPITO
+7528,Do not use 806,,,,,,,PERCY JACKSON SEA OF MONSTERS,Movies Acquired,3RD-PARTY,Committed,12/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,PERCY JACKSON
+7529,MAX-AQ-000282,,,,,,,"PERKS OF BEING A WALLFLOWER, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,5/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,PERKS OF
+7530,Do not use 5735,,,,,,,"PERSONAL HISTORY OF DAVID COPPERFIELD, THE - 0645197_12-114",Movies Acquired,FOX,Committed,5/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,PERSONAL HISTORY
+7531,MAX-AQ-000147,,,,,,,PET SEMATARY (1989),Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,PET SEMATARY
+7532,Do not use 3528,,,,,,,PET SEMATARY II,Movies Acquired,PARAMOUNT,Committed,10/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PET SEMATARY II
+7533,Do not use 4618,,,,,,,PHANTOMS,Movies Acquired,MIRAMAX,Committed,,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PHANTOMS
+7578,Do not use 1416,,,,,,,PHENOMENON,Movies Acquired,DISNEY,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Mei-Cheng,PHENOMENON
+7579,Do not use 2576,,,,,,,PHILOMENA,Movies Acquired,LIONS GATE,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,PHILOMENA
+7582,MAX-AQ-005713,,,,,,,PIANO Y MUJER 2,Drama Series Acquired,SONY MUSIC ENTERTAINMENT US LATIN LLC,Committed,11/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,PIANO Y
+7583,Do not use 508,,,,,,,PICO DE NEBLINA (EPS 1-10),Movies Acquired,INTERCOMPANY,Committed,8/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PICO DE
+7585,Do not use 514,,,,,,,PICO DE NEBLINA S2 (EPS 11-20),Movies Acquired,INTERCOMPANY,Committed,8/2/22,,,,HBO Acquired,2022,,,11/3/23,0,Mei-Cheng,PICO DE
+7586,Do not use 5970,,,,,,,PIGEON IMPOSSIBLE - 0623176_12-114,Movies Acquired,FOX,Committed,9/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PIGEON IMPOSSIBLE
+7587,MAX-AQ-004232,,,,,,,"PIRATES! BAND OF MISFITS, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,PIRATES! BAND
+7602,Do not use 1141,,,,,,,PITCH PERFECT 3,Movies Acquired,3RD-PARTY,Committed,5/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Mei-Cheng,PITCH PERFECT
+7614,Do not use 5652,,,,,,,PLANET OF THE APES x,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PLANET OF
+7615,Do not use 5793,,,,,,,POINT BREAK 2015,Movies Acquired,WB,Committed,10/15/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,POINT BREAK
+7616,Do not use 4529,,,,,,,POINT BREAK 2015 - 0601533_13-108,Movies Acquired,WB,Committed,8/15/16,,,,HBO Acquired,2016,,,11/3/23,0,Mei-Cheng,POINT BREAK
+7622,Do not use 1312,,,,,,,POKEMON DETECTIVE PIKACHU,Movies Acquired,INTERCOMPANY,Committed,6/23/27,,,,HBO Acquired,2027,,,11/3/23,0,Mei-Cheng,POKEMON DETECTIVE PIKACHU
+7624,Do not use 5898,,,,,,,POK�MON DETECTIVE PIKACHU - 0634593_13-108.2,Movies Acquired,WB,Committed,12/23/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,DETECTIVE
+7625,Do not use 3944,,,,,,,POLICE ACADEMY 3 BACK IN TRAINING,Movies Acquired,WARNER BROS.,Committed,8/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,POLICE ACADEMY
+7631,Do not use 3945,,,,,,,POLICE ACADEMY 4 CITIZENS ON PATROL,Movies Acquired,WARNER BROS.,Committed,8/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,POLICE ACADEMY
+7633,Do not use 3946,,,,,,,POLICE ACADEMY 5 ASSIGNMENT: MIAMI BEACH,Movies Acquired,WARNER BROS.,Committed,8/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,POLICE ACADEMY
+7637,Do not use 5507,,,,,,,POLICE ACADEMY 6 CITY UNDER SIEGE,Movies Acquired,WB,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,POLICE ACADEMY
+7643,Do not use 843,,,,,,,POLTERGEIST 2015,Movies Acquired,3RD-PARTY,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,POLTERGEIST 2015
+7645,Do not use 1120,,,,,,,POPSTAR: NEVER STOP NEVER STOPPING (POPSTAR),Movies Acquired,3RD-PARTY,Committed,4/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Mei-Cheng,NEVER STOP NEVER STOPPING
+7646,Do not use 3197,,,,,,,PORTRAIT OF A LADY ON FIRE,Movies Acquired,NEON,Committed,4/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Mei-Cheng,PORTRAIT OF
+7647,Do not use 2939,,,,,,,POSSE: THE REVENGE OF JESSIE LEE,Movies Acquired,MGM,Committed,11/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,POSSE: THE
+7648,Do not use 1989,,,,,,,POST GRAD,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,POST GRAD
+7649,Do not use 3862,,,,,,,PRANCER: A CHRISTMAS TALE,Movies Acquired,UNIVERSAL,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Mei-Cheng,A CHRISTMAS TALE
+7655,Do not use 4839,,,,,,,"PRAY, OBEY, KILL (EPS 1-5)",Movies Acquired,INTERCOM,Committed,4/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,"PRAY, OBEY,"
+7657,Do not use 2056,,,,,,,PRIDE,Movies Acquired,LIONS GATE,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PRIDE
+7663,Do not use 3890,,,,,,,PRINCE OF THE CITY,Movies Acquired,WARNER BROS.,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PRINCE OF
+7664,MAX-AQ-002311,,,,,,,"PRINCE OF TIDES, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,7/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,PRINCE OF TIDES
+7665,Do not use 4693,,,,,,,PRINCESS CUT (2020 LATINX SHORT FILM COMPETITION WINNER),Movies Acquired,3RD PARTY,Committed,4/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,PRINCESS CUT
+7668,MAX-AQ-000285,,,,,,,"PRODUCERS, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,PRODUCERS
+7669,MAX-AQ-004235,,,,,,,"PROFESSIONAL, THE (1994)",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,PROFESSIONAL
+7674,Do not use 5651,,,,,,,PROJECT Xx,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PROJECT Xx
+7676,MAX-AQ-004236,,,,,,,PROM NIGHT (2008),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,11/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,PROM NIGHT
+7677,Do not use 5852,,,,,,,PROMISING YOUNG WOMAN - 0644853_12-148,Movies Acquired,UNI,Committed,9/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Mei-Cheng,PROMISING YOUNG
+7678,Do not use 3072,,,,,,,PROPHECY 4: THE UPRISING,Movies Acquired,MIRAMAX,Committed,11/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PROPHECY
+7683,Do not use 3073,,,,,,,PROPHECY 5: THE FORSAKEN,Movies Acquired,MIRAMAX,Committed,11/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Mei-Cheng,PROPHECY
+7684,Do not use 491,,,,,,,PSI (EPS 14-23),Movies Acquired,INTERCOMPANY,Committed,1/1/16,,,,HBO Acquired,2016,,,11/3/23,0,Mei-Cheng,PSI
+7686,Do not use 4678,,,,,,,PSI (EPS 24-33),Movies Acquired,INTERCOM,Committed,4/1/17,,,,HBO Acquired,2017,,,11/3/23,0,Mei-Cheng,PSI
+7688,Do not use 504,,,,,,,PSI - [EP 34 - 43 - SEASON 4],Movies Acquired,INTERCOMPANY,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Mei-Cheng,PSI
+7693,MAX-AQ-001673,,,,,,,Pac-Man S1,Kids Content Acquired,SMASH ANIMATION LL,Committed,10/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Pac-Man
+7694,MAX-AQ-001674,,,,,,,Pac-Man S2,Kids Content Acquired,SMASH ANIMATION LL,Committed,10/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Pac-Man
+7696,MAX-AQ-001675,,,,,,,Pac-Man S3,Kids Content Acquired,SMASH ANIMATION LL,Committed,10/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Pac-Man
+7702,MAX-AQ-005654,,,,,,,Pacto Brutal - HBOMax,International Content Acquired,HBO INT. - SERIES,Committed,7/21/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Pacto Brutal
+7709,HBO-OP-000970,,,,,,,Pandemic Kids Project,Special Original,,Committed,,,WCF-10022623,No,HBO OP,,,,11/3/23,0,Mei-Cheng,Pandemic Kids Project
+7712,MAX-AQ-003741,,,,,,,Para,International Content Acquired,HBO INT. - SERIES,Committed,10/26/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Para
+7715,MAX-AQ-007445,,,,,,,Para - We Are King (S2) - HBOMax,International Content Original,HBO INT. - SERIES,Committed,4/17/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,We Are King 
+7716,MAX-AQ-003649,,,,,,,Paraiso S1,Drama Series Acquired,,Committed,10/28/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Paraiso
+7717,MAX-AQ-003650,,,,,,,Paraiso S2,Drama Series Acquired,,Committed,12/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Paraiso
+7719,MAX-AQ-002432,,,,,,,"Parent 'Hood, The",Comedy Series Acquired,WB,Committed,11/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Parent 'Hood
+7721,HBO-OP-001155,,,,,,,Parole Prep,Documentary Feature Original,,Committed,,,WCF-10024192,No,HBO OP,2025,,,11/3/23,0,Mei-Cheng,Parole Prep
+7731,MAX-AQ-005386,,,,,,,"Patch of Blue, A",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Patch of
+7749,MAX-OP-000175,,,,,,,Peacemaker S1,Drama Series Original,WBTV,Committed,,,DTC1184,No,Max OP,2022,,,11/3/23,0,Mei-Cheng,Peacemaker
+7751,MAX-AQ-001837,,,,,,,Peanuts by Schulz,Kids Content Acquired,WB,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Peanuts by Schulz
+7780,HBO-OP-001034,,,,,,,Pee-Wee: I Know You Are But What Am I,Documentary Feature Original,,Committed,,,WCF-10021784,No,HBO OP,2025,,,11/3/23,0,Mei-Cheng,I Know You Are But What Am I
+7781,MAX-AQ-004748,,,,,,,"Pelican Brief, The",Movies Acquired,WB,Committed,8/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Pelican Brief
+7816,HBO-OP-001237,,,,,,,Pelosi Doc TBD,Documentary Feature Original,,Uncommitted,,,Pelosi Doc TBD,No,HBO OP,2024,,,11/3/23,0,Mei-Cheng,Pelosi Doc TBD
+7818,MAX-AQ-004087,,,,,,,Pennyworth S1-2,Drama Series Original,WB,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Pennyworth
+7819,MAX-OP-000272,,,,,,,Pennyworth: The Origin of Batman's Butler S3,Drama Series Original,WBTV,Committed,,,DTC1258,No,Max OP,2022,,,11/3/23,0,Mei-Cheng,Pennyworth
+7820,MAX-AQ-002190,,,,,,,"People v. The Klan, The",Documentary Series Acquired,CNN,Committed,9/18/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,People v.
+7821,MAX-OP-000080,,,,,,,Perfect Life S1,International Content Original,MOVISTAR+,Committed,,,DTC1155,No,Max OP,2021,,,11/3/23,0,Mei-Cheng,Perfect Life
+7822,MAX-OP-000159,,,,,,,Perfect Life S2,International Content Original,MOVISTAR+,Committed,,,DTC1228,No,Max OP,2021,,,11/3/23,0,Mei-Cheng,Perfect Life
+7827,MAX-AQ-001279,,,,,,,"Perfect Murder, A",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Perfect Murder
+7829,MAX-AQ-000641,,,,,,,"Perfect Storm, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Perfect Storm
+7853,MAX-AQ-000642,,,,,,,"Perfect World, A",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Perfect World
+7854,MAX-OP-000090,,,,,,,Persona The Dark Truth Behind Personality Tests (CNN),Documentary Feature Original,CNN,Committed,,,DTC1062,No,Max OP,2021,,,11/3/23,0,Mei-Cheng,The Dark Truth Behind Personality
+7855,HBO-OP-000523,,,,,,,Pete Rose Doc,Documentary Feature Original,,Committed,,,SPT-10023934,No,HBO OP,2024,,,11/3/23,0,Mei-Cheng,Pete Rose Doc
+7859,HBO-OP-000971,,,,,,,Peter Thiel Project,Special Original,,Uncommitted,,,WCF-10020835,No,HBO OP,,,,11/3/23,0,Mei-Cheng,Peter Thiel Project
+7860,MAX-AQ-007750,,,,,,,"Phantom of the Opera, The",Movies Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Phantom of
+7867,HBO-OP-001154,,,,,,,Philadelphia Music Project,Documentary Feature Original,,Committed,,,WCF-10024253,No,HBO OP,2023,,,11/3/23,0,Mei-Cheng,Philadelphia Music Project
+7868,MAX-AQ-004749,,,,,,,"Philadelphia Story, The",Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Philadelphia Story
+7891,MAX-AQ-005876,,,,,,,Pico De Neblina S2,International Content Original,HBO INT. - SERIES,Committed,8/12/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Pico De Neblina
+7910,MAX-AQ-007751,,,,,,,"Pirate, The",Movies Acquired,WB,Committed,11/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Pirate
+7998,HBO-OP-000869,,,,,,,Playback,Documentary Feature Original,,Committed,,,WCF-10020302,No,HBO OP,,,,11/3/23,0,Mei-Cheng,Playback
+8000,MAX-AQ-006586,,,,,,,Point Break (2015),Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Point Break
+8001,MAX-AQ-003029,,,,,,,"Polar Express, The",Movies Acquired,WB,Committed,4/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Polar Express
+8023,MAX-AQ-000870,,,,,,,Polyester,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Polyester
+8024,MAX-AQ-000653,,,,,,,Pop Star,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Mei-Cheng,Pop Star
+8026,MAX-AQ-002017,,,,,,,Pope: The Most Powerful Man in History^,Documentary Series Acquired,CNN,Committed,12/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,The Most Powerful Man in 
+8027,MAX-AQ-001680,,,,,,,Possessions S1,International Content Original,STUDIOCANAL,Committed,1/28/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Possessions
+8029,MAX-AQ-002230,,,,,,,Possessions S2 Option,International Content Original,STUDIOCANAL TV GMBH,Uncommitted,10/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Possessions Option
+8030,MAX-AQ-005581,,,,,,,Post WBD Merger Interest Adj,"Development, Overall Deals, Other",WB,Committed,6/30/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Post WBD
+8106,MAX-AQ-006599,,,,,,,"Postman Always Rings Twice, The (1946)",Movies Acquired,WB,Committed,1/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Postman Always
+8122,MAX-AQ-002882,,,,,,,"Postman Always Rings Twice, The (1981)",Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Postman Always
+8126,MAX-AQ-007844,,,,,,,Powerpuff Girls,Kids Content Acquired,CN,Committed,5/27/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Powerpuff Girls
+8127,MAX-AQ-007845,,,,,,,Powerpuff Girls (2016),Kids Content Acquired,CN,Committed,5/27/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Powerpuff Girls
+8128,MAX-AQ-007270,,,,,,,Powerpuff Girls (2016) (Co Ex Price),Kids Content Acquired,CN,Uncommitted,10/1/24,,,Yes,Max Acquired,2024,,,11/3/23,0,Mei-Cheng,Powerpuff Girls
+8130,MAX-AQ-001988,,,,,,,"Powerpuff Girls (Classic), The",Kids Content Acquired,CN,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Powerpuff Girls
+8131,MAX-AQ-007316,,,,,,,Powerpuff Girls (Co Ex Price),Kids Content Acquired,CN,Uncommitted,1/1/26,,,Yes,Max Acquired,2026,,,11/3/23,0,Mei-Cheng,Powerpuff Girls
+8133,MAX-AQ-001989,,,,,,,"Powerpuff Girls, The",Kids Content Acquired,CN,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Powerpuff Girls
+8134,MAX-AQ-005701,,,,,,,President Curtis (Rick and Morty Spinoff) 101-110,Adult Animation Acquired,AS,Committed,3/1/25,,,No,Max Acquired,2025,,,11/3/23,0,Mei-Cheng,President Curtis
+8135,MAX-OP-000245,,,,,,,Pretty Little Liars: Original Sin S1,Drama Series Original,WBTV,Committed,,,DTC1185,No,Max OP,2022,,,11/3/23,0,Mei-Cheng,Pretty Little
+8136,MAX-OP-000445,,,,,,,Pretty Little Liars: Summer School (S2),Drama Series Original,WBTV,Committed,,,DTC1383,No,Max OP,2024,,,11/3/23,0,Mei-Cheng,Pretty Little
+8137,MAX-AQ-006603,,,,,,,Pride and Prejudice (1940),Movies Acquired,WB,Committed,2/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Pride and
+8141,MAX-AQ-001571,,,,,,,Pride and Prejudice (1995),Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Pride and
+8142,MAX-AQ-005835,,,,,,,Primal S1A,Comedy Series Acquired,AS,Committed,5/27/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Primal A
+8143,MAX-AQ-007753,,,,,,,"Prince and the Pauper, The",Movies Acquired,WB,Committed,11/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,Prince and
+8144,MAX-AQ-002080,,,,,,,"Problem with Apu, The",Special Acquired,TRUTV,Committed,7/10/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Problem with Apu
+8145,MAX-AQ-003072,,,,,,,Prodigal Son S1 (w extensions),Drama Series Acquired,WB,Committed,3/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Prodigal Son
+8146,MAX-AQ-003073,,,,,,,Prodigal Son S2 (w extensions),Drama Series Acquired,WB,Committed,8/23/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Prodigal Son
+8147,HBO-AQ-005574,,,,,,,Production Services-Acquired,"Development, Overall Deals, Other",,Committed,,,Production Services-Acquired,No,HBO Acquired,,,,11/3/23,0,Mei-Cheng,Production Services-Acquired
+8148,HBO-OP-000816,,,,,,,Production Services-OP,"Development, Overall Deals, Other",,Committed,,,Production Services-OP,No,HBO OP,,,,11/3/23,0,Mei-Cheng,Production Services-OP
+8149,MAX-OP-000356,,,,,,,Project Greenlight S1 + Gray Matter (movie),Unscripted Original,MIRAMAX HOORAE,Committed,,,DTC1284,No,Max OP,2023,,,11/3/23,0,Mei-Cheng,Project Greenlight
+8150,MAX-AQ-007323,,,,,,,We Bare Bears (Co Ex Price),Kids Content Acquired,CN,Uncommitted,1/1/26,,,Yes,Max Acquired,2026,,,11/3/23,0,Mei-Cheng,We Bare
+8152,MAX-AQ-002207,,,,,,,We Bare Bears Movie,Kids Content Acquired,CN,Committed,2/7/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,We Bare
+8153,MAX-AQ-001999,,,,,,,We Bare Bears S1-S2,Kids Content Acquired,CN,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,We Bare
+8154,MAX-AQ-002000,,,,,,,We Bare Bears S3-S4,Kids Content Acquired,CN,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,We Bare
+8155,HBO-OP-001015,,,,,,,We Don't Break,Documentary Feature Original,,Committed,,,SPT-10024059,No,HBO OP,2024,,,11/3/23,0,Mei-Cheng,We Don't Break
+8156,MAX-AQ-007254,,,,,,,We Will Rise: Michelle Obama's Misssion to Educate Girls Around the World,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Mei-Cheng,We Will
+8157,MAX-AQ-002026,,,,,,,We Will Rise: Michelle Obama�s Mission To Educate Girls Around The World^,Documentary Series Acquired,CNN,Committed,9/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,We Will
+8187,HBO-OP-001173,,,,,,,We're Here S4,Unscripted Original,,Committed,,,WCF-10023243,No,HBO OP,2024,,,11/3/23,0,Mei-Cheng,We're Here
+9253,Do not use 2996,,,,,,,DIE ANOTHER DAY,Movies Acquired,MGM,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,DIE ANOTHER DAY
+8192,TBD-1,,,,,,,Weapons (NL),Movies Acquired,WB,Committed,9/14/24,,,,HBO Acquired,2024,,,11/3/23,0,Mei-Cheng,Weapons
+8193,MAX-AQ-003594,,,,,,,"Wedding Singer, The",Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Wedding Singer
+9580,MAX-AQ-003756,,,,,,,"Diego, The Last Goodbye (AKA La Pasion) (Argentina)",International Content Original,HBO INT. - SERIES,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Diego Last
+9581,MAX-OP-000259,,,,,,,Dionne Warwick: Don't Make Me Over (CNN),Documentary Feature Original,TBD,Committed,,,DTC1352,No,Max OP,2023,,,11/3/23,0,Viju,Dionne Warwick:
+8538,HBO-OP-000891,,,,,,,Welcome to Topeka,Documentary Feature Original,,Committed,,,WCF-10023145,No,HBO OP,2025,,,11/3/23,0,Mei-Cheng,Welcome to Topeka
+8546,MAX-AQ-003749,,,,,,,Welcome to Utmark (AKA Wilderness),International Content Acquired,HBO INT. - SERIES,Committed,10/14/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Welcome to
+8547,MAX-AQ-001728,,,,,,,Wellington Paranormal S1,Comedy Series Acquired,NEW ZEALAND DOCUMENTARY BOARD LIMITED,Committed,7/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Wellington Paranormal
+8548,MAX-AQ-001729,,,,,,,Wellington Paranormal S2,Comedy Series Acquired,NEW ZEALAND DOCUMENTARY BOARD LIMITED,Committed,8/15/21,,,No,Max Acquired,2021,,,11/3/23,0,Mei-Cheng,Wellington Paranormal
+8551,MAX-AQ-001730,,,,,,,Wellington Paranormal S3,Comedy Series Acquired,NEW ZEALAND DOCUMENTARY BOARD LIMITED,Committed,6/3/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Wellington Paranormal
+8552,MAX-AQ-001731,,,,,,,Wellington Paranormal S4,Comedy Series Acquired,NEW ZEALAND DOCUMENTARY BOARD LIMITED,Committed,7/3/22,,,No,Max Acquired,2022,,,11/3/23,0,Mei-Cheng,Wellington Paranormal
+8559,MAX-AQ-006967,,,,,,,"West Wing, The",Drama Series Acquired,WB,Uncommitted,1/1/26,,,No,Max Acquired,2026,,,11/3/23,0,Mei-Cheng,West Wing
+8582,MAX-AQ-001732,,,,,,,Weston Woods (Mo Willems Specials),Kids Content Acquired,"MO WILLEMS STUDIO, INC.",Committed,9/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Mei-Cheng,Weston Woods
+9254,Do not use 4696,,,,,,,"DIOS, INC. (EPS 01-12)",Movies Acquired,INTERCOM,Committed,5/1/16,,,,HBO Acquired,2016,,,11/3/23,0,Viju,"DIOS, INC."
+9582,MAX-AQ-001073,,,,,,,Dirt (2017),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Dirt
+9265,MAX-AQ-000213,,,,,,,DIRTY DANCING (1987),Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,3/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,DIRTY DANCING
+9583,MAX-AQ-000801,,,,,,,"Dirty Dozen, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Dirty Dozen
+9266,MAX-AQ-000214,,,,,,,"DISAPPEARANCE OF ALICE CREED, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,8/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,DISAPPEARANCE OF
+9591,Do not use 1410,,,,,,,Discounting / Interest Adj (I/C),Movies Acquired,3RD-PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,Discounting /
+9592,MAX-AQ-007267,,,,,,,Discovery of Witches S1 - S3,Drama Series Acquired,RAINBOW MEDIA HOLDINGS LLC,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Discovery of
+9268,Do not use 1642,,,,,,,DISOBEDIENCE,Movies Acquired,BLEECKER,Committed,9/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DISOBEDIENCE
+9271,MAX-OP-000194,,,,,,,DMZ S1,Drama Series Original,WBTV,Committed,,,DTC1192,No,Max OP,2022,,,11/3/23,0,Viju,DMZ
+9272,Do not use 5071,,,,,,,DOCTOR DOLITTLE x,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,DOCTOR DOLITTLE x
+9273,Do not use 5946,,,,,,,DOCTOR SLEEP - 0636836_13-108.2,Movies Acquired,WB,Committed,6/21/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DOCTOR SLEEP
+9595,MAX-AQ-001487,,,,,,,Doctor Who: Season 11,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Doctor Who:
+9607,MAX-AQ-001489,,,,,,,Doctor Who: Season 12,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,9/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Doctor Who:
+9613,MAX-AQ-001491,,,,,,,Doctor Who: Season 13,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Doctor Who:
+9614,MAX-AQ-005578,,,,,,,Doctor Who: Season 13 Special #1,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Doctor Who:
+9616,MAX-AQ-005579,,,,,,,Doctor Who: Season 13 Special #2,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,10/17/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Doctor Who:
+9617,MAX-AQ-005580,,,,,,,Doctor Who: Season 13 Special #3,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,5/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Doctor Who:
+9618,MAX-AQ-001490,,,,,,,Doctor Who: Special: 2020 ,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,7/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Doctor Who:
+9619,MAX-AQ-001488,,,,,,,Doctor Who: Special: New Year 2019,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Doctor Who:
+9287,HBO-OP-001209,,,,,,,DOCU TBD 1,Documentary Feature Original,,Uncommitted,,,WCF-10023568,No,HBO OP,,,,11/3/23,0,Viju,DOCU TBD 1
+9288,HBO-OP-001210,,,,,,,DOCU TBD 2,Documentary Feature Original,,Uncommitted,,,WCF-10023568,No,HBO OP,,,,11/3/23,0,Viju,DOCU TBD 2
+9295,HBO-OP-001211,,,,,,,DOCU TBD 3,Documentary Feature Original,,Uncommitted,,,WCF-10023568,No,HBO OP,,,,11/3/23,0,Viju,DOCU TBD 3
+9296,HBO-OP-001212,,,,,,,DOCU TBD 4,Documentary Feature Original,,Uncommitted,,,WCF-10023568,No,HBO OP,,,,11/3/23,0,Viju,DOCU TBD 4
+9593,MAX-AQ-005546,,,,,,,DoDo - S1 - HBOMax - K&F,Kids Content Acquired,"CAKE DISTRIBUTION, LTD.",Committed,4/28/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Viju,DoDo
+9594,MAX-AQ-005547,,,,,,,DoDo - S2 - HBOMax - K&F,Kids Content Acquired,"CAKE DISTRIBUTION, LTD.",Committed,1/1/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Viju,DoDo
+9297,Do not use 3588,,,,,,,DON JON,Movies Acquired,RELATIVITY,Committed,6/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,DON JON
+9305,Do not use 3166,,,,,,,DONT BE AFRAID OF THE DARK REMAKE,Movies Acquired,MIRAMAX,Committed,11/1/31,,,,HBO Acquired,2031,,,11/3/23,0,Viju,DONT BE
+9306,818116,,,,,,,DONT LET GO,Movies Acquired,UNIVERSAL,Committed,5/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DONT LET GO
+9314,Do not use 5827,,,,,,,DONT LET GO - 0643453_12-148,Movies Acquired,UNI,Committed,5/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DONT LET
+9321,807097,,,,,,,DONT WORRY DARLING,Movies Acquired,NEW LINE,Committed,11/7/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,DONT WORRY DARLING
+9620,MAX-AQ-001798,,,,,,,Doom Patrol (S3 Price Increase),Drama Series Original,WB,Committed,9/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Doom Patrol
+9621,MAX-AQ-001799,,,,,,,Doom Patrol (S4 Price Increase),Drama Series Original,WB,Committed,12/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Doom Patrol
+9623,MAX-AQ-001797,,,,,,,Doom Patrol S1,Drama Series Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Doom Patrol
+9629,MAX-AQ-005710,,,,,,,Doom Patrol S1 Fee Bump,Drama Series Acquired,WB,Committed,8/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Doom Patrol
+9630,MAX-OP-000314,,,,,,,Doom Patrol S4A,Drama Series Original,WBTV,Committed,,,DTC1271,No,Max OP,2022,,,11/3/23,0,Viju,Doom Patrol
+9631,MAX-OP-000368,,,,,,,Doom Patrol S4B,Drama Series Original,WBTV,Committed,,,DOOMPATS4B,No,Max OP,2023,,,11/3/23,0,Viju,Doom Patrol
+9327,Do not use 4084,,,,,,,DOPE,Movies Acquired,OPEN ROAD,Committed,8/11/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,DOPE
+9329,Do not use 3667,,,,,,,DOPPELGANGER,Movies Acquired,SHOUT!,Committed,7/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,DOPPELGANGER
+9632,MAX-AQ-003912,,,,,,,Double Cross S1,Unscripted Acquired,TRUTV,Committed,2/4/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Double Cross
+9633,MAX-AQ-007422,,,,,,,Double Cultura - HBO_HBOMax,Movies Acquired,YESSENIA SANCHEZ,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Double Cultura
+9634,MAX-AQ-007151,,,,,,,Down The Hill: The Delphi Murders,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Down The
+9330,Do not use 5902,,,,,,,DOWNHILL - 0645196_12-114,Movies Acquired,FOX,Committed,10/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DOWNHILL - 0645196_12-114
+9331,Do not use 5961,,,,,,,DOWNTON ABBY - 0639615_12-148,Movies Acquired,UNI,Committed,5/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,DOWNTON ABBY
+9332,Do not use 5659,,,,,,,DR. DOLITTLE MILLION DOLLAR MUTTS,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,DR. DOLITTLE
+9356,Do not use 3858,,,,,,,DR. SEUSS HOW THE GRINCH STOLE CHRISTMAS,Movies Acquired,UNIVERSAL,Committed,2/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,DR. SEUSS
+9674,MAX-AQ-001470,,,,,,,Dr. Stone S2,International Content Acquired,"ELLATION, INC.",Committed,7/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Dr. Stone
+9677,MAX-AQ-001468,,,,,,,Dr. Stone Season 1,International Content Acquired,"ELLATION, INC.",Committed,7/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Dr. Stone
+9357,Do not use 4467,,,,,,,DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE,Movies Acquired,SONY - APPROVED  - ('24/'25 AVAILS),Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DR. STRANGELOVE
+9678,MAX-AQ-001486,,,,,,,Dr. Who Library Eps,Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Dr. Who
+9358,Do not use 5830,,,,,,,DRACULA 2014,Movies Acquired,UNI,Committed,9/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,DRACULA
+9688,MAX-AQ-001887,,,,,,,Dream Home Rescue (Seasons 4 & 5),Unscripted Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Dream Home
+9689,MAX-AQ-002229,,,,,,,Dreamland,Documentary Feature Acquired,CNN,Committed,2/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Dreamland
+9359,Do not use 2414,,,,,,,DREDD 3D,Movies Acquired,LIONS GATE,Committed,2/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Viju,DREDD 3D
+9384,Do not use 1982,,,,,,,DRIVE ME CRAZY,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,DRIVE ME CRAZY
+9710,MAX-AQ-003165,,,,,,,Drive My Car (First Window),Movies Acquired,"JANUS FILMS COMPANY, LP",Committed,3/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Drive My
+9711,MAX-AQ-003166,,,,,,,Drive My Car (Second Window),Movies Acquired,"JANUS FILMS COMPANY, LP",Committed,9/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Viju,Drive My
+9749,MAX-AQ-005300,,,,,,,"Drowning Pool, The",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Drowning Pool
+9387,Do not use 2045,,,,,,,DRUGSTORE COWBOY,Movies Acquired,LIONS GATE,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,DRUGSTORE COWBOY
+9388,Do not use 1948,,,,,,,"DUDE, WHERES MY CAR?",Movies Acquired,FOX,Committed,10/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,"DUDE, WHERES"
+9767,MAX-AQ-002985,,,,,,,Dune (First Window),Movies Acquired,WB,Committed,10/22/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Dune Window)
+9768,MAX-AQ-003002,,,,,,,Dune (Second Window),Movies Acquired,WB,Committed,6/10/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Dune Window)
+9389,Do not use 3860,,,,,,,DUNE W2,Movies Acquired,UNIVERSAL,Committed,10/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,DUNE
+9390,Do not use 1352,,,,,,,DUNE: PART TWO,Movies Acquired,INTERCOMPANY,Committed,3/18/31,,,,HBO Acquired,2031,,,11/3/23,0,Viju,DUNE: PART TWO
+9859,Do not use 5212,,,,,,,Dunexx,Movies Acquired,UNI,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Viju,Dunexx
+9863,MAX-AQ-004020,,,,,,,Dunkirk (2017),Movies Acquired,WB,Committed,3/12/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Dunkirk
+9900,MAX-OP-000821,,,,,,,Duster S1,Drama Series Original,WBTV,Committed,,,DTC1234,No,Max OP,2024,,,11/3/23,0,Viju,Duster
+9929,MAX-OP-000921,,,,,,,Duster S2 / TBD,Drama Series Original,WBTV,Uncommitted,,,DTC1438,No,Max OP,2026,,,11/3/23,0,Viju,Duster / TBD
+9392,Do not use 1973,,,,,,,DUTCH,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,DUTCH
+9950,MAX-OP-000860,,,,,,,Dylan S1A,Kids Content Original,9 STORY,Committed,,,HKF0043,Yes,Max OP,2024,,,11/3/23,0,Viju,Dylan
+9981,MAX-OP-000865,,,,,,,Dylan S1B,Kids Content Original,TP,Committed,,,DYLANS1B,Yes,Max OP,2024,,,11/3/23,0,Viju,Dylan
+10058,MAX-OP-000872,,,,,,,Dylan S1C,Kids Content Original,TP,Committed,,,DYLANS1C,Yes,Max OP,2025,,,11/3/23,0,Viju,Dylan
+10076,MAX-OP-000891,,,,,,,Dylan S1D,Kids Content Original,TP,Committed,,,DYLANS1D,Yes,Max OP,2025,,,11/3/23,0,Viju,Dylan
+13870,MAX-AQ-003148,,,,,,,Eat! (�Come!),Movies Acquired,PREMIUM FILMS,Committed,7/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Eat!
+13871,MAX-AQ-007842,,,,,,,"Ed, Edd 'n Eddy",Kids Content Acquired,CN,Committed,1/1/24,,,Yes,Max Acquired,2024,,,11/3/23,0,Viju,"Ed, Edd"
+13872,MAX-AQ-007858,,,,,,,"Ed, Edd 'n Eddy (Co Ex Price)",Kids Content Acquired,CN,Uncommitted,1/1/25,,,Yes,Max Acquired,2025,,,11/3/23,0,Viju,"Ed, Edd"
+10081,Do not use 860,,,,,,,EDDIE THE EAGLE,Movies Acquired,3RD-PARTY,Committed,5/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,EDDIE THE EAGLE
+13875,MAX-AQ-000462,,,,,,,Edge Of Darkness (2010),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Edge Of Darkness
+13879,HBO-OP-000425,,,,,,,Edge Of The Earth S1,Documentary Series Original,,Committed,,,SPT-10020826,No,HBO OP,2022,,,11/3/23,0,Viju,Edge Of the earth
+13880,HBO-OP-000502,,,,,,,Edge Of The Earth S2,Documentary Series Original,,Uncommitted,,,,No,HBO OP,,,,11/3/23,0,Viju,Edge Of the earth
+10151,MAX-AQ-002264,,,,,,,"EDUCATION, AN",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,EDUCATION
+13883,MAX-AQ-002010,,,,,,,"Eighties, The",Documentary Series Acquired,CNN,Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Eighties
+10152,Do not use 5106,,,,,,,EL AMOR NO PUEDE ESPERAR (AKA LOVE CAN'T WAIT),Movies Acquired,3RD PARTY,Committed,1/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL AMOR
+10192,Do not use 541,,,,,,,EL ANGEL AKA THE ANGEL,Movies Acquired,3RD PARTY,Committed,8/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,EL ANGEL
+13891,MAX-AQ-007419,,,,,,,El Carrito - HBO_HBOMax,Movies Acquired,PREMIUM FILMS SARL,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,El Carrito
+10206,Do not use 4554,,,,,,,EL HIPNOTIZADOR (EPS 01-8),Movies Acquired,INTERCOM,Committed,4/1/16,,,,HBO Acquired,2016,,,11/3/23,0,Viju,EL HIPNOTIZADOR
+10354,Do not use 4637,,,,,,,EL HIPNOTIZAZOR (EPS 9-16),Movies Acquired,INTERCOM,Committed,11/1/17,,,,HBO Acquired,2017,,,11/3/23,0,Viju,EL HIPNOTIZAZOR
+10416,Do not use 681,,,,,,,EL INCONVENIENTE (AKA ONE CAREFUL OWNER),Movies Acquired,3RD PARTY,Committed,2/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL INCONVENIENTE
+10422,Do not use 498,,,,,,,EL JARDIN DE BRONCE (EPS 1-8),Movies Acquired,INTERCOMPANY,Committed,6/1/17,,,,HBO Acquired,2017,,,11/3/23,0,Viju,EL JARDIN
+10451,Do not use 718,,,,,,,EL LAVAPLATOS AKA THE DISHWASHER,Movies Acquired,3RD PARTY,Committed,3/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,EL LAVAPLATOS
+10461,Do not use 488,,,,,,,EL NEGOCIO (EPS 14-26),Movies Acquired,INTERCOMPANY,Committed,7/1/15,,,,HBO Acquired,2015,,,11/3/23,0,Viju,EL NEGOCIO
+10477,Do not use 4809,,,,,,,EL NEGOCIO (EPS 40-51),Movies Acquired,INTERCOM,Committed,3/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Viju,EL NEGOCIO
+10479,Do not use 4672,,,,,,,EL NEGOCIO SEASON 3 (EPS 27 - 39),Movies Acquired,INTERCOM,Committed,8/1/16,,,,HBO Acquired,2016,,,11/3/23,0,Viju,EL NEGOCIO
+10504,Do not use 750,,,,,,,EL NOMBRE DEL HIJO (AKA THE NAME OF THE SON),Movies Acquired,3RD PARTY,Committed,6/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL NOMBRE
+10553,Do not use 3656,,,,,,,EL PARAMO AKA THE SQUAD,Movies Acquired,SHOUT!,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,EL PARAMO
+10568,Do not use 5216,,,,,,,EL PROFUGO (AKA THE INTRUDER),Movies Acquired,3RD PARTY,Committed,10/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL PROFUGO
+10653,Do not use 751,,,,,,,EL REMEDIO (AKA THE PRESCRIPTION),Movies Acquired,3RD PARTY,Committed,6/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL REMEDIO
+10690,Do not use 685,,,,,,,EL ROBO DEL SIGLO (AKA HEIST OF THE CENTURY),Movies Acquired,3RD PARTY,Committed,4/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL ROBO
+10704,Do not use 5127,,,,,,,EL ULTIMO BALSERO (AKA THE LAST RAFTER),Movies Acquired,3RD PARTY,Committed,6/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EL ULTIMO
+10707,Do not use 2020,,,,,,,ELEKTRA,Movies Acquired,FOX,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,ELEKTRA
+10711,MAX-AQ-000216,,,,,,,"ELEPHANT'S JOURNEY, AN",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,ELEPHANT'S JOURNEY
+13907,HBO-OP-001086,,,,,,,Elizabeth Taylor,Documentary Feature Original,,Committed,,,WCF-10021785,No,HBO OP,2024,,,11/3/23,0,Viju,Elizabeth Taylor
+13908,MAX-AQ-000074,,,,,,,Ella Enchanted (Library),Movies Acquired,MIRAMAX FILMS/FILMYARD HOLDINGS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Ella Enchanted
+13909,MAX-OP-000098,,,,,,,Ellen Next Great Designer S1,Unscripted Original,TELEPICTURES,Committed,,,DTC1036,No,Max OP,2021,,,11/3/23,0,Viju,Ellen Next
+13910,MAX-AQ-002209,,,,,,,Elliot from Earth S1,Kids Content Acquired,CN,Committed,9/10/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Viju,Elliot from Earth
+13911,MAX-OP-000784,,,,,,,Elmo and Tango Holiday Helpers (SS Special #3),Kids Content Original,SS,Committed,,,HKF0063,Yes,Max OP,2023,,,11/3/23,0,Viju,Elmo and
+13912,HBO-OP-001221,,,,,,,Elon Musk Documentary,Documentary Feature Original,,Committed,,,WCF-10025025,No,HBO OP,2026,,,11/3/23,0,Viju,Elon Musk Documentary
+13913,MAX-AQ-000806,,,,,,,Elvis: That's The Way It Is (Special Edition),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Elvis
+13925,MAX-AQ-000075,,,,,,,Emma (Library),Movies Acquired,MIRAMAX FILMS/FILMYARD HOLDINGS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,Emma
+10714,Do not use 5941,,,,,,,EMMA. - 0643896_12-148,Movies Acquired,UNI,Committed,10/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,EMMA
+10720,Do not use 2354,,,,,,,EMPIRE STATE,Movies Acquired,LIONS GATE,Committed,6/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,EMPIRE STATE
+10730,Do not use 539,,,,,,,EN EL SEPTIMO DIA (AKA ON THE SEVENTH DAY),Movies Acquired,3RD PARTY,Committed,12/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Viju,EN EL
+10763,Do not use 4095,,,,,,,END OF WATCH,Movies Acquired,OPEN ROAD,Committed,2/24/25,,,,HBO Acquired,2025,,,11/3/23,0,Viju,END OF WATCH
+10764,Do not use 982,,,,,,,ENDERS GAME,Movies Acquired,3RD-PARTY,Committed,3/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ENDERS GAME
+10783,Do not use 4981,,,,,,,ENDLESS LOVEx,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Viju,ENDLESS LOVE
+10785,Do not use 574,,,,,,,ENTRE NOS PART 1,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+10808,Do not use 591,,,,,,,ENTRE NOS PART 1 - WINDOW 4 PLACEHOLDER,Movies Acquired,3RD PARTY,Committed,6/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ENTRE NOS
+10813,Do not use 4707,,,,,,,ENTRE NOS PART 2,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS
+10886,Do not use 592,,,,,,,ENTRE NOS PART 2 - WINDOW 4 PLACEHOLDER,Movies Acquired,3RD PARTY,Committed,10/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ENTRE NOS
+10911,Do not use 576,,,,,,,ENTRE NOS PART 3,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+10959,Do not use 4677,,,,,,,ENTRE NOS PART 4,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS
+11022,Do not use 585,,,,,,,ENTRE NOS PRESENTS: ABOUT LAST NIGHT,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+11236,Do not use 4582,,,,,,,ENTRE NOS PRESENTS: ERIK RIVERA: SUPER WHITE,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS
+11240,Do not use 589,,,,,,,ENTRE NOS PRESENTS: FRANKIE QUINONES: SUPERHOMIES,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+11276,Do not use 4531,,,,,,,ENTRE NOS PRESENTS: FRANKIE QUINONES: SUPERHOMIESx,Special Original,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS
+11307,Do not use 582,,,,,,,ENTRE NOS PRESENTS: GINA BRILLON: EASILY OFFENDED,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+11313,Do not use 588,,,,,,,ENTRE NOS PRESENTS: IAN LARA AND CHRIS ESTRADA: LA MEETS NY,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+11476,Do not use 595,,,,,,,ENTRE NOS PRESENTS: IAN LARA: PROBLEMATIC IMMUNITY,Movies Acquired,3RD PARTY,Committed,11/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ENTRE NOS
+11480,Do not use 567,,,,,,,ENTRE NOS PRESENTS: JESUS SEPULVEDA:MR. TOUGH LIFE [0650294_21-167],Movies Acquired,3RD PARTY,Committed,7/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ENTRE NOS
+11497,Do not use 584,,,,,,,ENTRE NOS PRESENTS: NICK GUERRA: LOVE ME AT MY WORST,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+11551,Do not use 4538,,,,,,,ENTRE NOS PRESENTS: SHAYLA RIVERA: IT'S NOT ROCKET SCIENCE,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS
+11699,Do not use 586,,,,,,,ENTRE NOS PRESENTS: THE WINNERS,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Viju,ENTRE NOS
+11719,Do not use 4785,,,,,,,ENTRE NOS SPOT ON,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS
+11868,Do not use 566,,,,,,,ENTRE NOS: CARMEN MORALES & ALFRED ROBLES [0650293_17-144.6],Movies Acquired,3RD PARTY,Committed,5/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ENTRE NOS:
+11872,Do not use 4838,,,,,,,ENTRE NOS: THE SERIES,Movies Acquired,3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Viju,ENTRE NOS:
+11886,Do not use 571,,,,,,,ENTRE NOS: THE WINNERS 2 - 0650295_17-144.6,Movies Acquired,3RD PARTY,Committed,10/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,THE WINNERS
+11902,Do not use 5491,,,,,,,ENTRE NOS: WHAT SHE SAID - 0650296_17-144.6,Movies Acquired,3RD PARTY,Committed,10/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,WHAT SHE SAID
+11904,Do not use 418,,,,,,,ERASER: REBORN - 0650693_21-140,Movies Acquired,INTERCOMPANY,Committed,10/5/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,ERASER: REBORN
+13926,HBO-OP-000845,,,,,,,Eric Roberts: Lucky Man,Documentary Feature Original,,Committed,,,WCF-10019678,No,HBO OP,,,,11/3/23,0,Viju,Eric Roberts
+12009,MAX-AQ-000217,,,,,,,"ESCAPE ARTIST, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,ESCAPE ARTIST
+12010,Do not use 3502,,,,,,,ESCAPE FROM ALCATRAZ,Movies Acquired,PARAMOUNT,Committed,7/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,ESCAPE FROM ALCATRAZ
+13927,HBO-OP-000870,,,,,,,Espionage,Documentary Feature Original,,Committed,,,WCF-10022030,No,HBO OP,2024,,,11/3/23,0,Viju,Espionage
+13928,HBO-OP-000603,,,,,,,Euphoria S4 / TBD,Drama Series Original,,Uncommitted,,,Euphoria S4,No,HBO OP,2026,,,11/3/23,0,Viju,Euphoria
+12109,MAX-AQ-007152,,,,,,,EVA LONGORIA: SEARCHING FOR MEXICO,Documentary Series Acquired,CNN,Committed,5/30/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,SEARCHING FOR MEXICO
+12153,Do not use 1704,,,,,,,EVER AFTER: A CINDERELLA STORY,Movies Acquired,FOX,Committed,6/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,A CINDERELLA STORY
+12175,Do not use 1111,,,,,,,EVEREST,Movies Acquired,3RD-PARTY,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,EVEREST
+12180,Do not use 2371,,,,,,,EVERYBODY WANTS TO BE ITALIAN,Movies Acquired,LIONS GATE,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,EVERYBODY WANTS
+12289,Do not use 3927,,,,,,,EVERYBODYS ALL-AMERICAN,Movies Acquired,WARNER BROS.,Committed,1/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,EVERYBODYS ALL-AMERICAN
+12319,Do not use 5076,,,,,,,EVERYONES HERO,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Viju,EVERYONES HERO
+12428,Do not use 2809,,,,,,,EVERYTHING YOU ALWAYS WANTED TO KNOW ABOUT SEX BUT WERE AFRA,Movies Acquired,MGM,Committed,2/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,EVERYTHING YOU
+12438,Do not use 1293,,,,,,,"EVERYTHING, EVERYTHING",Movies Acquired,INTERCOMPANY,Committed,7/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Viju,"EVERYTHING, EVERYTHING"
+12509,Do not use 2079,,,,,,,EVES BAYOU,Movies Acquired,LIONS GATE,Committed,10/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,EVES BAYOU
+12542,Do not use 5613,,,,,,,EVIL DEAD 2,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EVIL DEAD
+13929,MAX-AQ-007359,,,,,,,Evil Dead and The Evil Dead - HBOMax,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,6/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Evil Dead
+12612,MAX-AQ-005768,,,,,,,EVIL DEAD II (1987),Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,6/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,EVIL DEAD
+13814,MAX-AQ-005838,,,,,,,EVIL DEAD III - Army of Darkness (1992),Movies Acquired,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,6/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,EVIL DEAD
+13815,MAX-AQ-004189,,,,,,,"EXORCISM OF EMILY ROSE, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/31/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,EXORCISM OF
+13827,MAX-AQ-000220,,,,,,,"EXPENDABLES 2, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,3/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,EXPENDABLES
+13828,MAX-AQ-000221,,,,,,,"EXPENDABLES 3, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,3/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,EXPENDABLES
+13835,MAX-AQ-000222,,,,,,,"EXPENDABLES, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,3/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,EXPENDABLES
+13852,Do not use 5303,,,,,,,EXPLOTA EXPLOTA (AKA MY HEART GOES BOOM!),Movies Acquired,3RD PARTY,Committed,6/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EXPLOTA EXPLOTA
+13854,Do not use 4609,,,,,,,EXTRANJERO (AKA FOREIGNER),Movies Acquired,3RD PARTY,Committed,8/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,EXTRANJERO
+13859,Do not use 1635,,,,,,,EYE IN THE SKY,Movies Acquired,BLEECKER,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,EYE IN
+14110,MAX-AQ-002812,,,,,,,"Face In the Crowd, A",Movies Acquired,WB,Committed,2/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Face In
+14119,MAX-AQ-001522,,,,,,,"Fades, The",Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Viju,Fades
+14125,MAX-AQ-006539,,,,,,,"Family Meeting, The",Movies Acquired,GOLDEN TORTOISE CORP.,Committed,2/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Family Meeting
+14126,MAX-AQ-003679,,,,,,,Family Style (Season 1),Unscripted Acquired,WB,Committed,6/4/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Family Style
+14336,MAX-AQ-003680,,,,,,,Family Style (Season 2),Unscripted Acquired,WB,Committed,6/10/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Family Style
+13930,Do not use 480,,,,,,,FANTASMAGORIAS 10: CASA TIA TONA,Movies Acquired,INTERCOMPANY,Committed,11/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FANTASMAGORIAS
+13931,Do not use 485,,,,,,,FANTASMAGORIAS 11: EL AMOHADON DE PLUMAS,Movies Acquired,INTERCOMPANY,Committed,12/16/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FANTASMAGORIAS
+13932,Do not use 522,,,,,,,FANTASMAGORIAS 12: LA MUNECA MALDITA - 2W,Movies Acquired,INTERCOMPANY,Committed,2/21/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,FANTASMAGORIAS
+13934,Do not use 478,,,,,,,FANTASMAGORIAS S1 [EP 1-8] - 2W,Movies Acquired,INTERCOMPANY,Committed,1/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FANTASMAGORIAS
+13942,Do not use 479,,,,,,,FANTASMAGORIAS S2 [EP 9] - 2W LA OIUJA,Movies Acquired,INTERCOMPANY,Committed,5/22/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FANTASMAGORIAS
+14398,HBO-OP-000494,,,,,,,Fantasmas S1,Comedy Series Original,,Committed,,,WCF-10021499,No,HBO OP,2024,,,11/3/23,0,Viju,Fantasmas
+13976,Do not use 1336,,,,,,,FANTASTIC BEASTS 3,Movies Acquired,INTERCOMPANY,Committed,12/30/29,,,,HBO Acquired,2029,,,11/3/23,0,Viju,FANTASTIC BEASTS
+13984,Do not use 1987,,,,,,,FAST FOOD NATION,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FAST FOOD NATION
+14019,Do not use 1919,,,,,,,FAT ALBERT,Movies Acquired,FOX,Committed,7/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,FAT ALBERT
+14020,Do not use 5945,,,,,,,FATALE - 0645553_11-110,Movies Acquired,SUMMIT,Committed,6/12/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,FATALE
+14033,Do not use 1277,,,,,,,FATHER FIGURES (AKA FATHER FIGURES),Movies Acquired,INTERCOMPANY,Committed,4/20/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FATHER FIGURES
+14036,Do not use 3928,,,,,,,FATHERS DAY,Movies Acquired,WARNER BROS.,Committed,1/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FATHERS DAY
+8758,HBO-OP-001153,,,,,,,Faye,Documentary Feature Original,,Committed,,,WCF-10024068,No,HBO OP,2025,,,11/3/23,0,Neha,Faye
+14038,Do not use 894,,,,,,,FERDINAND,Movies Acquired,3RD-PARTY,Committed,2/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Viju,FERDINAND
+14039,HBO-OP-000780,,,,,,,FILMS OCI,"Development, Overall Deals, Other",,Uncommitted,,,WCF-FILMS OCI,No,HBO OP,,,,11/3/23,0,Viju,FILMS OCI
+8759,HBO-OP-000773,,,,,,,Films Operating FX Gain/(Loss),"Development, Overall Deals, Other",,Uncommitted,,,WCF-Films Operating FX Gain/(Loss),No,HBO OP,,,,11/3/23,0,Neha,Films Operating
+8760,MAX-AQ-007862,,,,,,,Final Myazaki Theatrical,Movies Acquired,GKIDS INC.,Committed,5/26/24,,,No,Max Acquired,2024,,,11/3/23,0,Neha,Final Myazaki Theatrical
+14040,Do not use 3476,,,,,,,FIRE IN THE SKY,Movies Acquired,PARAMOUNT,Committed,3/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FIRE IN
+14041,Do not use 1979,,,,,,,FIRESTORM,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FIRESTORM
+14042,MAX-AQ-000118,,,,,,,"FIRST WIVES CLUB, THE",Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Viju,FIRST WIVES CLUB
+14043,Do not use 1391,,,,,,,FIST FIGHT,Movies Acquired,INTERCOMPANY,Committed,4/16/25,,,,HBO Acquired,2025,,,11/3/23,0,Viju,FIST FIGHT
+14044,Do not use 3001,,,,,,,FIST OF FURY,Movies Acquired,MIRAMAX,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,FIST OF FURY
+8762,MAX-OP-000432,,,,,,,Fixed,Movies Original,WBP,Committed,,,DTC1396,No,Max OP,2024,,,11/3/23,0,Neha,Fixed
+14045,Do not use 5839,,,,,,,FLARSKY - 0634175_11-110,Movies Acquired,SUMMIT,Committed,12/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,FLARSKY
+14046,Do not use 5010,,,,,,,FLAWLESS xx,Movies Acquired,MGM,Committed,,,,,HBO Acquired,2019,,,11/3/23,0,Viju,FLAWLESS
+8763,MAX-AQ-007336,,,,,,,"Flintstones, The - K&F",Kids Content Acquired,WB,Uncommitted,1/1/26,,,Yes,Max Acquired,2026,,,11/3/23,0,Neha,Flintstones - K&F
+14051,Do not use 427,,,,,,,FOLKLORES (EPS 1-6),Movies Acquired,INTERCOMPANY,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Viju,FOLKLORES
+8767,MAX-AQ-001099,,,,,,,Follow That Bird,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Neha,Follow That Bird
+14053,Do not use 431,,,,,,,FOOD LORE (EPS1-8),Movies Acquired,INTERCOMPANY,Committed,3/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FOOD LORE
+14056,Do not use 464,,,,,,,FOODIE LOVE 01-08,Movies Acquired,INTERCOMPANY,Committed,7/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FOODIE LOVE
+8768,MAX-AQ-005670,,,,,,,Fooly Cooly (1/2 hrs),Adult Animation Acquired,AS,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Neha,Fooly Cooly
+14058,Do not use 2991,,,,,,,FOR YOUR EYES ONLY,Movies Acquired,MGM,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FOR YOUR
+14059,817485,,,,,,,FORD V. FERRARI,Movies Acquired,FOX,Committed,6/20/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FERRARI
+14061,Do not use 5969,,,,,,,FORD V. FERRARI - 0642313_12-114,Movies Acquired,FOX,Committed,6/20/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,FERRARI
+8769,MAX-AQ-007157,,,,,,,Forensic Files II S2,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Neha,Forensic Files II
+8773,MAX-AQ-007158,,,,,,,Forensic Files II S3,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Neha,Forensic Files II
+14066,Do not use 2582,,,,,,,FOREVER MY GIRL,Movies Acquired,LIONS GATE,Committed,8/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,FOREVER MY GIRL
+8774,Do not use 5976,,,,,,,Fox $80MM Inducement ('17 to '23),Movies Acquired,FOX,Committed,,,,,HBO Acquired,,,,11/3/23,0,Neha,Fox $80MM
+8777,Do not use 4522,,,,,,,Fox/Disney Repurchase Income (1W/2W),"Development, Overall Deals, Other",3RD PARTY,Committed,,,,,HBO Acquired,,,,11/3/23,0,Neha,Fox/Disney Repurchase
+8778,HBO-OP-001000-P,,,,,,,Franchise Pilot,Comedy Series Original,,Committed,,,Franchise Pilot,No,HBO OP,2024,,,11/3/23,0,Neha,Franchise Pilot
+8779,HBO-OP-001000,,,,,,,Franchise S1,Comedy Series Original,,Committed,,,Franchise S1,No,HBO OP,2024,,,11/3/23,0,Neha,Franchise
+8783,HBO-OP-001001,,,,,,,Franchise S2 / TBD,Comedy Series Original,,Uncommitted,,,Franchise S2,No,HBO OP,2025,,,11/3/23,0,Neha,Franchise / TBD
+8784,HBO-OP-001098,,,,,,,Franchise S3 / TBD,Comedy Series Original,,Uncommitted,,,WCF-10024192,No,HBO OP,2026,,,11/3/23,0,Neha,Franchise / TBD
+14067,Do not use 3122,,,,,,,FRANK MILLERS SIN CITY,Movies Acquired,MIRAMAX,Committed,7/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,FRANK MILLERS
+8794,MAX-AQ-007106,,,,,,,Frankelda Movie,International Content Original,HBO INT. - SERIES,Committed,11/1/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Neha,Frankelda Movie
+14068,Do not use 5943,,,,,,,FREAKY - 0646676_12-148,Movies Acquired,UNI,Committed,7/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Viju,FREAKY 
+14069,Do not use 3611,,,,,,,FREE BIRDS,Movies Acquired,RELATIVITY,Committed,1/1/27,,,,HBO Acquired,2027,,,11/3/23,0,Viju,FREE BIRDS
+14072,Do not use 4000,,,,,,,FREE WILLY 2 THE ADVENTURE HOME,Movies Acquired,WARNER BROS.,Committed,2/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,FREE WILLY
+14074,Do not use 4001,,,,,,,FREE WILLY 3 THE RESCUE,Movies Acquired,WARNER BROS.,Committed,2/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,FREE WILLY
+14075,Do not use 4628,,,,,,,"FRENCH LIEUTENANTS WOMAN, THE",Movies Acquired,MGM,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,FRENCH LIEUTENANTS WOMAN
+14077,Do not use 3521,,,,,,,FRIDAY THE 13TH A NEW BEGINNING,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14080,Do not use 3517,,,,,,,FRIDAY THE 13TH PART II,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14090,Do not use 3518,,,,,,,FRIDAY THE 13TH PART III,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14091,Do not use 3520,,,,,,,FRIDAY THE 13TH PART VI--JASON LIVES,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14092,Do not use 3522,,,,,,,FRIDAY THE 13TH PART VII - THE NEW BLOOD,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14093,Do not use 3523,,,,,,,FRIDAY THE 13TH PART VIII JASON TAKES MANHATTAN,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14094,Do not use 3519,,,,,,,FRIDAY THE 13TH: THE FINAL CHAPTER,Movies Acquired,PARAMOUNT,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FRIDAY THE
+14099,Do not use 4477,,,,,,,FRIGHT NIGHT,Movies Acquired,SONY - APPROVED  - ('24/'25 AVAILS),Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,FRIGHT NIGHT
+14100,Do not use 3125,,,,,,,FROM DUSK TILL DAWN 3: HANGMANS DAUGHTER,Movies Acquired,MIRAMAX,Committed,11/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Viju,FROM DUSK
+14108,MAX-AQ-004196,,,,,,,FROM HERE TO ETERNITY (1953),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,FROM HERE
+14109,Do not use 2997,,,,,,,FROM RUSSIA WITH LOVE,Movies Acquired,MGM,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Viju,FROM RUSSIA
+8795,MAX-OP-000410,,,,,,,Full Circle (LS),Drama Series Original,MAX,Committed,,,DTC1264,No,Max OP,2023,,,11/3/23,0,Neha,Full Circle
+8796,MAX-AQ-001682,,,,,,,Furchester Library,Kids Content Acquired,SESAME WORKSHOP,Committed,11/12/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Neha,Furchester Library
+8797,655660,,,,,,,Furiosa,Movies Acquired,WB,Committed,8/9/24,,,,HBO Acquired,2024,,,11/3/23,0,Neha,Furiosa
+8798,Do not use 3002,,,,,,,GAME OF DEATH,Movies Acquired,MIRAMAX,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Neha,GAME OF DEATH
+8824,HBO-OP-001213,,,,,,,Game Theory S5,Unscripted Original,,Uncommitted,,,Game Theory S4,No,HBO OP,,,,11/3/23,0,Neha,Game Theory S5
+8825,MAX-OP-000290,,,,,,,Gary Gulman: Born on 3rd Base,Special Original,TEAM COCO,Committed,,,DTC1083,No,Max OP,2023,,,11/3/23,0,Neha,Gary Gulman:
+8799,Do not use 4481,,,,,,,GATTACA,Movies Acquired,SONY - APPROVED  - ('24/'25 AVAILS),Committed,7/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Neha,GATTACA
+8826,MAX-OP-000149,,,,,,,Gen LOCK S2,Adult Animation Original,ROOSTER TEETH,Committed,,,DTC1045,No,Max OP,2021,,,11/3/23,0,Neha,Gen LOCK
+8827,MAX-OP-000091,,,,,,,Generation S1,Comedy Series Original,MAX,Committed,,,DTC1070,No,Max OP,2021,,,11/3/23,0,Neha,Generation
+8800,Do not use 4923,,,,,,,GENIUS x,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Neha,GENIUS x
+8801,Do not use 1431,,,,,,,GEORGE OF THE JUNGLE,Movies Acquired,DISNEY,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Neha,GEORGE OF
+8828,HBO-OP-000500,,,,,,,Get Millie Black S1,Drama Series Original,,Committed,,,Cut Block S1,No,HBO OP,2024,,,11/3/23,0,Neha,Get Millie Black
+8802,Do not use 3008,,,,,,,GET OVER IT,Movies Acquired,MIRAMAX,Committed,5/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Neha,GET OVER IT
+8804,Do not use 883,,,,,,,GIFTED,Movies Acquired,3RD-PARTY,Committed,7/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Neha,GIFTED
+8805,Do not use 2274,,,,,,,GIRL MOST LIKELY,Movies Acquired,LIONS GATE,Committed,4/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Neha,GIRL MOST LIKELY
+8806,Do not use 1136,,,,,,,GIRLS TRIP,Movies Acquired,3RD-PARTY,Committed,12/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Neha,GIRLS TRIP
+8807,MAX-AQ-007159,,,,,,,GIULIANI: WHAT HAPPENED TO AMERICA'S MAYOR?,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Neha,GIULIANI: WHAT
+8809,Do not use 2074,,,,,,,GO FOR IT!,Movies Acquired,LIONS GATE,Committed,8/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Neha,GO FOR IT!
+8830,HBO-OP-000907,,,,,,,God Save Texas,Documentary Series Original,,Committed,,,WCF-10020466,No,HBO OP,2024,,,11/3/23,0,Neha,God Save Texas
+8810,Do not use 5114,,,,,,,GODS NOT DEAD,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Neha,GODS NOT DEAD
+8812,Do not use 4471,,,,,,,GODZILLA 2000,Movies Acquired,SONY - APPROVED  - ('24/'25 AVAILS),Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Neha,GODZILLA 2000
+8831,655657,,,,,,,Godzilla X Kong: The New Empire,Movies Acquired,WB,Committed,6/29/24,,,,HBO Acquired,2024,,,11/3/23,0,Neha,Godzilla 
+8832,HBO-AQ-005569,,,,,,,Going Clear Library 2nd Extension,Documentary Series Acquired,,Committed,,,WCF-10021340,No,HBO Acquired,2021,,,11/3/23,0,Neha,Going Clear
+8833,HBO-AQ-005559,,,,,,,Going Clear Library Year 1,Documentary Series Acquired,,Committed,,,WCF-10020474,No,HBO Acquired,2019,,,11/3/23,0,Neha,Going Clear
+8838,MAX-AQ-005871,,,,,,,"Goles Limpios, Dinero Sucio",International Content Original,HBO INT. - SERIES,Committed,12/15/22,,,No,Max Acquired,2022,,,11/3/23,0,Neha,"Goles Limpios,"
+8813,Do not use 2397,,,,,,,GOOD LUCK CHUCK,Movies Acquired,LIONS GATE,Committed,7/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Neha,GOOD LUCK CHUCK
+8819,Do not use 1607,,,,,,,GOOD TIME,Movies Acquired,A24,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Neha,GOOD TIME
+8820,Do not use 892,,,,,,,GOODBYE CHRISTOPHER ROBIN,Movies Acquired,3RD-PARTY,Committed,1/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Neha,GOODBYE CHRISTOPHER ROBIN
+8821,Do not use 2888,,,,,,,GORKY PARK,Movies Acquired,MGM,Committed,5/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Neha,GORKY PARK
+8822,Do not use 3658,,,,,,,GRIFF THE INVISIBLE,Movies Acquired,SHOUT!,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Neha,GRIFF THE INVISIBLE
+8823,Do not use 774,,,,,,,GULLIVERS TRAVELS,Movies Acquired,3RD-PARTY,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Neha,GULLIVERS TRAVELS
+2890,HBO-OP-000823,,,,,,,Lost at Sea,Documentary Feature Original,,Committed,,,WCF-10021939,No,HBO OP,,,,11/3/23,0,Joe,Lost at Sea
+2904,MAX-OP-000327,,,,,,,Love & Death (LS),Drama Series Original,LIONSGATE TV,Committed,,,DTC1246,No,Max OP,2023,,,11/3/23,0,Joe,Love &
+2913,HBO-OP-001038,,,,,,,Love Has Won,Documentary Series Original,,Committed,,,WCF-10023369,No,HBO OP,2023,,,11/3/23,0,Joe,Love Has Won
+2914,Do Not Use 306,,,,,,,Low 1 (Horror) - 2025 Release,Movies Acquired,WB,Committed,11/22/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Low
+2915,Do Not Use 328,,,,,,,Low 1 (Horror) - 2026 Release,Movies Acquired,WB,Committed,4/4/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Low
+2916,Do Not Use 350,,,,,,,Low 1 (Horror) - 2027 Release,Movies Acquired,WB,Committed,3/20/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Low
+2921,Do Not Use 372,,,,,,,Low 1 (Horror) - 2028 Release,Movies Acquired,WB,Committed,3/18/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Low
+2922,Do Not Use 307,,,,,,,Low 2 (Horror) - 2025 Release,Movies Acquired,WB,Committed,4/5/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Low
+2923,Do Not Use 329,,,,,,,Low 2 (Horror) - 2026 Release,Movies Acquired,WB,Committed,3/21/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Low
+2971,Do Not Use 351,,,,,,,Low 2 (Horror) - 2027 Release,Movies Acquired,WB,Committed,7/31/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Low
+2972,Do Not Use 373,,,,,,,Low 2 (Horror) - 2028 Release,Movies Acquired,WB,Committed,7/29/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Low
+2973,Do Not Use 305,,,,,,,Low 3 (Horror) - 2025 Release,Movies Acquired,WB,Committed,4/26/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Low
+2976,Do Not Use 308,,,,,,,Low 4 (Horror) - 2025 Release,Movies Acquired,WB,Committed,3/22/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Low
+3351,MAX-OP-000096,,,,,,,Made For Love S1,Comedy Series Original,PARAMOUNT TV,Committed,,,DTC1009,No,Max OP,2021,,,11/3/23,0,Joe,Made For Love
+3352,MAX-OP-000209,,,,,,,Made for Love S2,Comedy Series Original,PARAMOUNT TV,Committed,,,DTC1261,No,Max OP,2022,,,11/3/23,0,Joe,Made for Love
+3353,HBO-OP-000857,,,,,,,Maggy Hurchalla Doc,Documentary Feature Original,,Committed,,,WCF-10021040,No,HBO OP,,,,11/3/23,0,Joe,Maggy Hurchalla Doc
+2977,Do not use 5854,,,,,,,MAGIC MIKE 2,Movies Acquired,WB,Committed,8/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MAGIC MIKE 2
+2978,Do not use 4527,,,,,,,MAGIC MIKE 2 - 0602634_13-108,Movies Acquired,WB,Committed,2/20/16,,,,HBO Acquired,2016,,,11/3/23,0,Joe,MAGIC MIKE
+2979,Do not use 1345,,,,,,,MAGIC MIKES LAST DANCE,Movies Acquired,INTERCOMPANY,Committed,9/1/30,,,,HBO Acquired,2030,,,11/3/23,0,Joe,MAGIC MIKES
+2995,Do not use 490,,,,,,,MAGNIFICA '70 (EPS 01-13),Movies Acquired,INTERCOMPANY,Committed,10/1/15,,,,HBO Acquired,2015,,,11/3/23,0,Joe,MAGNIFICA '70
+2999,Do not use 496,,,,,,,MAGNIFICA '70 (EPS 14-23),Movies Acquired,INTERCOMPANY,Committed,10/1/16,,,,HBO Acquired,2016,,,11/3/23,0,Joe,MAGNIFICA '70
+3001,Do not use 4764,,,,,,,MAGNIFICA '70 (EPS 24-33),Movies Acquired,INTERCOM,Committed,10/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Joe,MAGNIFICA '70
+3354,MAX-AQ-000058,,,,,,,Maid In Manhattan (Library),Movies Acquired,REVOLUTION STUDIOS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,Maid In
+3355,HBO-OP-000858,,,,,,,Maisha Film Project 1,Documentary Feature Original,,Committed,,,WCF-10015607,No,HBO OP,,,,11/3/23,0,Joe,Maisha Film
+3356,MAX-AQ-001624,,,,,,,"Make It Big, Make It Small S1",Kids Content Acquired,BLUE ANT INTERNATIONAL LIMITED,Committed,9/11/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Joe,Make It
+3357,MAX-AQ-002983,,,,,,,Malignant (First Window),Movies Acquired,WB,Committed,9/10/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,Malignant
+3358,MAX-AQ-003000,,,,,,,Malignant (Second Window),Movies Acquired,WB,Committed,4/27/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,Malignant
+3359,MAX-AQ-007029,,,,,,,"Maltese Falcon, The",Movies Acquired,WB,Committed,6/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,Maltese Falcon
+3366,MAX-AQ-004338,,,,,,,Mama O Papa (AKA You Keep The Kids),Movies Acquired,FILM FACTORY ENTERTAINMENT,Committed,12/20/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,Mama O
+3010,Do not use 4657,,,,,,,MAMON S1,Movies Acquired,INTERCOM,Committed,1/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MAMON
+3367,MAX-AQ-001215,,,,,,,"Man Apart, A",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,Man Apart
+3012,Do not use 5117,,,,,,,MAN DOWN x,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MAN DOWN
+3370,MAX-AQ-006451,,,,,,,"Man Who Came to Dinner, The",Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,Man Who
+3375,MAX-AQ-002852,,,,,,,"Man Who Would Be King, The",Movies Acquired,WB,Committed,1/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,Man Who
+3013,Do not use 5835,,,,,,,MAN WITH THE IRON FISTS,Movies Acquired,UNI,Committed,4/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MAN WITH
+3014,Do not use 2866,,,,,,,MANHATTAN,Movies Acquired,MGM,Committed,,,,,HBO Acquired,,,,11/3/23,0,Joe,MANHATTAN
+3015,Do not use 2047,,,,,,,MANHATTAN NIGHT,Movies Acquired,LIONS GATE,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MANHATTAN NIGHT
+3378,HBO-OP-000941,,,,,,,Maniac Cop S1,Drama Series Original,,Committed,,,WCF-10020571,No,HBO OP,,,,11/3/23,0,Joe,Maniac Cop
+3379,MAX-AQ-002984,,,,,,,Many Saints of Newark (First Window),Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,Many Saints
+3380,MAX-AQ-003001,,,,,,,Many Saints of Newark (Second Window),Movies Acquired,WB,Committed,5/17/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,Many Saints
+3385,MAX-AQ-001982,,,,,,,Mao Mao S1A,Kids Content Acquired,CN,Committed,9/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Joe,Mao Mao
+3391,MAX-AQ-001983,,,,,,,Mao Mao S1B ,Kids Content Acquired,CN,Committed,1/1/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Joe,Mao Mao
+3016,Do not use 569,,,,,,,MARCELLA ARGUELLO: BITCH GROW UP! [0633441_22-128],Movies Acquired,3RD PARTY,Committed,2/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,MARCELLA ARGUELLO:
+3017,Do not use 2037,,,,,,,MARGIN CALL,Movies Acquired,LIONS GATE,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MARGIN CALL
+3392,HBO-OP-000859,,,,,,,Maria List: Voices of PR,Documentary Feature Original,,Committed,,,WCF-10019433,No,HBO OP,,,,11/3/23,0,Joe,Voices of PR
+3393,MAX-AQ-006533,,,,,,,Mariachis S1,International Content Original,HBO INT. - SERIES,Committed,3/2/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,Mariachis
+3018,Do not use 2580,,,,,,,MARIANNE & LEONARD: WORDS OF LOVE,Movies Acquired,LIONS GATE,Committed,7/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MARIANNE &
+3394,MAX-AQ-003742,,,,,,,Maricon Perdido,International Content Original,HBO INT. - SERIES,Committed,10/26/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,Maricon Perdido
+3019,MAX-AQ-002293,,,,,,,MARIE ANTOINETTE (2006 FEATURE),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MARIE ANTOINETTE
+3395,HBO-OP-001182,,,,,,,Mariska Hargitay - Jayne Mansfield Project,Documentary Feature Original,,Uncommitted,,,,No,HBO OP,2026,,,11/3/23,0,Joe,Mariska Hargitay
+3029,Do not use 516,,,,,,,MAR�A MARTA EL CRIMEN DEL COUNTRY S1 1-8,Movies Acquired,INTERCOMPANY,Committed,8/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Joe,MARTA EL CRIMEN
+3020,Do not use 4094,,,,,,,MARSHALL,Movies Acquired,OPEN ROAD,Committed,1/15/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,MARSHALL
+3397,HBO-OP-000678,,,,,,,Martha's Vineyard S1,Drama Series Original,,Uncommitted,,,Martha's Vineyard S1,No,HBO OP,,,,11/3/23,0,Joe,Martha's Vineyard
+3398,HBO-OP-000679,,,,,,,Martha's Vineyard S2,Drama Series Original,,Uncommitted,,,Martha's Vineyard S2,No,HBO OP,,,,11/3/23,0,Joe,Martha's Vineyard
+3021,Do not use 4699,,,,,,,MARVINS ROOM,Movies Acquired,MIRAMAX,Committed,,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MARVINS ROOM
+3023,Do not use 1161,,,,,,,MARY QUEEN OF SCOTS,Movies Acquired,3RD-PARTY,Committed,4/1/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,MARY QUEEN
+3031,MAX-AQ-002294,,,,,,,"MASK OF ZORRO, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MASK OF ZORRO
+3034,Do not use 3630,,,,,,,MASTER OF DISGUISE,Movies Acquired,REVOLUTION,Committed,2/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Joe,MASTER OF DISGUISE
+3035,Do not use 432,,,,,,,MASTER OF NINE DRAGON FIST,Movies Acquired,INTERCOMPANY,Committed,4/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MASTER OF
+3038,Do not use 438,,,,,,,MASTER OF NINE DRAGON FIST - 2W,Movies Acquired,INTERCOMPANY,Committed,4/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MASTER OF
+3042,Do not use 433,,,,,,,MASTER OF WHITE CRANE FIST 2020 - 2W,Movies Acquired,INTERCOMPANY,Committed,4/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MASTER OF
+3043,Do not use 3590,,,,,,,MASTERMINDS,Movies Acquired,RELATIVITY,Committed,2/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,MASTERMINDS
+3056,MAX-AQ-002295,,,,,,,MATILDA (1996),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,MATILDA
+3065,Do not use 1280,,,,,,,MAX,Movies Acquired,INTERCOMPANY,Committed,9/6/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,MAX
+3066,Do not use 1418,,,,,,,MAX KEEBLES BIG MOVE,Movies Acquired,DISNEY,Committed,12/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Joe,MAX KEEBLES
+3069,HBO-OP-000781,,,,,,,MAX OCI,"Development, Overall Deals, Other",,Uncommitted,,,WCF-MAX OCI,No,HBO OP,,,,11/3/23,0,Joe,MAX OCI
+3417,Max OP Plug,,,,,,,Max OP Plug,"Development, Overall Deals, Other",TP,Committed,,,,No,Max OP,,,,11/3/23,0,Joe,Max OP Plug
+3070,HBO-OP-000789,,,,,,,MAX Series Catalog,"Development, Overall Deals, Other",,Committed,,,Business Affairs,No,HBO OP,,,,11/3/23,0,Joe,MAX Series Catalog
+3418,MAX-AQ-004977,,,,,,,May - December Uplift,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,May
+3071,Do not use 899,,,,,,,MAZE RUNNER: THE DEATH CURE,Movies Acquired,3RD-PARTY,Committed,4/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,MAZE RUNNER
+3093,Do not use 850,,,,,,,MAZE RUNNER: THE SCORCH TRIALS,Movies Acquired,3RD-PARTY,Committed,12/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,MAZE RUNNER
+3419,HBO-OP-001171,,,,,,,McKenzie Fieceton,Documentary Feature Original,,Uncommitted,,,WCF-10023335,No,HBO OP,,,,11/3/23,0,Joe,McKenzie Fieceton
+3094,Do not use 842,,,,,,,ME AND EARL AND THE DYING GIRL,Movies Acquired,3RD-PARTY,Committed,9/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,ME AND
+3095,Do not use 1671,,,,,,,"ME, MYSELF & IRENE",Movies Acquired,FOX,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Joe,"ME, MYSELF"
+3096,Do not use 3212,,,,,,,MEAN GIRLS,Movies Acquired,PARAMOUNT,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MEAN GIRLS
+3097,Do not use 996,,,,,,,MECHANIC: RESURRECTION,Movies Acquired,3RD-PARTY,Committed,1/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,MECHANIC: RESURRECTION
+3420,Do Not Use 323,,,,,,,Medium  3- 2026 Release,Movies Acquired,WB,Committed,1/16/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3421,Do Not Use 344,,,,,,,Medium  3- 2027 Release,Movies Acquired,WB,Committed,6/12/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3422,Do Not Use 366,,,,,,,Medium  3- 2028 Release,Movies Acquired,WB,Committed,6/10/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3423,Do Not Use 319,,,,,,,Medium (Anim) 1 - 2026 Release,Movies Acquired,WB,Committed,6/13/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3424,Do Not Use 340,,,,,,,Medium (Anim) 1 - 2027 Release,Movies Acquired,WB,Committed,6/12/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3425,Do Not Use 362,,,,,,,Medium (Anim) 1 - 2028 Release,Movies Acquired,WB,Committed,6/10/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3426,Do Not Use 320,,,,,,,Medium (Anim) 2 - 2026 Release,Movies Acquired,WB,Committed,10/17/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3427,Do Not Use 341,,,,,,,Medium (Anim) 2 - 2027 Release,Movies Acquired,WB,Committed,10/16/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3432,Do Not Use 363,,,,,,,Medium (Anim) 2 - 2028 Release,Movies Acquired,WB,Committed,10/14/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3434,Do Not Use 321,,,,,,,Medium 1 - 2026 Release,Movies Acquired,WB,Committed,12/26/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3446,Do Not Use 342,,,,,,,Medium 1 - 2027 Release,Movies Acquired,WB,Committed,4/3/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3463,Do Not Use 364,,,,,,,Medium 1 - 2028 Release,Movies Acquired,WB,Committed,4/1/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3433,Do Not Use 298,,,,,,,Medium 1 (anim) - 2025 Release,Movies Acquired,WB,Committed,6/14/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Medium
+3464,Do Not Use 302,,,,,,,Medium 2 - 2025 Release,Movies Acquired,WB,Committed,1/31/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3465,Do Not Use 322,,,,,,,Medium 2 - 2026 Release,Movies Acquired,WB,Committed,8/8/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3466,Do Not Use 343,,,,,,,Medium 2 - 2027 Release,Movies Acquired,WB,Committed,4/24/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3467,Do Not Use 365,,,,,,,Medium 2 - 2028 Release,Movies Acquired,WB,Committed,4/22/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3468,Do Not Use 303,,,,,,,Medium 3 - 2025 Release,Movies Acquired,WB,Committed,6/28/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Medium
+3470,Do Not Use 324,,,,,,,Medium 4 - 2026 Release,Movies Acquired,WB,Committed,6/13/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3471,Do Not Use 345,,,,,,,Medium 4 - 2027 Release,Movies Acquired,WB,Committed,7/17/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3472,Do Not Use 367,,,,,,,Medium 4 - 2028 Release,Movies Acquired,WB,Committed,6/17/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3469,Do Not Use 301,,,,,,,Medium 4 (anim) - 2025 Release,Movies Acquired,WB,Committed,8/23/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Medium
+3473,Do Not Use 304,,,,,,,Medium 5 - 2025 Release,Movies Acquired,WB,Committed,7/5/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Medium
+3474,Do Not Use 325,,,,,,,Medium 5 - 2026 Release,Movies Acquired,WB,Committed,6/20/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3475,Do Not Use 346,,,,,,,Medium 5 - 2027 Release,Movies Acquired,WB,Committed,8/7/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3476,Do Not Use 368,,,,,,,Medium 5 - 2028 Release,Movies Acquired,WB,Committed,8/5/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3477,Do Not Use 299,,,,,,,Medium 6 - 2025 Release,Movies Acquired,WB,Committed,10/18/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,Medium
+3478,Do Not Use 326,,,,,,,Medium 6 - 2026 Release,Movies Acquired,WB,Committed,4/25/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3479,Do Not Use 347,,,,,,,Medium 6 - 2027 Release,Movies Acquired,WB,Committed,11/20/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3480,Do Not Use 369,,,,,,,Medium 6 - 2028 Release,Movies Acquired,WB,Committed,11/18/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3481,Do Not Use 300,,,,,,,Medium 7 - 2025 Release,Movies Acquired,WB,Committed,1/10/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3482,Do Not Use 327,,,,,,,Medium 7 - 2026 Release,Movies Acquired,WB,Committed,11/21/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,Medium
+3485,Do Not Use 348,,,,,,,Medium 7 - 2027 Release,Movies Acquired,WB,Committed,12/25/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,Medium
+3486,Do Not Use 370,,,,,,,Medium 7 - 2028 Release,Movies Acquired,WB,Committed,12/23/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3487,Do Not Use 349,,,,,,,Medium 8 - 2027 Release,Movies Acquired,WB,Committed,1/15/28,,,,HBO Acquired,2028,,,11/3/23,0,Joe,Medium
+3488,Do Not Use 371,,,,,,,Medium 8 - 2028 Release,Movies Acquired,WB,Committed,1/13/29,,,,HBO Acquired,2029,,,11/3/23,0,Joe,Medium
+3098,Do not use 1349,,,,,,,MEG 2: THE TRENCH,Movies Acquired,INTERCOMPANY,Committed,12/18/30,,,,HBO Acquired,2030,,,11/3/23,0,Joe,MEG 2
+3099,MAX-AQ-000138,,,,,,,MEGAMIND (DWA),Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,MEGAMIND
+3100,Do not use 1644,,,,,,,MEGAN LEAVEY,Movies Acquired,BLEECKER,Committed,5/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,MEGAN LEAVEY
+3101,MAX-AQ-002296,,,,,,,MEN IN BLACK (1997),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,5/16/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,MEN IN
+3102,MAX-AQ-002297,,,,,,,MEN IN BLACK 3,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,5/16/23,,,No,Max Acquired,2023,,,11/3/23,0,Joe,MEN IN
+3103,Do not use 1685,,,,,,,MEN OF HONOR,Movies Acquired,FOX,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MEN OF HONOR
+3118,MAX-AQ-000265,,,,,,,"MEN WHO STARE AT GOATS, THE",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MEN WHO
+3119,Do not use 1605,,,,,,,MENASHE,Movies Acquired,A24,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MENASHE
+3489,HBO-OP-001094,,,,,,,Mental Health,Documentary Feature Original,,Uncommitted,,,2023 Wrap Party Costs,No,HBO OP,,,,11/3/23,0,Joe,Mental Health
+8188,MAX-AQ-006971,GYCVhjQCBs6KfnwEAAAAL,,,,,,"Mentalist, The",Drama Series Acquired,WB,Uncommitted,1/1/26,,,No,Max Acquired,2026,,,11/3/23,0,Joe,Mentalist
+3490,MAX-OP-000228,,,,,,,Menudo Forever Young (Please Be Good to Me),Documentary Series Original,"MUCK MEDIA, XTR",Committed,,,DTC1208,No,Max OP,2022,,,11/3/23,0,Joe,Menudo Forever
+3120,MAX-AQ-000266,,,,,,,"MERMAID'S TALE, A",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MERMAID'S TALE
+3491,MAX-OP-000873,,,,,,,Mermicorno S1,Kids Content Original,ATOMIC CARTOONS,Committed,,,HKF0054,Yes,Max OP,2025,,,11/3/23,0,Joe,Mermicorno
+3492,MAX-OP-000756,,,,,,,Mermicorno S1B,Kids Content Original,ATOMIC CARTOONS,Uncommitted,,,MERMIS1B,Yes,Max OP,2026,,,11/3/23,0,Joe,Mermicorno B
+3124,MAX-AQ-000139,,,,,,,"MEXICAN, THE�",Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,MEXICAN
+3125,Do not use 4519,,,,,,,MGM - APPROVED - ('24/'25 AVAILS),Movies Acquired,MGM,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Joe,MGM -
+3135,Do not use 2338,,,,,,,MI-5,Movies Acquired,LIONS GATE,Committed,2/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,Mision Impossible
+3494,655658,,,,,,,Mickey 17,Movies Acquired,WB,Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,Mickey 17
+3136,Do not use 2479,,,,,,,MIDDLE SCHOOL: THE WORST YEARS OF MY LIFE,Movies Acquired,LIONS GATE,Committed,9/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,MIDDLE SCHOOL:
+3149,Do not use 1606,,,,,,,MIDSOMMAR,Movies Acquired,A24,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MIDSOMMAR
+3153,Do not use 5965,,,,,,,MIDWAY - 0638796_11-110,Movies Acquired,SUMMIT,Committed,7/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MIDWAY
+3155,Do not use 863,,,,,,,MIKE AND DAVE NEED WEDDING DATES,Movies Acquired,3RD-PARTY,Committed,9/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MIKE AND
+3158,Do not use 4234,,,,,,,MIKE WALLACE IS HERE,Movies Acquired,MAGNOLIA,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MIKE WALLACE
+8229,MAX-AQ-003739,GYXg7swqpxsPDwgEAAAJq,,,,,,Mil Colmillos,International Content Original,HBO INT. - SERIES,Committed,12/9/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,Mil Colmillos
+3161,Do not use 3734,,,,,,,MILES TO GO BEFORE I SLEEP,Movies Acquired,SHOUT!,Committed,,,,,HBO Acquired,,,,11/3/23,0,Joe,MILES TO
+3164,Do not use 1971,,,,,,,MILLENNIUM,Movies Acquired,FOX,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,MILLENNIUM
+3495,HBO-OP-000860,,,,,,,Mimi's House,Documentary Feature Original,,Committed,,,WCF-10019442,No,HBO OP,,,,11/3/23,0,Joe,Mimi's House
+3169,MAX-AQ-000140,,,,,,,MIRACLE OF MORGAN'S CREEK,Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,MIRACLE OF
+3170,Do not use 5277,,,,,,,MIRACLE ON 34TH STREET x,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MIRACLE ON
+3171,Do not use 870,,,,,,,MISS PEREGRINES HOME FOR PECULIAR CHILDREN,Movies Acquired,3RD-PARTY,Committed,12/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MISS PEREGRINES
+3172,Do not use 4698,,,,,,,MISS SHERLOCK (EPS 1-8),Movies Acquired,INTERCOM,Committed,9/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Joe,MISS SHERLOCK
+3178,Do not use 2439,,,,,,,MISS YOU ALREADY,Movies Acquired,LIONS GATE,Committed,9/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,MISS YOU ALREADY
+3499,HBO-OP-000152-P,,,,,,,Mogadishu Pilot,Drama Series Original,,Committed,,,WCF-10014812,No,HBO OP,,,,11/3/23,0,Joe,Mogadishu Pilot
+8301,MAX-AQ-000059,GXoTA_wEhHo-5nAEAAADS,,,,,,Mona Lisa Smile (Library),Movies Acquired,REVOLUTION STUDIOS,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,Mona Lisa
+3184,Do not use 4810,,,,,,,MONSTERS BALL,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MONSTERS BALL
+3500,HBO-OP-001040,,,,,,,Monsters of God,Documentary Series Original,,Committed,,,WCF-10024249,No,HBO OP,2026,,,11/3/23,0,Joe,Monsters of God
+3199,MAX-AQ-000141,,,,,,,MONSTERS VS. ALIENS (DWA),Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Joe,MONSTERS VS.
+3202,Do not use 868,,,,,,,MORGAN,Movies Acquired,3RD-PARTY,Committed,12/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MORGAN
+3211,Do not use 5909,,,,,,,MORTAL COMBAT - 0643901_13-108.2,Movies Acquired,WB,Committed,9/9/21,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MORTAL COMBAT
+3216,Do not use 1160,,,,,,,MORTAL ENGINES,Movies Acquired,3RD-PARTY,Committed,4/1/27,,,,HBO Acquired,2027,,,11/3/23,0,Joe,MORTAL ENGINES
+3226,Do not use 2404,,,,,,,MORTDECAI,Movies Acquired,LIONS GATE,Committed,11/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Joe,MORTDECAI
+3229,MAX-AQ-000269,,,,,,,MOTHER'S DAY (2012),Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MOTHER'S DAY
+3501,HBO-OP-001161,,,,,,,Mothercutters,Documentary Feature Original,,Uncommitted,,,Mothercutters,No,HBO OP,2026,,,11/3/23,0,Joe,Mothercutters
+3230,Do not use 4085,,,,,,,MOTHERS DAY,Movies Acquired,OPEN ROAD,Committed,8/15/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,MOTHERS DAY
+3502,HBO-OP-001096,,,,,,,"Movie Pass, Movie Crash",Documentary Feature Original,,Committed,,,WCF-10023124,No,HBO OP,2025,,,11/3/23,0,Joe,"Movie Pass,"
+3231,Do not use 2615,,,,,,,MR. BROOKS,Movies Acquired,MGM,Committed,2/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MR. BROOKS
+3232,Do not use 2418,,,,,,,MR. CHURCH,Movies Acquired,LIONS GATE,Committed,2/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,MR. CHURCH
+3233,Do not use 1435,,,,,,,MR. HOLLANDS OPUS,Movies Acquired,DISNEY,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MR. HOLLANDS OPUS
+3240,Do not use 3162,,,,,,,MR. HOLMES,Movies Acquired,MIRAMAX,Committed,1/1/29,,,,HBO Acquired,2029,,,11/3/23,0,Joe,MR. HOLMES
+3241,Do not use 4897,,,,,,,MR. MAGORIUMS WONDER EMPORIUM,Movies Acquired,DISNEY,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MR. MAGORIUMS
+3247,Do not use 5689,,,,,,,MR. MAGORIUMS WONDER EMPORIUM xx,Movies Acquired,FOX,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MR. MAGORIUMS
+3248,Do not use 782,,,,,,,MR. POPPERS PENGUINS,Movies Acquired,3RD-PARTY,Committed,12/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MR. POPPERS PENGUINS
+3250,Do not use 5802,,,,,,,MR. POPPERS PENGUINSx,Movies Acquired,DISNEY,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MR. POPPERS PENGUINS
+3503,HBO-OP-001133,,,,,,,Ms. Magazine 50th Anniversary Project,Documentary Feature Original,,Uncommitted,,,Ms. Magazine,No,HBO OP,2025,,,11/3/23,0,Joe,Ms. Magazine
+3251,Do not use 5085,,,,,,,MUCH ADO ABOUT NOTHING x,Movies Acquired,MGM,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MUCH ADO
+3272,MAX-AQ-000271,,,,,,,"MUJER DE MI HERMANO, LA",Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,1/12/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MUJER DE
+3275,MAX-AQ-004224,,,,,,,"MUPPETS TAKE MANHATTAN, THE",Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,12/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MUPPETS TAKE MANHATTAN
+3280,Do not use 5155,,,,,,,MURDER ON THE ORIENT EXPRESSx,Movies Acquired,PARAMOUNT,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MURDER ON
+3281,Do not use 5038,,,,,,,MURIELS WEDDING,Movies Acquired,MIRAMAX,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Joe,MURIELS WEDDING
+3286,Do not use 2800,,,,,,,MURPHYS LAW,Movies Acquired,MGM,Committed,11/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MURPHYS LAW
+3301,Do not use 2893,,,,,,,MUSIC FROM ANOTHER ROOM,Movies Acquired,MGM,Committed,5/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Joe,MUSIC FROM
+3310,Do not use 5097,,,,,,,MY BABYS DADDY,Movies Acquired,MIRAMAX,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MY BABYS DADDY
+3318,Do not use 2301,,,,,,,MY BEST FRIENDS GIRL,Movies Acquired,LIONS GATE,Committed,10/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Joe,MY BEST
+3325,Do not use 2464,,,,,,,MY BLIND BROTHER,Movies Acquired,LIONS GATE,Committed,2/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Joe,MY BLIND BROTHER
+3326,Do not use 5568,,,,,,,MY BLOODY VALENTINE 3-D,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Joe,MY BLOODY
+3339,Do not use 3119,,,,,,,MY BOSSS DAUGHTER,Movies Acquired,MIRAMAX,Committed,6/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Joe,MY BOSSS DAUGHTER
+3340,Do not use 884,,,,,,,MY COUSIN RACHEL,Movies Acquired,3RD-PARTY,Committed,8/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Joe,MY COUSIN RACHEL
+3341,MAX-AQ-002301,,,,,,,MY GIRL (formerly  Moneyball),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,9/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Joe,MY GIRL
+3342,Do not use 1024,,,,,,,MY SOUL TO TAKE,Movies Acquired,3RD-PARTY,Committed,5/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Joe,MY SOUL
+3504,Do not use 385,,,,,,,NBCU Animated Fee - Receipt,Movies Acquired,3RD-PARTY,Committed,,,,,HBO Acquired,1900,,,11/3/23,0,Joe,NBCU Animated
+14836,Do not use 5301,,,,,,,�ANIMO JUVENTUD! (AKA GO YOUTH!),Movies Acquired,3RD PARTY,Committed,1/1/21,,,,HBO Acquired,2021,,,11/3/23,0,Zari,JUVENTUD!
+8840,HBO-OP-001222,,,,,,,Putting it Together,Documentary Feature Original,,Committed,,,WCF-10024447,No,HBO OP,2026,,,11/3/23,0,Stacey,Putting it Together
+8841,Do not use 5300,,,,,,,Q: THE WINGED SERPENT,Movies Acquired,SHOUT!,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Stacey,Q: THE
+8847,HBO-OP-001110,,,,,,,Quad Gods,Documentary Feature Original,,Committed,,,WCF-10024116,No,HBO OP,2025,,,11/3/23,0,Stacey,Quad Gods
+8848,HBO-OP-000633,,,,,,,QualityLand S1,Comedy Series Original,,Committed,,,WCF-10020341,No,HBO OP,,,,11/3/23,0,Stacey,QualityLand
+8913,HBO-OP-000871,,,,,,,Race Track Project,Documentary Feature Original,,Committed,,,WCF-10023368,No,HBO OP,,,,11/3/23,0,Stacey,Race Track Project
+8856,Do not use 4372,,,,,,,RAISE HELL: THE LIFE AND TIMES OF MOLLY IVINS,Movies Acquired,MAGNOLIA,Committed,1/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Stacey,RAISE HELL:
+8915,MAX-AQ-003897,,,,,,,Rat in the Kitchen S1,Unscripted Acquired,TBS,Committed,7/17/22,,,No,Max Acquired,2022,,,11/3/23,0,Stacey,Rat in
+8869,Do not use 1672,,,,,,,REBOUND,Movies Acquired,FOX,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Stacey,REBOUND
+8870,Do not use 2049,,,,,,,RECLAIM,Movies Acquired,LIONS GATE,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Stacey,RECLAIM
+8873,797797,,,,,,,RED SPARROW,Movies Acquired,FOX,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Stacey,RED SPARROW
+8916,HBO-OP-001142,,,,,,,Renaissance Fair,Documentary Series Original,,Committed,,,WCF-10024271,No,HBO OP,2024,,,11/3/23,0,Stacey,Renaissance Fair
+8922,HBO-OP-000885,,,,,,,Revolution On Canvas,Documentary Feature Original,,Committed,,,WCF-10022772,No,HBO OP,2024,,,11/3/23,0,Stacey,Revolution On Canvas
+8924,HBO-OP-000676,,,,,,,Rian Johnson Drama S1,Drama Series Original,,Uncommitted,,,Rian Johnson Drama S1,No,HBO OP,,,,11/3/23,0,Stacey,Rian Johnson Drama
+8882,Do not use 1115,,,,,,,RIDE ALONG 2,Movies Acquired,3RD-PARTY,Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,RIDE ALONG 2
+8884,Do not use 3508,,,,,,,ROAD TRIP: BEER PONG,Movies Acquired,PARAMOUNT,Committed,7/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Stacey,BEER PONG
+8885,823769,,,,,,,ROBIN HOOD,Movies Acquired,SUMMIT,Committed,6/29/19,,,,HBO Acquired,2019,,,11/3/23,0,Stacey,ROBIN HOOD
+8888,Do not use 2607,,,,,,,ROBOCOP 2,Movies Acquired,MGM,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Stacey,ROBOCOP 2
+8901,Do not use 2967,,,,,,,ROBOCOP 3,Movies Acquired,MGM,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,ROBOCOP 3
+8925,MAX-AQ-005687,,,,,,,Robot Chicken Special '24 101,Adult Animation Acquired,AS,Committed,7/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Stacey,Robot Chicken
+8928,MAX-AQ-001944,,,,,,,Robot Chicken Specials^,Adult Animation Acquired,AS,Committed,2/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Stacey,Robot Chicken Specials
+8929,HBO-OP-000520,,,,,,,Rock and Roll Hall of Fame Induction Ceremony (2023),Special Original,,Uncommitted,,,Rock and Roll Hall of Fame Induction Ceremony (2023),No,HBO OP,,,,11/3/23,0,Stacey,Rock and
+8911,Do not use 1673,,,,,,,ROLL BOUNCE,Movies Acquired,FOX,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Stacey,ROLL BOUNCE
+8930,MAX-AQ-005704,,,,,,,Rooster Fighter (1/2 hrs) 101-110,Adult Animation Acquired,AS,Committed,10/1/25,,,No,Max Acquired,2025,,,11/3/23,0,Stacey,Rooster Fighter
+8946,MAX-OP-000993,,,,,,,Rory Scovel Comedy Special,Special Original,TEAM COCO,Committed,,,DTC1448,No,Max OP,2024,,,11/3/23,0,Stacey,Rory Scovel
+8947,HBO-OP-000872,,,,,,,Rose Styron Doc,Documentary Feature Original,,Committed,,,WCF-10019838,No,HBO OP,,,,11/3/23,0,Stacey,Rose Styron Doc
+8912,Do not use 872,,,,,,,RULES DONT APPLY,Movies Acquired,3RD-PARTY,Committed,2/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,RULES DONT APPLY
+9008,MAX-OP-000520,,,,,,,Salem's Lot,Movies Original,WBP,Committed,,,DTC1402,No,Max OP,2024,,,11/3/23,0,Stacey,Salem's Lot
+9009,MAX-AQ-005769,,,,,,,Salvar Al Rey AKA (Nadie Sabe Nada) - HBOMax,International Content Original,HBO INT. - SERIES,Committed,9/9/22,,,No,Max Acquired,2022,,,11/3/23,0,Stacey,Salvar Al
+9011,HBO-OP-000873,,,,,,,Sandy Hook Parents v. Alex Jones,Documentary Feature Original,,Committed,,,Sandy Hook Parents v. Alex Jones,No,HBO OP,2024,,,11/3/23,0,Stacey,Sandy Hook
+9012,HBO-OP-000203-P,,,,,,,Sarah Silverman Talk Show Pilot,Special Original,,Committed,,,WCF-10020937,No,HBO OP,2020,,,11/3/23,0,Stacey,Sarah Silverman
+8948,Do not use 1638,,,,,,,SAVE YOURSELVES!,Movies Acquired,BLEECKER,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,SAVE YOURSELVES!
+9013,MAX-AQ-007766,,,,,,,"Scooby-Doo! And Krypto, Too!",Movies Acquired,WB,Committed,12/25/23,,,No,Max Acquired,2023,,,11/3/23,0,Stacey,Scooby-Doo! And
+9014,MAX-AQ-005549,,,,,,,Scooby-Doo! King Arthur,Movies Acquired,WB,Committed,10/1/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Stacey,Scooby-Doo! King Arthur
+9015,HBO-OP-000874,,,,,,,Scott Rudin Broadway Project,Documentary Feature Original,,Committed,,,WCF-10022277,No,HBO OP,,,,11/3/23,0,Stacey,Scott Rudin
+8949,Do not use 2377,,,,,,,SCREAM 4,Movies Acquired,LIONS GATE,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,SCREAM 4
+9016,MAX-AQ-002188,,,,,,,Searching for Italy with Stanley Tucci�,Documentary Series Acquired,CNN,Committed,8/21/21,,,No,Max Acquired,2021,,,11/3/23,0,Stacey,Searching for
+9017,HBO-OP-000453,,,,,,,Seen & Heard: The History of Black Television,Documentary Feature Original,,Committed,,,WCF-10020794,No,HBO OP,2025,,,11/3/23,0,Stacey,Seen &
+8950,Do not use 3863,,,,,,,SERGIO LEONE: THE ITALIAN WHO INVENTED AMERICA,Movies Acquired,UNIVERSAL,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,SERGIO LEONE
+9018,MAX-OP-000045,,,,,,,Sesame Special: Monster an the End of the Book,Kids Content Original,SESAME WORKSHOP,Committed,,,DTC1091,Yes,Max OP,2020,,,11/3/23,0,Stacey,Sesame Special:
+9019,HBO-OP-001228,,,,,,,Seth Meyers Special,Unscripted Original,,Committed,,,Seth Meyers Special,No,HBO OP,2024,,,11/3/23,0,Stacey,Seth Meyers Special
+9020,HBO-OP-000875,,,,,,,Shadow of Happy Valley,Documentary Feature Original,,Committed,,,WCF-10022514,No,HBO OP,,,,11/3/23,0,Stacey,Shadow of
+8951,Do not use 1437,,,,,,,SHANGHAI KNIGHTS,Movies Acquired,DISNEY,Committed,4/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Stacey,SHANGHAI KNIGHTS
+8952,Do not use 3939,,,,,,,SHARKYS MACHINE,Movies Acquired,WARNER BROS.,Committed,7/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Stacey,SHARKYS MACHINE
+8954,Do not use 2015,,,,,,,SHINING THROUGH,Movies Acquired,FOX,Committed,10/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Stacey,SHINING THROUGH
+8955,Do not use 4100,,,,,,,SHOW DOGS,Movies Acquired,OPEN ROAD,Committed,9/15/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,SHOW DOGS
+8956,Do not use 1660,,,,,,,SHUT IN,Movies Acquired,EUROPA,Committed,3/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,SHUT IN
+8957,MAX-AQ-000295,,,,,,,SILVER LININGS PLAYBOOK,Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,5/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Stacey,SILVER LININGS PLAYBOOK
+8959,Do not use 1962,,,,,,,SILVER STREAK,Movies Acquired,FOX,Committed,,,,,HBO Acquired,,,,11/3/23,0,Stacey,SILVER STREAK
+8960,Do not use 2480,,,,,,,SING STREET,Movies Acquired,LIONS GATE,Committed,9/1/26,,,,HBO Acquired,2026,,,11/3/23,0,Stacey,SING STREET
+8961,Do not use 2062,,,,,,,SKINWALKERS,Movies Acquired,LIONS GATE,Committed,5/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Stacey,SKINWALKERS
+8962,Do not use 2420,,,,,,,SKIPTRACE,Movies Acquired,LIONS GATE,Committed,2/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,SKIPTRACE
+8963,Do not use 3884,,,,,,,SNOW ANGELS,Movies Acquired,WARNER BROS.,Committed,11/1/18,,,,HBO Acquired,2018,,,11/3/23,0,Stacey,SNOW ANGELS
+8964,Do not use 2366,,,,,,,SOME KIND OF BEAUTIFUL,Movies Acquired,LIONS GATE,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,SOME KIND
+8965,Do not use 3196,,,,,,,SPACESHIP EARTH,Movies Acquired,NEON,Committed,6/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Stacey,SPACESHIP EARTH
+8966,Do not use 2410,,,,,,,ST. VINCENT,Movies Acquired,LIONS GATE,Committed,1/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,ST. VINCENT
+8967,MAX-AQ-004355,,,,,,,STARHAWKS (AS Small),Adult Animation Acquired,AS,Committed,3/9/22,,,No,Max Acquired,2022,,,11/3/23,0,Stacey,STARHAWKS
+8968,HBO-OP-000910,,,,,,,STAX,Documentary Series Original,,Committed,,,WCF-10022792,No,HBO OP,2024,,,11/3/23,0,Stacey,STAX
+8969,Do not use 4498,,,,,,,STEEL MAGNOLIAS,Movies Acquired,SONY - APPROVED  - ('24/'25 AVAILS),Committed,1/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,STEEL MAGNOLIAS
+8970,Do not use 3461,,,,,,,STEPHEN KINGS THINNER,Movies Acquired,PARAMOUNT,Committed,1/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Stacey,STEPHEN KINGS THINNER
+8971,Do not use 4321,,,,,,,STEVE JOBS: THE MAN IN THE MACHINE,Movies Acquired,MAGNOLIA,Committed,1/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,STEVE JOBS:
+8973,MAX-AQ-005541,,,,,,,STILL HERE aka Warsawianka,International Content Original,HBO INT. - SERIES,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Stacey,STILL HERE
+9000,Do not use 3400,,,,,,,STILL SMOKIN,Movies Acquired,PARAMOUNT,Committed,6/1/22,,,,HBO Acquired,2022,,,11/3/23,0,Stacey,STILL SMOKIN
+9001,Do not use 2437,,,,,,,STONEWALL,Movies Acquired,LIONS GATE,Committed,8/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Stacey,STONEWALL
+9004,Do not use 2485,,,,,,,STRONGER,Movies Acquired,LIONS GATE,Committed,5/1/27,,,,HBO Acquired,2027,,,11/3/23,0,Stacey,STRONGER
+9005,810246,,,,,,,SUPER TROOPERS 2,Movies Acquired,FOX,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Stacey,SUPER TROOPERS
+9007,Do not use 3981,,,,,,,SWITCHING GOALS,Movies Acquired,WARNER BROS.,Committed,,,,,HBO Acquired,,,,11/3/23,0,Stacey,SWITCHING GOALS
+8745,MAX-AQ-005669,,,,,,,Uzumaki Co-Pro (1/2 hrs),Adult Animation Acquired,AS,Committed,10/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Michelle,Uzumaki Co-Pro
+8749,MAX-OP-000899,,,,,,,Various/Other,"Development, Overall Deals, Other",,Committed,,,VARTBDS,Yes,Max OP,,,,11/3/23,0,Michelle,Various/Other
+8751,MAX-AQ-002193,,,,,,,"Vengeance S1-3 (Killer Lovers, Neighbors, Coworkers)",Documentary Series Acquired,HLN,Committed,2/5/21,,,No,Max Acquired,2021,,,11/3/23,0,Michelle,Vengeance -3
+8752,MAX-AQ-007245,,,,,,,Vengeance: Killer Families (S4),Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,5208334a-db3f-4f8b-ad17-81076e1d0fc9,manual,11/3/23,0,Michelle,Vengeance: Killer
+8753,MAX-AQ-007242,,,,,,,Vengeance: Killer Lovers (S1),Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,ee21cd15-7918-42d2-b3dc-90e3250428f6,manual,11/3/23,0,Michelle,Vengeance: Killer
+8754,MAX-AQ-007246,,,,,,,Vengeance: Killer Millionaires (S5),Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,1f8ae426-5d17-4d76-907a-53177f83a9f5,manual,11/3/23,0,Michelle,Vengeance: Killer
+8755,MAX-AQ-007243,,,,,,,Vengeance: Killer Neighbors (S2),Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,1f5afbd0-c88a-40d3-bcd0-184ec2d572ef,manual,11/3/23,0,Michelle,Vengeance: Killer
+8756,MAX-AQ-007248,,,,,,,Vengeance: Killer Newlyweds (S7),Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,a2b37699-d7ed-4efc-89d9-c91723e1782e,manual,11/3/23,0,Michelle,Vengeance: Killer
+8757,MAX-AQ-002197,,,,,,,Vengeance: Millionaires (S4),Documentary Series Acquired,HLN,Committed,,,,No,Max Acquired,1900,1f8ae426-5d17-4d76-907a-53177f83a9f5,manual,11/3/23,0,Michelle,Vengeance: Millionaires
+14399,MAX-AQ-007116,,,,,,,"Venture Bros., The",Adult Animation Acquired,AS,Committed,8/13/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Venture Bros.
+14400,MAX-AQ-005667,,,,,,,Venture Brothers (1/2 hrs),Adult Animation Acquired,AS,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Venture Brothers
+14401,MAX-AQ-002212,,,,,,,Venture Brothers (1/2 hrs) S1-7,Adult Animation Acquired,AS,Committed,8/13/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Venture Brothers
+14402,MAX-AQ-002214,,,,,,,Venture Brothers: A Very Venture Christmas,Adult Animation Acquired,AS,Committed,11/25/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Venture Brothers
+14403,MAX-AQ-002213,,,,,,,Venture Brothers: From the Ladle to the Grave: The Shallow Gravy Story,Adult Animation Acquired,AS,Committed,10/6/21,,,No,Max Acquired,2021,,,11/3/23,0,Viju,Venture Brothers
+14406,MAX-AQ-005164,,,,,,,"Very Harold & Kumar Christmas, A",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Very Harold
+14417,MAX-AQ-007249,,,,,,,Very Scary People S1,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Very Scary People
+14437,MAX-AQ-007250,,,,,,,Very Scary People S2,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Very Scary People
+14439,MAX-AQ-007251,,,,,,,Very Scary People S3,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Very Scary People
+14441,MAX-AQ-007252,,,,,,,Very Scary People S4,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,Very Scary
+14442,MAX-AQ-001997,,,,,,,Victor & Valentino S1,Kids Content Acquired,CN,Committed,6/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Viju,Victor & Valentino
+14443,MAX-AQ-001998,,,,,,,Victor & Valentino S2,Kids Content Acquired,CN,Committed,9/14/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Viju,Victor & Valentino
+14444,MAX-OP-000190,,,,,,,Victor & Valentino S3A,Kids Content Acquired,CNS,Committed,,,DTC1100,Yes,Max OP,2022,,,11/3/23,0,Viju,Victor &
+14445,MAX-OP-000249,,,,,,,Victor and Valentino -Order #3B,Kids Content Acquired,CNS,Committed,,,VNVS3C,Yes,Max OP,2022,,,11/3/23,0,Viju,Victor and
+8746,Do not use 386,,,,,,,VICTOR CROWLEY,Movies Acquired,3RD PARTY,Committed,10/1/18,,,,HBO Acquired,2018,GXORQxQHZL8LCwwEAAAFq,manual,11/3/23,0,Michelle,VICTOR CROWLEY
+8747,Do not use 852,,,,,,,VICTOR FRANKENSTEIN,Movies Acquired,3RD-PARTY,Committed,2/1/24,,,,HBO Acquired,2024,GWKusFAvEoZXCEgEAAABW,manual,11/3/23,0,Michelle,VICTOR FRANKENSTEIN
+14446,MAX-AQ-005465,,,,,,,"Victor, Victoria",Movies Acquired,WB,Committed,3/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,"Victor, Victoria"
+14449,MAX-AQ-005466,,,,,,,Village of the Damned (1960),Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Village of
+14451,MAX-AQ-007050,,,,,,,Villainous S1 - HBOMax,International Content Original,HBO INT. - SERIES,Committed,5/23/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Viju,Villainous - HBOMax
+14452,MAX-AQ-007107,,,,,,,Villainous S1B - HBOMax,International Content Original,HBO INT. - SERIES,Committed,1/1/24,,,Yes,Max Acquired,2024,,,11/3/23,0,Viju,Villainous B
+8748,Do not use 3864,,,,,,,VILLENEUVE PIRONI: RACINGS UNTOLD TRAGEDY,Movies Acquired,UNIVERSAL,Committed,1/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Michelle,VILLENEUVE PIRONI
+14453,MAX-AQ-005868,,,,,,,"Visitors, The - HBOMax",International Content Acquired,HBO INT. - SERIES,Committed,7/7/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Visitors - HBOMax
+14455,MAX-AQ-005487,,,,,,,Vlad & Niki - S1 - HBOMax - K&F,Kids Content Acquired,CONTENT MEDIA GROUP FZC,Committed,4/22/22,,,Yes,Max Acquired,2022,,,11/3/23,0,Viju,Vlad &
+14456,MAX-AQ-005488,,,,,,,Vlad & Niki - S2 - HBOMax - K&F,Kids Content Acquired,CONTENT MEDIA GROUP FZC,Committed,5/25/23,,,Yes,Max Acquired,2023,,,11/3/23,0,Viju,Vlad &
+14457,MAX-AQ-005544,,,,,,,Vota Juan S1,International Content Original,HBO INT. - SERIES,Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Vota Juan
+14458,MAX-AQ-005545,,,,,,,Vota Juan S2,International Content Original,HBO INT. - SERIES,Committed,7/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Vota Juan
+14459,MAX-AQ-005621,,,,,,,Vote for Juan S3 - HBOMax,International Content Acquired,HBO INT. - SERIES,Committed,7/14/22,,,No,Max Acquired,2022,,,11/3/23,0,Viju,Vote for
+14460,Do not use 4731,,,,,,,WAITING...,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,WAITING...
+14469,Do not use 1481,,,,,,,WALKING WITH DINOSAURS 3D,Movies Acquired,DISNEY,Committed,7/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Viju,WALKING WITH
+14471,Do not use 5813,,,,,,,WALKING WITH DINOSAURS 3Dx,Movies Acquired,DISNEY,Committed,,,,,HBO Acquired,2020,,,11/3/23,0,Viju,WALKING WITH
+3505,MAX-OP-000553,,,,,,,Waller (LS),Drama Series Original,WBTV,Uncommitted,,,DTC1334,No,Max OP,2025,,,11/3/23,0,Joe,Waller
+14472,MAX-AQ-000310,,,,,,,WAR (2007),Movies Acquired,"LIONS GATE ENTERTAINMENT, INC.",Committed,3/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Viju,WAR
+14473,Do not use 887,,,,,,,WAR FOR THE PLANET OF THE APES,Movies Acquired,3RD-PARTY,Committed,10/1/25,,,,HBO Acquired,2025,,,11/3/23,0,Viju,WAR FOR
+14518,Do not use 4562,,,,,,,WAR ON EVERYONE x,Movies Acquired,LIONS GATE,Committed,,,,,HBO Acquired,2021,,,11/3/23,0,Viju,WAR ON
+14561,Do not use 1124,,,,,,,WARCRAFT,Movies Acquired,3RD-PARTY,Committed,11/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Viju,WARCRAFT
+9028,HBO-OP-001181,,,,,,,When a Witness Recants,Documentary Feature Original,,Committed,,,WCF-10023124,No,HBO OP,2026,,,11/3/23,0,Stacey,When a
+9029,HBO-OP-000297,,,,,,,Wigstock,Documentary Feature Original,,Committed,,,WCF-10018991,No,HBO OP,2019,,,11/3/23,0,Stacey,Wigstock
+14697,Do not use 1961,,,,,,,X2,Movies Acquired,FOX,Committed,,,,,HBO Acquired,,,,11/3/23,0,Zari,X2
+14739,MAX-OP-000172,,,,,,,Yabba Dabba Dinosaur - S1,Kids Content Original,WBA,Committed,,,YABBADABBA,Yes,Max OP,2022,,,11/3/23,0,Zari,Yabba Dabba
+14740,MAX-AQ-005489,,,,,,,Yabba Dabba Dinosaurs S1 (1-26) - HBOMax - K&F,Kids Content Original,WB,Committed,9/30/21,,,Yes,Max Acquired,2021,,,11/3/23,0,Zari,Yabba Dabba
+14741,MAX-AQ-007046,,,,,,,"Yakuza, The",Movies Acquired,WB,Committed,5/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Zari,Yakuza
+14744,MAX-AQ-002754,,,,,,,Yankee Doodle Dandy,Movies Acquired,WB,Committed,1/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Zari,Yankee Doodle Dandy
+14746,MAX-AQ-001472,,,,,,,Year 1 Output Apr '20- Mar '21,Movies Acquired,"ELLATION, INC.",Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Zari,Year 1
+14748,MAX-AQ-002952,,,,,,,"Year of Living Dangerously, The",Movies Acquired,WB,Committed,5/1/21,,,No,Max Acquired,2021,,,11/3/23,0,Zari,Year of
+14719,Do not use 5942,,,,,,,YESTERDAY - 0641373_12-148,Movies Acquired,UNI,Committed,3/1/20,,,,HBO Acquired,2020,,,11/3/23,0,Zari,YESTERDAY
+14720,Do not use 540,,,,,,,YO NO ME LLAMO RUBEN BLADES AKA RUBEN BLADES IS NOT MY NAME,Movies Acquired,3RD PARTY,Committed,3/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Zari,YO NO
+14769,MAX-AQ-007348,,,,,,,Yogi Bear - K&F,Movies Acquired,WB,Uncommitted,1/1/26,,,Yes,Max Acquired,2026,,,11/3/23,0,Zari,Yogi Bear
+14760,MAX-AQ-001410,,,,,,,Yogi Bear (2010),Movies Acquired,WB,Committed,,,,Yes,Max Acquired,1900,,,11/3/23,0,Zari,Yogi Bear
+14773,MAX-AQ-001831,,,,,,,Yogi's All Star Comedy Christmas Caper,Kids Content Acquired,WB,Committed,11/1/20,,,Yes,Max Acquired,2020,,,11/3/23,0,Zari,Yogi's All
+14775,HBO-OP-000482,,,,,,,Yogurt Shop Murders,Documentary Series Original,,Committed,,,WCF-10023088,No,HBO OP,2025,,,11/3/23,0,Zari,Yogurt Shop Murders
+14722,MAX-AQ-005691,,,,,,,YOLO: Crystal Fantasy 301-310,Adult Animation Acquired,AS,Committed,1/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Zari,Crystal Fantasy 
+14723,MAX-AQ-002224,,,,,,,YOLO: Crystal Fantasy S1,Adult Animation Acquired,AS,Committed,3/10/21,,,No,Max Acquired,2021,,,11/3/23,0,Zari,Crystal Fantasy 
+14724,MAX-AQ-005661,,,,,,,YOLO: Silver Destiny S2,Adult Animation Acquired,AS,Committed,1/23/23,,,No,Max Acquired,2023,,,11/3/23,0,Zari,Silver Destiny
+14791,MAX-AQ-001804,,,,,,,Young Justice S1,Adult Animation Acquired,WB,Committed,11/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Young Justice
+14792,MAX-AQ-001805,,,,,,,Young Justice S2,Adult Animation Acquired,WB,Committed,11/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Young Justice
+14793,MAX-AQ-001806,,,,,,,Young Justice S3,Adult Animation Acquired,WB,Committed,11/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Young Justice
+14794,MAX-OP-000143,,,,,,,Young Justice S4 AB,Adult Animation Original,WBA,Committed,,,DTC1204,No,Max OP,2021,,,11/3/23,0,Zari,Young Justice
+14795,MAX-OP-000382,,,,,,,Young Love S1,Adult Animation Original,SONY ANIMATION,Committed,,,DTC1165,No,Max OP,2023,,,11/3/23,0,Zari,Young Love
+14796,MAX-OP-000527,,,,,,,Young Love S2 / TBD,Adult Animation Original,SONY ANIMATION,Uncommitted,,,DTC1400,No,Max OP,2025,,,11/3/23,0,Zari,Young Love
+14797,MAX-OP-000616,,,,,,,Young Love S3 / TBD,Adult Animation Original,SONY ANIMATION,Uncommitted,,,DTC1443,No,Max OP,2026,,,11/3/23,0,Zari,Young Love
+14798,MAX-OP-000929,,,,,,,Young Love S4 / TBD,Adult Animation Original,SONY ANIMATION,Uncommitted,,,HAIRLOVS4,No,Max OP,2027,,,11/3/23,0,Zari,Young Love
+14802,MAX-AQ-001896,,,,,,,Young Sheldon 1-2,Comedy Series Acquired,WB,Committed,9/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Young Sheldon
+14803,MAX-AQ-001897,,,,,,,Young Sheldon 3,Comedy Series Acquired,WB,Committed,9/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Young Sheldon
+14804,MAX-AQ-001898,,,,,,,Young Sheldon 4,Comedy Series Acquired,WB,Committed,9/7/21,,,No,Max Acquired,2021,,,11/3/23,0,Zari,Young Sheldon
+14805,MAX-AQ-001899,,,,,,,Young Sheldon 5,Comedy Series Acquired,WB,Committed,9/7/22,,,No,Max Acquired,2022,,,11/3/23,0,Zari,Young Sheldon
+14806,MAX-AQ-001900,,,,,,,Young Sheldon 6,Comedy Series Acquired,WB,Committed,9/1/23,,,No,Max Acquired,2023,,,11/3/23,0,Zari,Young Sheldon
+14807,MAX-AQ-001901,,,,,,,Young Sheldon 7,Comedy Series Acquired,WB,Committed,8/1/24,,,No,Max Acquired,2024,,,11/3/23,0,Zari,Young Sheldon
+14808,MAX-AQ-007349,,,,,,,Young Sheldon 8,Comedy Series Acquired,WB,Committed,8/1/25,,,No,Max Acquired,2025,,,11/3/23,0,Zari,Young Sheldon
+14810,MAX-AQ-004354,,,,,,,Your Pretty Face is Going to Hell S1-4,Comedy Series Acquired,AS,Committed,4/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Zari,Your Pretty
+14735,Do not use 2356,,,,,,,YOURE NEXT,Movies Acquired,LIONS GATE,Committed,6/1/23,,,,HBO Acquired,2023,,,11/3/23,0,Zari,YOURE NEXT
+14736,MAX-AQ-000170,,,,,,,"YOURS, MINE, AND OURS",Movies Acquired,PARAMOUNT PICTURES,Committed,,,,No,Max Acquired,1900,,,11/3/23,0,Zari,"YOURS, MINE,"
+14737,Do not use 851,,,,,,,YOUTH,Movies Acquired,3RD-PARTY,Committed,2/1/24,,,,HBO Acquired,2024,,,11/3/23,0,Zari,YOUTH
+14814,Do not use 2032,,,,,,,Z FOR ZACHARIAH,Movies Acquired,LIONS GATE,Committed,1/1/19,,,,HBO Acquired,2019,,,11/3/23,0,Zari,Z FOR ZACHARIAH
+14825,MAX-OP-000092,,,,,,,Zack Snyder Justice League,Movies Original,WBP,Committed,,,DTC1166,No,Max OP,2021,,,11/3/23,0,Zari,Zack Snyder
+14827,MAX-AQ-001607,,,,,,,Zapped S1,Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Zapped
+14828,MAX-AQ-001608,,,,,,,Zapped S2,Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Zapped
+14829,MAX-AQ-001609,,,,,,,Zapped S3,Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020,,,11/3/23,0,Zari,Zapped
+14815,MAX-AQ-004272,,,,,,,ZATHURA: A SPACE ADVENTURE,Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,5/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Zari,A SPACE ADVENTURE
+14820,MAX-AQ-002344,,,,,,,ZOMBIELAND (2009),Movies Acquired,SONY PICTURES TELEVISION INC.,Committed,1/1/22,,,No,Max Acquired,2022,,,11/3/23,0,Zari,ZOMBIELAND
+14830,HBO-OP-001116,,,,,,,Zucker Hillside Therapy,Documentary Feature Original,,Committed,,,WCF-10023815,No,HBO OP,2024,,,11/3/23,0,Zari,Zucker Hillside Therapy

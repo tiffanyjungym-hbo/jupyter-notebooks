@@ -1,0 +1,195 @@
+,Cost_ID,TITLE_ID,TITLE,SEASON_LEVEL,SEASON_NUMBER,SEASON_FANOUT,MAPPING_TYPE,SOURCE_TITLE_NAME,CONTENT_TYPE,STUDIO,STATUS,AVAIL,REMOVAL_DATE,PROJECT_ID,KIDS_FAMILY,HUB,AIR_YEAR,MAX_SERIES_ID,MAX_MAPPING_TYPE,LOAD_TIMESTAMP,MAPPING_TYPE_TEMP,Assigned Person
+0,MAX-OP-000227,GYnl_JQsLosPCwgEAAACs,,,,,,Gordita Chronicles S1,Kids Content Original,SONY TV,Committed,,,DTC1278,No,Max OP,2022.0,,,11/3/23,0,Tiffany
+1,MAX-OP-000117,GYME4cgyGt6EnCgEAAAAv,,,,,,Gossip Girl S1,Drama Series Original,WBTV,Committed,,,DTC1008,No,Max OP,2021.0,,,11/3/23,0,Tiffany
+2,MAX-OP-000312,GYME4cgyGt6EnCgEAAAAv,,,,,,Gossip Girl S2,Drama Series Original,WBTV,Committed,,,DTC1275,No,Max OP,2022.0,,,11/3/23,0,Tiffany
+3,MAX-AQ-001775,GY_98Sg0MQbiWtQEAAAL3,,,,,,Gotham Knights Season 1,Drama Series Acquired,WB,Committed,7/28/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+4,MAX-AQ-001776,GY_98Sg0MQbiWtQEAAAL3,,,,,,Gotham Knights Season 2,Drama Series Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+5,MAX-AQ-001777,GY_98Sg0MQbiWtQEAAAL3,,,,,,Gotham Knights Season 3,Drama Series Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+6,MAX-AQ-001778,GY_98Sg0MQbiWtQEAAAL3,,,,,,Gotham Knights Season 4,Drama Series Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+7,MAX-AQ-005325,GYpaBIwMazJ_DPwEAAAAK,,,,,,"Great American Pastime, The",Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+8,MAX-AQ-002826,GYLaskw8p8rW8wwEAAAFx,,,,,,"Great Caruso, The",Movies Acquired,WB,Committed,7/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+9,MAX-AQ-006208,GYLE5fgQVVcPCOAEAAAAF,,,,,,"Great Gatsby, The",Movies Acquired,WB,Committed,2/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+10,MAX-AQ-001638,GX0gQ9AKAgr5cuAEAAAG_,,,,,,Great Pottery Throwdown Season 1-3 (S5 Fee Bump),Unscripted Acquired,LOVE PRODUCTIONS,Committed,4/14/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+11,MAX-AQ-001637,GX0gQ9AKAgr5cuAEAAAG_,,,,,,Great Pottery Throwdown Season 4,Unscripted Acquired,LOVE PRODUCTIONS,Committed,4/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+12,MAX-AQ-001639,GX0gQ9AKAgr5cuAEAAAG_,,,,,,Great Pottery Throwdown Season 5,Unscripted Acquired,LOVE PRODUCTIONS,Committed,4/14/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+13,MAX-AQ-005784,GX0gQ9AKAgr5cuAEAAAG_,,,,,,Great Pottery Throwdown Season 6,Movies Acquired,LOVE PRODUCTIONS,Uncommitted,10/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+14,MAX-AQ-001636,GX0gQ9AKAgr5cuAEAAAG_,,,,,,Great Pottery Throwdown Seasons 1-3,Unscripted Acquired,LOVE PRODUCTIONS,Committed,9/17/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+15,MAX-AQ-005326,GYd3I9A3s5ke_IgEAAAau,,,,,,"Great Race, The",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+16,MAX-AQ-006209,GYd3I9A3s5ke_IgEAAAau,,,,,,"Great Race, The",Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+17,MAX-AQ-002827,GYS6tIgJX4sJ9qQEAAADq,,,,,,"Great Santini, The",Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+18,MAX-AQ-003366,GYblj_Q319cIZsAEAAAJx,,,,,,"Great Ziegfeld, The",Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+19,MAX-AQ-006210,GYblj_Q319cIZsAEAAAJx,,,,,,"Great Ziegfeld, The",Movies Acquired,WB,Committed,1/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+20,MAX-AQ-002828,GYS6z5wwMj7c-WgEAAACx,,,,,,"Green Berets, The",Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+21,MAX-AQ-005327,GYS6z5wwMj7c-WgEAAACx,,,,,,"Green Berets, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+22,MAX-AQ-006215,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+23,MAX-AQ-004529,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,6/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+24,MAX-AQ-005222,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,5/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+25,MAX-AQ-004027,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,3/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+26,MAX-AQ-003942,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,11/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+27,MAX-AQ-003941,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+28,MAX-AQ-001131,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+29,MAX-AQ-006216,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,5/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+30,MAX-AQ-003049,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,3/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+31,MAX-AQ-004530,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,10/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+32,MAX-AQ-003117,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+33,MAX-AQ-003622,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,9/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+34,MAX-AQ-003623,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,11/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+35,MAX-AQ-003813,GYC6ZiwvKE8LCMQEAAAAG,,,,,,"Green Mile, The",Movies Acquired,WB,Committed,12/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+36,MAX-AQ-000819,GXt50cgXlXcJHjQEAAAsJ,,,,,,"Green Pastures, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+37,MAX-OP-000264,GZC2nUQuQLJSgigEAABQi,,,,,,Gremlins: Secrets of the Mogwai S1,Kids Content Original,WB,Committed,,,DTC1014,Yes,Max OP,2023.0,,,11/3/23,0,Tiffany
+38,MAX-OP-000436,GZC2nUQuQLJSgigEAABQi,,,,,,Gremlins: Secrets of the Mogwai S2A,Kids Content Original,WB,Committed,,,HKF0009,Yes,Max OP,2024.0,,,11/3/23,0,Tiffany
+39,MAX-OP-001005,GZC2nUQuQLJSgigEAABQi,,,,,,Gremlins: Secrets of the Mogwai S2B,Kids Content Original,WB,Committed,,,GREMLINS2B,Yes,Max OP,2025.0,,,11/3/23,0,Tiffany
+40,MAX-OP-000896,GZC2nUQuQLJSgigEAABQi,,,,,,Gremlins: Secrets of the Mogwai S3 / TBD Series,Kids Content Original,WB,Uncommitted,,,GREMLINS3,Yes,Max OP,2025.0,,,11/3/23,0,Tiffany
+41,MAX-AQ-001134,GYGMCbQJkX8PCDAEAAAAK,,,,,,Greystoke: The Legend of Tarzan,Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+42,MAX-AQ-007843,GX-Tu4ge5qAexgwEAAABd,,,,,,"Grim Adventures of Billy & Mandy, The",Kids Content Acquired,CN,Committed,1/1/24,,,Yes,Max Acquired,2024.0,,,11/3/23,0,Tiffany
+43,MAX-AQ-007859,GX-Tu4ge5qAexgwEAAABd,,,,,,"Grim Adventures of Billy & Mandy, The",Kids Content Acquired,CN,Uncommitted,1/1/25,,,Yes,Max Acquired,2025.0,,,11/3/23,0,Tiffany
+44,MAX-AQ-007315,GX-Tu4ge5qAexgwEAAABd,,,,,,"Grim Adventures of Billy & Mandy, The",Kids Content Acquired,CN,Uncommitted,1/1/26,,,Yes,Max Acquired,2026.0,,,11/3/23,0,Tiffany
+45,MAX-AQ-001978,GX-Tu4ge5qAexgwEAAABd,,,,,,"Grim Adventures of Billy and Mandy, The",Kids Content Acquired,CN,Committed,1/1/21,,,Yes,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+46,MAX-AQ-002202,GYVlC5wiHLUSdNAEAAABB,,,,,,Gumball - Darwin's Yearbook,Kids Content Acquired,CN,Committed,11/1/21,,,Yes,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+47,MAX-AQ-006233,GXt509QQlasPCwgEAAAma,,,,,,"Guy Named Joe, A",Movies Acquired,WB,Committed,2/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+48,MAX-AQ-000821,GXt509QQlasPCwgEAAAma,,,,,,"Guy Named Joe, A",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+49,MAX-OP-000105,GXjma0Qt1YY7CZgEAAA14,,,,,,Hacks S1,Comedy Series Original,UNIVERSAL TV,Committed,,,DTC1216,No,Max OP,2021.0,,,11/3/23,0,Tiffany
+50,MAX-OP-000105,GYIBToQrPdotpNQEAAAEa,,,,,,Hacks S1,Comedy Series Original,UNIVERSAL TV,Committed,,,DTC1216,No,Max OP,2021.0,,,11/3/23,0,Tiffany
+51,MAX-OP-000216,GXjma0Qt1YY7CZgEAAA14,,,,,,Hacks S2,Comedy Series Original,UNIVERSAL TV,Committed,,,DTC1260,No,Max OP,2022.0,,,11/3/23,0,Tiffany
+52,MAX-OP-000216,GYIBToQrPdotpNQEAAAEa,,,,,,Hacks S2,Comedy Series Original,UNIVERSAL TV,Committed,,,DTC1260,No,Max OP,2022.0,,,11/3/23,0,Tiffany
+53,MAX-OP-000380,GXjma0Qt1YY7CZgEAAA14,,,,,,Hacks S3,Comedy Series Original,UNIVERSAL TV,Committed,,,DTC1354,No,Max OP,2024.0,,,11/3/23,0,Tiffany
+54,MAX-OP-000380,GYIBToQrPdotpNQEAAAEa,,,,,,Hacks S3,Comedy Series Original,UNIVERSAL TV,Committed,,,DTC1354,No,Max OP,2024.0,,,11/3/23,0,Tiffany
+55,MAX-AQ-006238,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,6/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+56,MAX-AQ-000510,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+57,MAX-AQ-001138,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+58,MAX-AQ-002612,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,1/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+59,MAX-AQ-003091,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+60,MAX-AQ-003379,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,6/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+61,MAX-AQ-005077,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+62,MAX-AQ-005078,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,12/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+63,MAX-AQ-006236,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,2/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+64,MAX-AQ-006237,GXjtShwFsq47CZgEAABBq,,,,,,Hairspray (Musical Remake),Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+65,MAX-AQ-003380,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,6/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+66,MAX-AQ-003381,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+67,MAX-AQ-003382,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,8/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+68,MAX-AQ-004029,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+69,MAX-AQ-003978,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,1/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+70,MAX-AQ-006246,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+71,MAX-AQ-007024,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,5/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+72,MAX-AQ-006245,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,1/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+73,MAX-AQ-004539,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,4/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+74,MAX-AQ-004541,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,11/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+75,MAX-AQ-003818,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+76,MAX-AQ-004540,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,5/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+77,MAX-AQ-001139,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+78,MAX-AQ-003725,GYL_Z7AW4ppXCCQEAAADa,,,,,,"Hangover, The",Movies Acquired,WB,Committed,8/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+79,MAX-AQ-005507,GYkXcyACSDmPDegEAAAAv,,,,,,Hank Zipzer - S1-S3 - HBOMax - K&F,Kids Content Acquired,DHX WORLDWIDE (U) LIMITED (INT'L - 0%) - #2,Committed,5/13/22,,,Yes,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+80,MAX-AQ-002232,GYEaW8A10o7mmigEAAAA6,,,,,,Happy Endings (2011),Comedy Series Acquired,SONY PICTURES TELEVISION INC.,Committed,4/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+81,MAX-OP-000165,GYbzrRAvf-ZPCKQEAAAAX,,,,,,Harry Potter 20th Anniversary:  Return to Hogwarts,Kids Content Original,WB,Committed,,,DTC1300,No,Max OP,2022.0,,,11/3/23,0,Tiffany
+82,MAX-AQ-000331,GXssMIAadRcNMvwEAAAA7,,,,,,Harry Potter and the Chamber of Secrets�(2002),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+83,MAX-AQ-000331,GYjteqQyjLcPCDgEAAAAZ,,,,,,Harry Potter and the Chamber of Secrets�(2002),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+84,MAX-AQ-000336,GXssRwQESq8NMvwEAAABY,,,,,,Harry Potter and the Deathly Hallows � Part 1�(2010),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+85,MAX-AQ-000336,GXssRwQHfmVVGwwEAAABi,,,,,,Harry Potter and the Deathly Hallows � Part 1�(2010),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+86,MAX-AQ-000337,GXssRwQESq8NMvwEAAABY,,,,,,Harry Potter and the Deathly Hallows � Part 2�(2011),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+87,MAX-AQ-000337,GXssRwQHfmVVGwwEAAABi,,,,,,Harry Potter and the Deathly Hallows � Part 2�(2011),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+88,MAX-AQ-000333,GXssOeAtVmlVGwwEAAABR,,,,,,Harry Potter and the Goblet of Fire�(2005),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+89,MAX-AQ-000335,GXssQ0A7HLFVGwwEAAABc,,,,,,Harry Potter and the Half-Blood Prince�(2009),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+90,MAX-AQ-000334,GXssPaAiBJ1VGwwEAAABW,,,,,,Harry Potter and the Order of the Phoenix�(2007),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+91,MAX-AQ-000332,GXssObwqZrVVGwwEAAABI,,,,,,Harry Potter and the Prisoner of Azkaban�(2004),Movies Acquired,WB,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+92,MAX-AQ-001925,GXyNIuAsYb8J6pQEAAAJR,,,,,,"Harvey Birdman, Attorney At Law",Adult Animation Acquired,AS,Committed,9/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+93,MAX-AQ-006932,GXyNIuAsYb8J6pQEAAAJR,,,,,,"Harvey Birdman, Attorney At Law",Adult Animation Acquired,AS,Uncommitted,9/2/27,,,No,Max Acquired,2027.0,,,11/3/23,0,Tiffany
+94,MAX-AQ-006888,GXyNIuAsYb8J6pQEAAAJR,,,,,,"Harvey Birdman, Attorney At Law",Adult Animation Acquired,AS,Uncommitted,9/1/25,,,No,Max Acquired,2025.0,,,11/3/23,0,Tiffany
+95,MAX-AQ-005819,GXyNIuAsYb8J6pQEAAAJR,,,,,,"Harvey Birdman, Attorney At Law",Adult Animation Acquired,AS,Committed,9/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+96,MAX-AQ-005330,GYS6z3Axy9KwHPgEAAAEA,,,,,,"Harvey Girls, The",Movies Acquired,WB,Committed,6/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+97,MAX-AQ-002831,GYS6z3Axy9KwHPgEAAAEA,,,,,,"Harvey Girls, The",Movies Acquired,WB,Committed,10/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+98,MAX-AQ-006252,GYS6z3Axy9KwHPgEAAAEA,,,,,,"Harvey Girls, The",Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+99,MAX-AQ-006253,GX07YDABMPoaMwgEAAAE1,,,,,,"Haunting, The",Movies Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+100,MAX-OP-000040,GX2TedgOIjh6fnAEAAAFJ,,,,,,Haute Dog S1 A,Unscripted Original,JAX MEDIA,Committed,,,DTC1077,No,Max OP,2020.0,,,11/3/23,0,Tiffany
+101,MAX-OP-000083,GX2TedgOIjh6fnAEAAAFJ,,,,,,Haute Dog S1 C,Unscripted Original,JAX MEDIA,Committed,,,HOTDOGS1BCO,No,Max OP,2021.0,,,11/3/23,0,Tiffany
+102,MAX-OP-000071,GX2TedgOIjh6fnAEAAAFJ,,,,,,Haute Dog S1B Christmas Episode Yule Dog,Unscripted Original,JAX MEDIA,Committed,,,HOTDOGS1B,No,Max OP,2020.0,,,11/3/23,0,Tiffany
+103,MAX-OP-000150,GYV-McAuLRnpuvQEAAAAb,,,,,,Head of the Class S1,Kids Content Original,WARNER HORIZON,Committed,,,DTC1243,No,Max OP,2021.0,,,11/3/23,0,Tiffany
+104,MAX-AQ-007043,GZCblSgklJrDCLQEAAAY6,,,,,,Headless Chickens (Pollos Sin Cabeza) (Spain),International Content Original,HBO INT. - SERIES,Committed,4/28/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+105,MAX-AQ-001926,GXbonuQgsfXepwwEAABfE,,,,,,"Heart, She Holler, The",Comedy Series Acquired,AS,Committed,1/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+106,MAX-AQ-002107,GXbonuQgsfXepwwEAABfE,,,,,,"Heart, She Holler, The",Comedy Series Acquired,AS,Uncommitted,1/1/24,,,No,Max Acquired,2024.0,,,11/3/23,0,Tiffany
+107,MAX-AQ-007160,GX5Bt_Qg4qJO1kAEAAABW,,,,,,Hell in the Heartland,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+108,MAX-AQ-002033,GX5Bt_Qg4qJO1kAEAAABW,,,,,,Hell in the Heartland,Documentary Series Acquired,HLN,Committed,12/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+109,MAX-AQ-007354,GX5Bt_Qg4qJO1kAEAAABW,,,,,,Hell in the Heartland,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+110,MAX-AQ-002013,GXcyUiwZdw5uAuwEAAAi0,,,,,,"History of Comedy, The",Documentary Series Acquired,CNN,Committed,12/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+111,MAX-AQ-000056,GYTms4QCoI6DDCQEAAADu,,,,,,Hollywood Homicide (Library),Movies Acquired,REVOLUTION STUDIOS,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+112,MAX-AQ-001533,GYYuNiwCbMcLDwwEAAACV,,,,,,Home S1,Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+113,MAX-AQ-001534,GYYuNiwCbMcLDwwEAAACV,,,,,,Home S2,Comedy Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+114,MAX-AQ-001535,GYZLNlwOBoJKWWQEAAABk,,,,,,"Honourable Woman, The",Drama Series Acquired,"BBC STUDIOS AMERICAS, INC.",Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+115,MAX-AQ-005333,GYuMHfQaHm8NewgEAAA8J,,,,,,"Hook, Line and Sinker",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+116,MAX-OP-000759,GW_L3qwtOpL3DwgEAAAEl,,,,,,Hop S1A,Kids Content Original,EPIC STORY MEDIA,Committed,,,HKF0034,Yes,Max OP,2024.0,,,11/3/23,0,Tiffany
+117,MAX-OP-000760,GW_L3qwtOpL3DwgEAAAEl,,,,,,Hop S1B,Kids Content Original,EPIC STORY MEDIA,Committed,,,HOPS1B,Yes,Max OP,2024.0,,,11/3/23,0,Tiffany
+118,MAX-OP-000879,GW_L3qwtOpL3DwgEAAAEl,,,,,,Hop S1C,Kids Content Original,TP,Committed,,,HOPS1C,Yes,Max OP,2025.0,,,11/3/23,0,Tiffany
+119,MAX-OP-000889,GW_L3qwtOpL3DwgEAAAEl,,,,,,Hop S1D,Kids Content Original,TP,Committed,,,HOPS1D,Yes,Max OP,2025.0,,,11/3/23,0,Tiffany
+120,MAX-AQ-005335,GXtqy_QCkjsJHjQEAAAi1,,,,,,"Horn Blows at Midnight, The",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+121,MAX-AQ-000824,GXtqy_QCkjsJHjQEAAAi1,,,,,,"Horn Blows at Midnight, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+122,MAX-OP-000072,GXvTTlQwJdcLDGQEAAAMj,,,,,,House of Ho S1,Unscripted Original,LIONSGATE TV,Committed,,,DTC1068,No,Max OP,2020.0,,,11/3/23,0,Tiffany
+123,MAX-OP-000252,GXvTTlQwJdcLDGQEAAAMj,,,,,,House of Ho S2,Unscripted Original,LIONSGATE TV,Committed,,,DTC1237,No,Max OP,2022.0,,,11/3/23,0,Tiffany
+124,MAX-AQ-006273,GXwNxKAQgMcPDwgEAAAOh,,,,,,House of Wax (2005),Movies Acquired,WB,Committed,1/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+125,MAX-AQ-001148,GXwNxKAQgMcPDwgEAAAOh,,,,,,House of Wax (2005),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+126,MAX-AQ-000518,GXwNxKAQgMcPDwgEAAAOh,,,,,,House of Wax (2005),Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+127,MAX-AQ-006274,GXwNxKAQgMcPDwgEAAAOh,,,,,,House of Wax (2005),Movies Acquired,WB,Committed,2/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+128,MAX-AQ-005082,GYW8XhA7iuq27iQEAAAHT,,,,,,"House, The",Movies Acquired,WB,Committed,4/17/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+129,MAX-AQ-007726,GYW8XhA7iuq27iQEAAAHT,,,,,,"House, The",Movies Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+130,MAX-AQ-005659,GYxfOLQ8mwcLDwgEAAAAD,,,,,,Housing Complex C (101-103),Adult Animation Acquired,AS,Committed,10/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+131,MAX-AQ-007355,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S1,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+132,MAX-AQ-007163,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S1,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+133,MAX-AQ-007164,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S2,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+134,MAX-AQ-007165,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S3,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+135,MAX-AQ-007166,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S4,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+136,MAX-AQ-002196,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S5,Documentary Series Acquired,HLN,Committed,2/27/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+137,MAX-AQ-007167,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S5,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+138,MAX-AQ-007168,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S6,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+139,MAX-AQ-007169,GXc8iNg8iV8PCwwEAAAgr,,,,,,How It Really Happened S7,Documentary Series Acquired,CNN,Committed,5/23/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+140,HBO-OP-001028,GZRasKAftl8JMRAEAABC2,,,,,,How We Get Free,Documentary Feature Original,,Committed,,,WCF-10024280,No,HBO OP,2023.0,,,11/3/23,0,Tiffany
+141,HBO-OP-001242,GY3f-0gm-acPCLwEAAAEf,,,,,,Howard Stern Interview,Unscripted Original,,Committed,,,WCF-10023243,No,HBO OP,2024.0,,,11/3/23,0,Tiffany
+142,HBO-OP-001163,GY3f-0gm-acPCLwEAAAEf,,,,,,Howard Stern Interview: Springsteen,Special Original,,Committed,,,WCF-10024661,No,HBO OP,2022.0,,,11/3/23,0,Tiffany
+143,MAX-AQ-000037,GXrHR0QRNbnUYOAEAAABB,,,,,,Howl�s Moving Castle,Movies Acquired,G KIDS,Committed,6/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+144,MAX-AQ-007815,GXrHR0QRNbnUYOAEAAABB,,,,,,Howl�s Moving Castle,Movies Acquired,G KIDS,Committed,5/27/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+145,MAX-AQ-002837,GXrHplwxiBMPCwwEAAAAc,,,,,,"Hunger, The",Movies Acquired,WB,Committed,9/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+146,MAX-AQ-005338,GXrHplwxiBMPCwwEAAAAc,,,,,,"Hunger, The",Movies Acquired,WB,Committed,7/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+147,MAX-AQ-006292,GXrHplwxiBMPCwwEAAAAc,,,,,,"Hunger, The",Movies Acquired,WB,Committed,2/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+148,MAX-AQ-000827,GXrHplwxiBMPCwwEAAAAc,,,,,,"Hunger, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+149,MAX-AQ-002014,GXdgqLgOOA8PCwwEAADOd,,,,,,"Hunt with John Walsh, The",Documentary Series Acquired,CNN,Committed,12/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+150,MAX-AQ-006534,GY5xSiw05Ha-1mgEAAAas,,,,,,I Don�t Like Driving (No Me Gusta Conducir) ,International Content Original,HBO INT. - SERIES,Committed,1/13/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+151,MAX-AQ-001645,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S1,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,11/19/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+152,MAX-AQ-001648,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S1-2 Retro Fees for S3,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+153,MAX-AQ-001650,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S1-3 Retro Fees for S4,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/24,,,No,Max Acquired,2024.0,,,11/3/23,0,Tiffany
+154,MAX-AQ-001646,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S2,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+155,MAX-AQ-001647,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S3,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+156,MAX-AQ-001649,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S4,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/24,,,No,Max Acquired,2024.0,,,11/3/23,0,Tiffany
+157,MAX-AQ-001651,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S5,Comedy Series Original,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/25,,,No,Max Acquired,2025.0,,,11/3/23,0,Tiffany
+158,MAX-AQ-001652,GX6MziQh41pYSwwEAAAK4,,,,,,I Hate Suzie S6,Comedy Series Acquired,UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP,Committed,12/20/26,,,No,Max Acquired,2026.0,,,11/3/23,0,Tiffany
+159,MAX-AQ-005339,GYd3IpQVnzQPCwgEAAAYi,,,,,,Ice Pirates,Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+160,MAX-AQ-002980,GYK0x7gXCza4OwwEAAADl,,,,,,In the Heights (First Window),Movies Acquired,WB,Committed,6/11/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+161,MAX-AQ-002997,GYK0x7gXCza4OwwEAAADl,,,,,,In the Heights (Second Window),Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+162,MAX-AQ-001979,GXkNXsArG_o7CZgEAABfH,,,,,,Infinity Train Book 1,Kids Content Original,CN,Committed,6/1/20,,,Yes,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+163,MAX-AQ-001980,GXkNXsArG_o7CZgEAABfH,,,,,,Infinity Train Book 2,Kids Content Original,CN,Committed,6/10/20,,,Yes,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+164,MAX-OP-000026,GXkNXsArG_o7CZgEAABfH,,,,,,Infinity Train Order #2A,Kids Content Original,CNS,Committed,,,DTC1097,Yes,Max OP,2020.0,,,11/3/23,0,Tiffany
+165,MAX-OP-000094,GXkNXsArG_o7CZgEAABfH,,,,,,Infinity Train Order -#2B,Kids Content Original,DTC,Committed,,,INFTS2B,Yes,Max OP,2021.0,,,11/3/23,0,Tiffany
+166,MAX-AQ-000828,GX07ZOAPNt4aMwgEAAAFv,,,,,,"Informer, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+167,MAX-AQ-002077,GXbGoFQcNI4NiYAEAAAV4,,,,,,Inside Carbonaro,Unscripted Acquired,TRUTV,Committed,6/2/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+168,MAX-AQ-002035,GXdRL2A375aXCPQEAABEZ,,,,,,Inside Evil with Chris Cuomo ,Documentary Series Acquired,HLN,Committed,12/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+169,MAX-AQ-000172,GX25_nQyGio1IugEAAAMU,,,,,,Invisible War,Documentary Feature Acquired,"CHAIN CAMERA PICTURES, INC.",Committed,10/1/20,,,No,Max Acquired,2020.0,,,11/3/23,0,Tiffany
+170,MAX-AQ-007616,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,9/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+171,MAX-AQ-000528,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+172,MAX-AQ-003400,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,2/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+173,MAX-AQ-001160,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,,,,No,Max Acquired,1900.0,,,11/3/23,0,Tiffany
+174,MAX-AQ-007511,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,8/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+175,MAX-AQ-005083,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,6/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+176,MAX-AQ-007729,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,11/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+177,MAX-AQ-005763,GXrHplwuS-sPCwwEAAAAb,,,,,,"Iron Giant, The",Movies Acquired,WB,Committed,9/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+178,MAX-AQ-006307,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+179,MAX-AQ-004035,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,6/19/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+180,MAX-AQ-004589,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,2/27/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+181,MAX-AQ-004590,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,5/27/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+182,MAX-AQ-004591,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,12/19/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+183,MAX-AQ-006304,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+184,MAX-AQ-006305,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,5/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+185,MAX-AQ-006306,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (2017),Movies Acquired,WB,Committed,9/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+186,MAX-AQ-004593,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,10/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+187,MAX-AQ-002622,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,1/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+188,MAX-AQ-002623,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,12/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+189,MAX-AQ-003019,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,9/1/21,,,No,Max Acquired,2021.0,,,11/3/23,0,Tiffany
+190,MAX-AQ-006309,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,10/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+191,MAX-AQ-006308,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,4/1/23,,,No,Max Acquired,2023.0,,,11/3/23,0,Tiffany
+192,MAX-AQ-004594,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,11/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
+193,MAX-AQ-004592,GX_dBIw6UfcLCRAEAAAAC,,,,,,It (Stephen King's),Movies Acquired,WB,Committed,5/1/22,,,No,Max Acquired,2022.0,,,11/3/23,0,Tiffany
