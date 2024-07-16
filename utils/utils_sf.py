@@ -44,7 +44,6 @@ class SnowflakeConnector(BaseConnector):
     def connect(self, dbname: str, schema: str = 'DEFAULT'):
         ctx = snowflake.connector.connect(
             user='max.glue.dev',
-            password='2p6R3teB8wm@9G',
             account='hbomax.us-east-1',
             #warehouse='MAX_DATASCIENCE_DEV',
             warehouse='max_analytics_user',

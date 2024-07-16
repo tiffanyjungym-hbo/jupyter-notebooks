@@ -267,14 +267,24 @@ region = ['NORTH AMERICA','LATAM','EMEA']
 col_id = ['imdb_id','title_name','season_number','premiere_date','region','forecast_category','future_title']
 features = ['bo_opening_imputed', 'gap', 'production_cost', 'medal', 'fv_pre_7','days_diff', 'prev_title', 'prev_title_fv',  'fv_pre_7_pay1','fv_pre_7_series','count_platinum_binary']
 
-# Clean data 
-df_in = get_df(df_s[df_s.premiere_date<='2024-05-22'], medal, forecast_category, col_id, features, target)
 
 # Impute features 
-df_in.loc[df_in.production_cost==0, 'production_cost'] = df_in['production_cost'].median()
-df_in.loc[(df_in.title_name=='House Party') & (df_in.region=='LATAM'), 'gap'] = 50
-df_in.loc[(df_in.title_name=="Magic Mike's Last Dance") & (df_in.region=='LATAM'), 'gap'] = 112
-df_in.loc[(df_in.title_name=="Magic Mike's Last Dance") & (df_in.region=='LATAM'), 'bo_opening_imputed'] = 5556243.301106308 #removing negative
+df_s.loc[df_s.production_cost==0, 'production_cost'] = df_s['production_cost'].median()
+df_s.loc[(df_s.title_name=='Fantastic Beasts: The Secrets of Dumbledore') & (df_s.region=='NORTH AMERICA'), 'medal'] = 'Platinum'
+df_s.loc[(df_s.title_name=='The Batman') & (df_s.region=='NORTH AMERICA'), 'medal'] = 'Platinum'
+
+df_s.loc[(df_s.title_name=='House Party') & (df_s.region=='LATAM'), 'gap'] = 50
+df_s.loc[(df_s.title_name=="Magic Mike's Last Dance") & (df_s.region=='LATAM'), 'gap'] = 112
+df_s.loc[(df_s.title_name=="Magic Mike's Last Dance") & (df_s.region=='LATAM'), 'bo_opening_imputed'] = 5556243.301106308 #removing negative
+
+# df_in.loc[df_in.production_cost==0, 'production_cost'] = df_in['production_cost'].median()
+# df_in.loc[(df_in.title_name=='The Batman') & (df_in.region=='NORTH AMERICA'), 'medal'] = 'Platinum'
+# df_in.loc[(df_in.title_name=='House Party') & (df_in.region=='LATAM'), 'gap'] = 50
+# df_in.loc[(df_in.title_name=="Magic Mike's Last Dance") & (df_in.region=='LATAM'), 'gap'] = 112
+# df_in.loc[(df_in.title_name=="Magic Mike's Last Dance") & (df_in.region=='LATAM'), 'bo_opening_imputed'] = 5556243.301106308 #removing negative
+
+# Clean data 
+df_in = get_df(df_s[df_s.premiere_date<='2024-05-22'], medal, forecast_category, col_id, features, target)
 
 # Transform features 
 df_in = transform_features(df_in, ['days_diff'], features, target)
@@ -282,9 +292,9 @@ print(df_in.premiere_date.min())
 
 # Remove outliers; 
 # Batman: 150K fv; Magic Mike: 3K fv; House Party: ~0 , Shazam throws off pre-7d feature in EMEA
-title_removed = ['The Batman',"Magic Mike's Last Dance"]#'The Batman','House Party', "Magic Mike's Last Dance"
-title_removed_LATAM = ['House Party','The Batman','The Color Purple',"Magic Mike's Last Dance"]#,  "Magic Mike's Last Dance",'DC League of Super-Pets']#,'The Batman','Barbie']#, 'Blue Beetle']
-title_removed_EMEA = ['House Party','The Batman','The Color Purple']#, "Shazam! Fury of the Gods"]#,  'DC League of Super-Pets','Evil Dead Rise', ]
+title_removed = ['The Color Purple', "Magic Mike's Last Dance"]#'The Batman',"Magic Mike's Last Dance"]#'The Batman','House Party', "Magic Mike's Last Dance"
+title_removed_LATAM = ["Magic Mike's Last Dance"]#'House Party','The Batman','The Color Purple',"Magic Mike's Last Dance"]#,  "Magic Mike's Last Dance",'DC League of Super-Pets']#,'The Batman','Barbie']#, 'Blue Beetle']
+title_removed_EMEA = ["Magic Mike's Last Dance"]#'House Party','The Batman','The Color Purple']#, "Shazam! Fury of the Gods"]#,  'DC League of Super-Pets','Evil Dead Rise', ]
 df_in = df_in[((df_in.region=='NORTH AMERICA') & ~(df_in.title_name.isin(title_removed))) |
               ((df_in.region=='EMEA') & ~(df_in.title_name.isin(title_removed_EMEA))) | 
               ((df_in.region=='LATAM') & ~(df_in.title_name.isin(title_removed_LATAM)))] 
@@ -299,7 +309,7 @@ from plotly.subplots import make_subplots
 import pandas as pd
 from itertools import combinations
 
-variables = list(df_in[[f'ln_{target}','count_platinum_binary','ln_days_diff','ln_gap','ln_fv_pre_7_pay1', 'ln_bo_opening_imputed','ln_production_cost']])
+variables = list(df_in[[f'ln_{target}','count_platinum_binary','ln_days_diff','ln_gap','ln_bo_opening_imputed','ln_production_cost']])
 variable_pairs = list(combinations(variables, 2))
 num_plots = len(variable_pairs)
 rows = int(num_plots**0.5)
@@ -333,7 +343,6 @@ model_list = {
     'pay_am': 'ln_bo_opening_imputed + medal',
     'pay_amg': 'ln_bo_opening_imputed + medal + ln_gap',
     'pay_amgd': 'ln_bo_opening_imputed + medal + ln_gap  + ln_days_diff',
-    # 'pay_amgp': 'ln_bo_opening_imputed + medal + ln_gap ',
     'pay_amgp': 'ln_bo_opening_imputed + medal + ln_gap + count_platinum_binary',
     'pay_amgpd': 'ln_bo_opening_imputed + medal + ln_gap + count_platinum_binary+ ln_days_diff',
 }
@@ -372,6 +381,20 @@ display(df_summary)
 
 # COMMAND ----------
 
+df_coef[(df_coef.region=='NORTH AMERICA')] #new days_diff
+# display(df_coef[(df_coef.region=='LATAM') & (df_coef.model=='pay_ogmdpc')]) 
+# display(df_coef[(df_coef.region=='EMEA') & (df_coef.model=='pay_ogmdp')]) 
+
+# COMMAND ----------
+
+df_coef[(df_coef.region=='LATAM')]
+
+# COMMAND ----------
+
+df_coef[(df_coef.region=='EMEA')]
+
+# COMMAND ----------
+
 # display(df_coef[(df_coef.region=='NORTH AMERICA') & (df_coef.model=='pay_ogmdpc')]) #new days_diff
 # display(df_coef[(df_coef.region=='LATAM') & (df_coef.model=='pay_ogmdpc')]) 
 # display(df_coef[(df_coef.region=='EMEA') & (df_coef.model=='pay_ogmdp')]) 
@@ -403,9 +426,9 @@ left join bolt_cus_dev.gold.delphi_title_metadata d
 on f.imdb_id=d.imdb_series_id and f.season_number= d.season_number and f.region=d.geo_value
 where  f.premiere_date>='2024-04-01'
     and f.premiere_date<'2024-12-01'
-    and f.region='NORTH AMERICA'
-"""
 
+"""
+    # and f.region='NORTH AMERICA'
 df_ss = spark.sql(query)
 df_ss = df_ss.toPandas()
 df_ss.columns = df_ss.columns.str.lower()
@@ -419,7 +442,12 @@ df_ss['last_release_date'] = np.where(df_ss.forecast_category=='series',
 df_ss['first_release_date'] = df_ss['premiere_date']
 df_ss.loc[df_ss.title_name=='Furiosa','gap'] = 77
 df_ss.loc[df_ss.title_name=='Beetlejuice Beetlejuice','gap'] = 74
-                   
+df_ss['gap']= df_ss['gap'].fillna(77)  
+df_ss.loc[df_ss.gap==0, 'gap'] = 77                   
+
+# COMMAND ----------
+
+df_ss
 
 # COMMAND ----------
 
@@ -552,7 +580,8 @@ for delta_days in delta_days_list:
 
 
     df_result=df_sc_fin[((df_sc_fin.forecast_category=='wb pay1')) |
-                        (df_sc_fin.medal=='Platinum')][['region','title_name','medal','first_release_date','last_release_date','gap','days_diff','fv_pre_7_pay1','prev_title','count_platinum','count_platinum_binary']]
+                        (df_sc_fin.medal=='Platinum')][['region','title_name','medal','first_release_date','last_release_date','gap','days_diff','fv_pre_7_pay1','prev_title','count_platinum','count_platinum_binary', 'bo_opening_imputed', 'forecast_category']]
+    
     df_result['delta_days'] = delta_days
     list_df.append(df_result)
 
@@ -561,52 +590,117 @@ df_result = pd.concat(list_df)
 
 # COMMAND ----------
 
-def calc_change(df_in_all, target_ratio, delta_days, list_features, df_coef, model_dict, title, region_list=['NORTH AMERICA']):#,'EMEA','LATAM']):
-    df_1 = df_in_all[df_in_all.delta_days==0]
-    df_2 = df_in_all[df_in_all.delta_days==delta_days]
-    df_comp = df_1.merge(df_2, on=['title_name','region'],  suffixes=('','_2'))
-    df_comp[f'total_delta_{target_ratio}'] = 0
+# def calc_change(df_in_all, target, delta_days, list_features, df_coef, model_dict, title, region_list=['NORTH AMERICA']):#,'EMEA','LATAM']):
+#     df_1 = df_in_all[df_in_all.delta_days==0]
+#     df_2 = df_in_all[df_in_all.delta_days==delta_days]
+#     df_comp = df_1.merge(df_2, on=['title_name','region'],  suffixes=('','_2'))
+#     df_comp[f'total_delta_{target}'] = 0
     
-    df_list=[]
-    for r in region_list:
-        df_comp_r = df_comp[df_comp.region==r]
-        coef = df_coef[(df_coef.model==model_dict[r]) & (df_coef.region==r)]
-        for i in list_features:
-            print(i)
-            try:
-                coeff_val = coef.loc[coef.feature=='ln_'+i, 'coef'].values[0]
-            except:
-                try:
-                    coeff_val = coef.loc[coef.feature==i, 'coef'].values[0]
-                except:
-                    coeff_val = 0
+#     df_list=[]
+#     for r in region_list:
+#         df_comp_r = df_comp[df_comp.region==r]
+#         coef = df_coef[(df_coef.model==model_dict[r]) & (df_coef.region==r)]
+#         for i in list_features:
+#             print(i)
+#             try:
+#                 coeff_val = coef.loc[coef.feature=='ln_'+i, 'coef'].values[0]
+#             except:
+#                 try:
+#                     coeff_val = coef.loc[coef.feature==i, 'coef'].values[0]
+#                 except:
+#                     coeff_val = 0
 
-            df_comp_r['{}_coeff'.format(i)] = coeff_val
-            df_comp_r['{}_delta_{}'.format(i, target_ratio)]= np.exp(np.log(df_comp_r['{}_2'.format(i)])*coeff_val)/np.exp(np.log(df_comp_r['{}'.format(i)])*coeff_val)-1
-            df_comp_r[f'total_delta_{target_ratio}'] = df_comp_r[f'total_delta_{target_ratio}']+df_comp_r['{}_delta_{}'.format(i,target_ratio)]
-        df_list.append(df_comp_r)
-    df_comp = pd.concat(df_list)
-    list_features_delta = ['region', 'first_release_date_2']+ [i + f'_delta_{target_ratio}' for i in list_features]
-    df_sum = df_comp[df_comp.title_name==title][list_features_delta]
+#             df_comp_r['{}_coeff'.format(i)] = coeff_val
+#             df_comp_r['{}_delta_{}'.format(i, target)]= np.exp(np.log(df_comp_r['{}_2'.format(i)])*coeff_val)/np.exp(np.log(df_comp_r['{}'.format(i)])*coeff_val)-1
+#             df_comp_r = df_comp_r.fillna(0)
+#             df_comp_r[f'total_delta_{target}'] = df_comp_r[f'total_delta_{target}']+df_comp_r['{}_delta_{}'.format(i,target)]
+#         df_list.append(df_comp_r)
+#     df_comp = pd.concat(df_list)
+#     list_features_delta = ['region', 'first_release_date_2']+ [i + f'_delta_{target}' for i in list_features]
+#     df_sum = df_comp[df_comp.title_name==title][list_features_delta]
 
-    return df_comp,df_sum
+#     return df_comp,df_sum
 
-list_features = ['gap','days_diff','count_platinum_binary']
-model_dict={'NORTH AMERICA':'pay_amgpd',
-            'EMEA':'pay_amgd',
-            'LATAM':'pay_amgd'}
 
-# df__7, df__7_sum =calc_change(df_result, -7, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+# COMMAND ----------
 
-target_var = 'vsr'
+# df_result.head()
 
-df_0, df_0_sum =calc_change(df_result, target_var, 0, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
-df_7, df_7_sum =calc_change(df_result, target_var, 7, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
-df_14, df_14_sum =calc_change(df_result, target_var,14, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
-df_21, df_21_sum =calc_change(df_result, target_var,21, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+# df_f = get_df(df_result, medal, forecast_category, col_id, features, target)
 
-df_final = pd.concat([df_7_sum, df_14_sum, df_21_sum], ignore_index=True)
-df_fin = df_final.T
+# # Transform features 
+# df_f = transform_features(df_result, ['days_diff'], features, target)
+# print(df_in.premiere_date.min())
+
+# print(df_f.columns)
+# df_in.columns
+
+# COMMAND ----------
+
+
+# def calc_change(df_in_all, target, delta_days, list_features, df_coef, model_dict, title, region_list=['NORTH AMERICA']):#,'EMEA','LATAM']):
+#     df_1 = df_in_all[df_in_all.delta_days==0]
+#     df_2 = df_in_all[df_in_all.delta_days==delta_days]
+#     df_comp = df_1.merge(df_2, on=['title_name','region'],  suffixes=('','_2'))
+#     df_comp[f'total_delta_{target}'] = 0
+    
+#     coef = df_coef[(df_coef.model==model_dict[r]) & (df_coef.region==r)]
+#     for i in list_features:
+#         print(i)
+#         try:
+#             coeff_val = coef.loc[coef.feature=='ln_'+i, 'coef'].values[0]
+#         except:
+#             try:
+#                 coeff_val = coef.loc[coef.feature==i, 'coef'].values[0]
+#             except:
+#                 coeff_val = 0
+
+#         df_comp['{}_coeff'.format(i)] = coeff_val
+#         df_comp['{}_delta_{}'.format(i, target)]= np.exp(np.log(df_comp['{}_2'.format(i)])*coeff_val)/np.exp(np.log(df_comp['{}'.format(i)])*coeff_val)-1
+#         df_comp = df_comp.fillna(0)
+#         df_comp[f'total_delta_{target}'] = df_comp[f'total_delta_{target}']+df_comp['{}_delta_{}'.format(i,target)]
+
+#     list_features_delta = ['region', 'first_release_date_2']+ [i + f'_delta_{target}' for i in list_features]
+#     df_sum = df_comp[df_comp.title_name==title][list_features_delta]
+
+#     return df_comp,df_sum
+
+
+# list_features = ['gap','days_diff','count_platinum_binary']
+# model_dict={'NORTH AMERICA':'pay_amgpd',
+#             'EMEA':'pay_amgd',
+#             'LATAM':'pay_amgd'}
+
+# # df__7, df__7_sum =calc_change(df_result, -7, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+
+# target_var = 'vsr'
+
+# df_0, df_0_sum =calc_change(df_result, target_var, 0, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+# df_7, df_7_sum =calc_change(df_result, target_var, 7, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+# df_14, df_14_sum =calc_change(df_result, target_var,14, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+# df_21, df_21_sum =calc_change(df_result, target_var,21, list_features, df_coef, model_dict,'Beetlejuice Beetlejuice')
+
+# df_final = pd.concat([df_7_sum, df_14_sum, df_21_sum], ignore_index=True)
+# df_fin = df_final.T
+
+# custom_order = ['NORTH AMERICA','EMEA','LATAM']  # Custom order values
+# row_values = df_fin.iloc[0]
+# custom_order_dict = {val: i for i, val in enumerate(custom_order)}
+# ordered_columns = row_values.map(custom_order_dict).sort_values().index
+# df_fin = df_fin[ordered_columns]
+
+# df_fin = df_fin.reset_index()
+
+
+# COMMAND ----------
+
+## predict 
+df_pred = transform_features(df_result, ['days_diff'], features, target)
+
+predictions = result.predict(df_pred)
+df_pred['ln_vspct28']=predictions
+df_pred['vspct28'] = np.exp(df_pred['ln_vspct28'])
+df_fin = df_pred.copy()
 
 custom_order = ['NORTH AMERICA','EMEA','LATAM']  # Custom order values
 row_values = df_fin.iloc[0]
@@ -615,11 +709,6 @@ ordered_columns = row_values.map(custom_order_dict).sort_values().index
 df_fin = df_fin[ordered_columns]
 
 df_fin = df_fin.reset_index()
-display(df_fin)
-
-# COMMAND ----------
-
-df_fin
 
 # COMMAND ----------
 
@@ -630,12 +719,12 @@ df_fin
 
 df_eligibles = pd.read_sql("""
     select 
-    week_end,
+    region,
+    expire_date,
     tenure,
     sum(eligibles) as eligibles, 
     from MAX_DEV.WORKSPACE.FORECASTING_PROJ_CANCELS_FUTURE 
-    where region = 'NORTH AMERICA'
-    and week_end::date between '2024-11-24' and '2025-01-07'
+    where expire_date::date between '2024-11-22' and '2025-01-07'
     group by all 
     order by 1,2
     """, 
@@ -646,8 +735,9 @@ df_eligibles['tenure'] = df_eligibles['tenure'].astype(int)
 mapping_dict = {1:'month_1', 2:'month_2', 3:'month_3', 4:'month_4_to_6', 5:'month_4_to_6', 6:'month_4_to_6', 7:'month_7_to_12', 8:'month_7_to_12', 9:'month_7_to_12', 10:'month_7_to_12', 11:'month_7_to_12', 12:'month_7_to_12'}
 df_eligibles['tenure_bucket'] = df_eligibles['tenure'].map(mapping_dict).fillna('month_13+')
 
-df_eligibles = df_eligibles.groupby(by=['week_end','tenure_bucket']).sum().reset_index()
-
+df_eligibles = df_eligibles.groupby(by=['region','expire_date','tenure_bucket']).sum().reset_index()
+df_eligibles['expire_date'] = pd.to_datetime(df_eligibles['expire_date'] )
+df_eligibles = df_eligibles[['region','expire_date','tenure_bucket','eligibles']]
 
 # COMMAND ----------
 
@@ -738,20 +828,7 @@ def get_simple_plot_multiple_dot(df_plt, x, y, x_fit, y_fit, params, x_med, y_me
         showlegend=False,
         xaxis=dict(range=[0,15],
                    dtick=1),
-        # annotations=[
-        # dict(
-        #     x=x_med+0.2,  # x-coordinate for the text
-        #     y=y_med+0.01,  # y-coordinate for the text
-        #     # text='{:.2f}, {:.2f}'.format(x_med, y_med),  # the text to display
-        #     showarrow=False,  # disable arrow for the annotation
-        #     xanchor='left',
-        #     font=dict(
-        #         family='Arial',  # specify font family
-        #         size=18,  # specify font size
-        #         color='black'  # specify font color
-        #     )
-        # )
-    # ]
+
 ) 
     fig.show()
     return fig
@@ -772,17 +849,38 @@ def get_churn_plot_simple(df_i, title, param_dic, x_med=0):
     y_fit = exponential_decay(x_fit, a_fit, b_fit, c_fit)
     
     if x_med==0:
-        fig = get_simple_plot_multiple(df_i, 'title_viewed_bin', 'churn', x_fit, y_fit, params, f'{title}')
+        print(0)
+        # fig = get_simple_plot_multiple(df_i, 'title_viewed_bin', 'churn', x_fit, y_fit, params, f'{title}')
     else:
         y_med = exponential_decay(x_med, a_fit, b_fit, c_fit)
         y_med_slope = exponential_decay_slope(x_med, a_fit, b_fit)
         print(x_med)
         print('average churn: ' + str('{:.3f}'.format(y_med)))
         print('slope: ' + str('{:.3f}'.format(y_med_slope*100))+'%')
-        fig = get_simple_plot_multiple_dot(df_i, 'title_viewed_bin', 'churn', x_fit, y_fit, params, x_med, np.array(y_med), f'{title}')
+        # fig = get_simple_plot_multiple_dot(df_i, 'title_viewed_bin', 'churn', x_fit, y_fit, params, x_med, np.array(y_med), f'{title}')
     # display(df_i.head())
     param_dic[title] = params
     return fig, params
+
+
+def get_churn_slope_plot_simple(df_i, title, params, x_med=0):
+    df_i = df_i[df_i.is_cancel>=20]
+#         display(df_i.tail(5))
+
+    x_var = df_i.hours_viewed_bin
+    x_fit = np.linspace(0, x_var.max(), 100)   
+    a_fit, b_fit, c_fit = params
+    y_fit = exponential_decay_slope(x_fit, a_fit, b_fit)
+    
+    y_med = exponential_decay_slope(x_med, a_fit, b_fit)
+    print(x_med)
+    print(y_med)
+    fig = get_simple_plot_dot(df_i, 'hours_viewed_bin', 'churn', x_fit, y_fit, params, x_med, np.array(y_med), f'{title}')
+    display(df_i.head())
+    param_dic['acquired'] = params
+    return fig
+
+
 
 def get_churn_bin(df_in, grpby, nbins = 100):
     df = df_in[df_in.monthly_hours_viewed<=60]
@@ -812,52 +910,130 @@ def get_churn_bin_mth1(df_in, grpby, nbins = 100):
 
 # COMMAND ----------
 
-df_60_00 = pd.read_parquet('df_raw_tenure_churn_plt_0624.parquet', engine='pyarrow')
+# df_60_00 = pd.read_parquet('df_raw_tenure_churn_plt_0624.parquet', engine='pyarrow')
 
-## Plot by tenure 
-param_dic={}
-med_dic = {} 
+# ## Plot by tenure 
+# param_dic={}
+# med_dic = {} 
 
-for m in ['month_1','month_2','month_3']:#df_60_00.tenure_bucket.unique():
-    df_plt= df_60_00[df_60_00['tenure_bucket'] == m]
-    df_60_t = df_plt.groupby(by=['user_id','is_cancel_vol','sub_month'])[['monthly_title_viewed', 'monthly_hours_viewed']].sum().reset_index()
-    df_60_t['is_cancel'] = df_60_t['is_cancel_vol']
-    if m == 'month_1':
-        df_60_s = get_churn_bin_mth1(df_60_t, [])
-    else:
-        df_60_s = get_churn_bin(df_60_t, [])
-    med_x= df_60_t.monthly_title_viewed.median()
-    fig, params = get_churn_plot_simple(df_60_s[df_60_s['title_viewed_bin']<15], 
-                                        m, {}, np.array(med_x))
-    param_dic[m] = params
-    med_dic[m] = med_x
-    # slope = get_churn_slope_plot_simple(df_60_s, , params, np.array(med_x))
+# for m in df_60_00.tenure_bucket.unique().tolist():
+#     df_plt= df_60_00[df_60_00['tenure_bucket'] == m]
+#     df_60_t = df_plt.groupby(by=['user_id','is_cancel_vol','sub_month'])[['monthly_title_viewed', 'monthly_hours_viewed']].sum().reset_index()
+#     df_60_t['is_cancel'] = df_60_t['is_cancel_vol']
+#     if m == 'month_1':
+#         df_60_s = get_churn_bin_mth1(df_60_t, [])
+#     else:
+#         df_60_s = get_churn_bin(df_60_t, [])
+#     med_x= df_60_t.monthly_title_viewed.median()
+#     fig, params = get_churn_plot_simple(df_60_s[df_60_s['title_viewed_bin']<15], 
+#                                         m, {}, np.array(med_x))
+#     param_dic[m] = params
+#     med_dic[m] = med_x
 
 
+# df_param = pd.DataFrame.from_dict(param_dic, orient='index').reset_index()
+# df_param.columns = ['tenure_bucket', 'a','b','c']
+# df_median = pd.DataFrame.from_dict(med_dic, orient='index').reset_index()
+# df_median.columns = ['tenure_bucket', 'median']
+
+# df_param = df_param.merge(df_median, on=['tenure_bucket'])
+# df_param
+
+# df_param.to_csv('df_param.csv')
+# df_median.to_csv('df_median.csv')
+
+df_param = pd.read_csv('df_param.csv')
+df_median = pd.read_csv('df_median.csv')
 
 # COMMAND ----------
 
 # MAGIC %md
 # MAGIC ## Sensitivity w/ eligibles
+# MAGIC
+# MAGIC Per scenario: 
+# MAGIC 1. Get viewing sub change, decay over 28d 
+# MAGIC 2. For each date of viewing sub change over 28d, merge eligibles 
+# MAGIC  
 
 # COMMAND ----------
 
-df_eligibles.head()
+query_decay = """
+select 
+*
+from bolt_cus_dev.bronze.cso_pct_vs_decay_pay1_platinum
+"""
+
+df_decay = spark.sql(query_decay)
+df_decay = df_decay.toPandas()
+df_decay.columns = df_decay.columns.str.lower()
+
 
 # COMMAND ----------
 
-df_fin.columns = df_fin.iloc[0]
-df_fin = df_fin[1:]
-df_fin
-
+df_fin_title
 
 # COMMAND ----------
 
-display(df_7[8:])
-display(df_14[8:])
+title = 'Beetlejuice Beetlejuice'
+df_fin_title = df_fin[df_fin.title_name==title]
+df_fin_title
+
+df_vs_decay = pd.DataFrame()
+for index, row in df_fin_title.iterrows():
+    date_range = pd.date_range(start=row['first_release_date'], periods=28, freq='D')
+    days_range = list(range(0,28))
+    temp_df = pd.DataFrame({'region':row['region'],
+                            'delta_days':row['delta_days'],
+                            'title_name':row['title_name'],
+                            'medal':row['medal'],
+                            'first_release_date':row['first_release_date'],
+                            'last_release_date':row['last_release_date'],
+                            'gap':row['gap'],
+                            'days_diff':row['days_diff'],
+                            'date': date_range, 
+                            'days_on_max':days_range,
+                            'vspct28': row['vspct28']})
+    df_vs_decay = pd.concat([df_vs_decay, temp_df], ignore_index=True)
+df_vs_decay['date'] = pd.to_datetime(df_vs_decay['date'])
+
+df_vs_decay= df_vs_decay.merge(df_decay, on=['days_on_max'], how='left')
+df_vs_decay['vs_decay'] = df_vs_decay['vspct28'] * df_vs_decay['vs_pct_decay']/100
+
+## Merge eligibles 
+df_vs = df_vs_decay.merge(df_eligibles[['region','expire_date','tenure_bucket','eligibles']], left_on=['region','date'], right_on=['region','expire_date'], how='left')
+df_vs = df_vs.merge(df_param, on=['tenure_bucket'], how='left')
+
+## Convert %vs to churn, by tenure_bucket  
+# dy/dx = a * b * np.exp(b * x_med) 
+# dy = a * b * np.exp(b*x_med) * dx 
+# dx = vs_decay
+# dy =   a * b * np.exp(b*x_med) * vs_decay
+
+df_vs['change_in_churn'] = df_vs['a'] * df_vs['b'] * np.exp(df_vs['b'] *df_vs['median']) * df_vs['vs_decay']
+df_vs['change_in_churn_eligibles'] = df_vs['change_in_churn'] * df_vs['eligibles']
+
+grpby= ['region','delta_days','tenure_bucket']
+df_vs_tenure = df_vs[grpby+['eligibles','change_in_churn_eligibles']].groupby(by=grpby).sum()
+
+grpby= ['region','delta_days']
+df_vs_sum = df_vs[grpby+['eligibles','change_in_churn_eligibles']].groupby(by=grpby).sum().reset_index()
+
+df_vs_sum['pct_change_in_churn'] = df_vs_sum['change_in_churn_eligibles']/df_vs_sum['eligibles']*100
 
 # COMMAND ----------
 
-## weekend, title, tenure, % change_churn, eligibles 
-df_churn = df_eligibles[['week_end','tenure_bucket','eligibles']]
+## Churn reduction post 28d of release date 
 
+df_vs_sum
+
+# COMMAND ----------
+
+19122.289/13051656.625	
+
+# COMMAND ----------
+
+df_vs_tenure
+
+# COMMAND ----------
+
+df_vs.sort_values(by=['region','delta_days', 'days_on_max']).head()

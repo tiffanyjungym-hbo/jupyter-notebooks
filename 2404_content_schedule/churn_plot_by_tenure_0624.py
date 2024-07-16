@@ -276,7 +276,8 @@ df_60_00['tenure_bucket'] = df_60_00['sub_month'].map(mapping_dict).fillna('mont
 # !pip install tables
 # !pip install pandas h5py tables
 # df_60_00.to_hdf('df_raw_tenure_churn_plt_0624.h5', key='df', mode='w')
-df_60_00.to_parquet('df_raw_tenure_churn_plt_0624.parquet', engine='pyarrow', compression='snappy')
+# df_60_00.to_parquet('df_raw_tenure_churn_plt_0624.parquet', engine='pyarrow', compression='snappy')
+df_60_00 = pd.read_parquet('/Workspace/Repos/tiffany.jung@wbd.com/jupyter-notebooks/2404_content_schedule/data/df_raw_tenure_churn_plt_0624.parquet')
 
 
 # COMMAND ----------
@@ -299,6 +300,127 @@ def get_churn_bin_mth1(df_in, grpby, nbins = 100):
 
 ## Plot by tenure 
 
+def get_simple_plot_multiple(df_plt, x, y, x_fit, y_fit, params, title=''):
+    if title=='':
+        
+        title = f'{y} vs {x}'
+       
+    a_fit, b_fit, c_fit = params
+    annotation_x_loc = 50
+    annotation_y_loc = y_fit.min() +(y_fit.max()  - y_fit.min() )/2 
+        
+    fig = px.scatter(df_plt,
+                  x=x, 
+                  y=y, 
+                  title=title,
+                  width=500, height=400)
+    fig.add_scatter( 
+              x=x_fit, 
+              y=y_fit)
+
+    fig.update_layout(
+        template='simple_white',
+        showlegend=False,
+        xaxis=dict(range=[0,50]),
+        annotations=[
+        dict(
+            x=annotation_x_loc,  # x-coordinate for the text
+            y=annotation_y_loc,  # y-coordinate for the text
+            # text='y= {:.2f} * e^({:.2f} * title_viewed) + {:.2f}'.format(a_fit, b_fit, c_fit),  # the text to display
+            showarrow=False,  # disable arrow for the annotation
+            xanchor='right',
+            font=dict(
+                family='Arial',  # specify font family
+                size=18,  # specify font size
+                color='black'  # specify font color
+            )
+        )
+    ]
+) 
+    # fig.show()
+    # return fig
+
+fig = px.scatter(width=500, height=400)
+
+color=['red','blue','green']
+for m in ['month_1','month_2','month_3']:#df_60_00.tenure_bucket.unique():
+    df_plt= df_60_00[df_60_00['tenure_bucket'] == m]
+    df_60_t = df_plt.groupby(by=['user_id','is_cancel_vol','sub_month'])[['monthly_title_viewed', 'monthly_hours_viewed']].sum().reset_index()
+    df_60_t['is_cancel'] = df_60_t['is_cancel_vol']
+    if m == 'month_1':
+        df_60_s = get_churn_bin_mth1(df_60_t, [])
+    else:
+        df_60_s = get_churn_bin(df_60_t, [])
+    med_x= df_60_t.monthly_title_viewed.median()
+    # fig, params = get_churn_plot_simple(df_60_s[df_60_s['title_viewed_bin']<15], 
+    #                                     m, {}, np.array(med_x))
+    # slope = get_churn_slope_plot_simple(df_60_s, , params, np.array(med_x))
+
+    ## get_churn_slope_plot_simple
+    df_i = df_60_s[df_60_s['title_viewed_bin']<15].copy()
+    title=m
+    param_dic={}
+    x_med=0
+    df_i = df_i[df_i.is_cancel>=20].copy()
+
+    x_var = df_i.title_viewed_bin
+    y_data = df_i.churn
+    p0 = [0.5, -0.1, 0.01] 
+    param_bounds = ([0, -0.8, 0.01], [np.inf, -0.1, np.inf])
+
+    x_fit, params = fit_exponential(x_var, y_data, p0, param_bounds)
+    a_fit, b_fit, c_fit = params
+    y_fit = exponential_decay(x_fit, a_fit, b_fit, c_fit)
+
+    ###get simple_plot_multiple     
+    df_plt = df_i.copy()
+    x='title_viewed_bin'
+    y='churn' 
+       
+    a_fit, b_fit, c_fit = params
+    annotation_x_loc = 50
+    annotation_y_loc = y_fit.min() +(y_fit.max()  - y_fit.min() )/2 
+        # ig.add_scatter(x=df_region['value1'], y=df_region['value2'], mode='markers', name=f'Region {region}')
+
+    fig.add_scatter(x=df_plt[x], 
+                  y=df_plt[y], mode='markers',name=m)
+    fig.add_scatter(x=x_fit, y=y_fit, name=m)
+
+fig.update_layout(
+    template='simple_white',
+    showlegend=False,
+    xaxis=dict(range=[0,50]),
+    xaxis_title='Number of titles watched',
+    yaxis_title='Churn'
+    # annotations=[
+    # dict(
+    #     x=annotation_x_loc,  # x-coordinate for the text
+    #     y=annotation_y_loc,  # y-coordinate for the text
+    #     # text='y= {:.2f} * e^({:.2f} * title_viewed) + {:.2f}'.format(a_fit, b_fit, c_fit),  # the text to display
+    #     showarrow=False,  # disable arrow for the annotation
+    #     xanchor='right',
+    #     font=dict(
+    #         family='Arial',  # specify font family
+    #         size=18,  # specify font size
+    #         color='black'  # specify font color
+    #     )
+    # )
+
+    ) 
+
+    # display(df_i.head())
+    # param_dic[title] = params
+fig.show()
+
+
+# COMMAND ----------
+
+df_plt[x_fit]
+
+# COMMAND ----------
+
+## Plot by tenure 
+
 for m in ['month_1','month_2','month_3']:#df_60_00.tenure_bucket.unique():
     df_plt= df_60_00[df_60_00['tenure_bucket'] == m]
     df_60_t = df_plt.groupby(by=['user_id','is_cancel_vol','sub_month'])[['monthly_title_viewed', 'monthly_hours_viewed']].sum().reset_index()
@@ -313,6 +435,11 @@ for m in ['month_1','month_2','month_3']:#df_60_00.tenure_bucket.unique():
     # slope = get_churn_slope_plot_simple(df_60_s, , params, np.array(med_x))
 
 
+
+# COMMAND ----------
+
+import numpy as np
+-0.014*np.exp(-0.33*2.5)*1
 
 # COMMAND ----------
 

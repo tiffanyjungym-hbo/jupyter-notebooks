@@ -39,6 +39,8 @@ pd.options.display.float_format = '{:,.2f}'.format
 
 # COMMAND ----------
 
+## Nielson data 
+
 # %sql
 # select * from prod_ted_tbstnt_max_share.title_evaluation.nielsen_svod_programs_weekly limit 10
 
@@ -51,6 +53,16 @@ df = pd.read_sql("""
     con)
 
 df.head()
+
+# COMMAND ----------
+
+## Writing databricks table from pandas 
+
+from pyspark.sql import SparkSession
+spark = SparkSession.builder.appName("DataFrame to Table").getOrCreate()
+sdf = spark.createDataFrame(df_decay)
+full_table_name = f"bolt_cus_dev.bronze.cso_pct_vs_decay_pay1_platinum"
+sdf.write.saveAsTable(full_table_name)
 
 # COMMAND ----------
 
